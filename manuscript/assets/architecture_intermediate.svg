@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="569.2" height="530.2" viewBox="0 0 569.2 530.2">
+  <title>DYNAMAP positive symmetric spatial-choice architecture</title>
+  <desc>Shared participant and proposal embeddings yield two squared Euclidean distances. Symmetric distance features enter an eight-by-eight tanh network with a positive softplus output. Its learned multiplier scales the signed distance difference before a sigmoid produces the probability of selecting A.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 8 4 L 0 8 z" fill="#505050"/>
+    </marker>
+  </defs>
+  <style>
+    .box { fill:#fff; stroke:#505050; stroke-width:1; }
+    .wire { fill:none; stroke:#505050; stroke-width:1; }
+    .arrow { fill:none; stroke:#505050; stroke-width:1; marker-end:url(#arrow); }
+    .label { font-family:Arial,Helvetica,sans-serif; font-size:13px; fill:#111; text-anchor:middle; }
+    .small { font-family:Arial,Helvetica,sans-serif; font-size:11px; fill:#333; text-anchor:middle; }
+    .formula { font-family:Arial,Helvetica,sans-serif; font-size:16px; fill:#111; text-anchor:middle; }
+    .bold { font-weight:700; }
+  </style>
+  <rect width="569.2" height="530.2" fill="#fff"/>
+
+  <text x="94" y="22" class="label">Proposal A</text>
+  <text x="284.6" y="22" class="label">Participant u</text>
+  <text x="475.2" y="22" class="label">Proposal B</text>
+  <circle cx="94" cy="45" r="13" class="box"/>
+  <circle cx="284.6" cy="45" r="13" class="box"/>
+  <circle cx="475.2" cy="45" r="13" class="box"/>
+  <text x="94" y="49" class="small">ID</text>
+  <text x="284.6" y="49" class="small">ID</text>
+  <text x="475.2" y="49" class="small">ID</text>
+  <path d="M94 58 V88" class="arrow"/>
+  <path d="M284.6 58 V88" class="arrow"/>
+  <path d="M475.2 58 V88" class="arrow"/>
+
+  <rect x="30" y="89" width="509.2" height="67" rx="3" class="box"/>
+  <text x="284.6" y="109" class="label bold">Learned coordinates (K dimensions)</text>
+  <text x="284.6" y="125" class="small">Separate participant table; one proposal table shared by A and B</text>
+  <text x="94" y="145" class="formula">z<tspan baseline-shift="sub" font-size="11">A</tspan></text>
+  <text x="284.6" y="145" class="formula">z<tspan baseline-shift="sub" font-size="11">u</tspan></text>
+  <text x="475.2" y="145" class="formula">z<tspan baseline-shift="sub" font-size="11">B</tspan></text>
+  <path d="M94 156 V170 H145 V187 M284.6 156 V170 H145 M284.6 170 H424.2 M475.2 156 V170 H424.2 V187" class="wire"/>
+  <path d="M145 170 V187" class="arrow"/>
+  <path d="M424.2 170 V187" class="arrow"/>
+
+  <rect x="30" y="188" width="230" height="52" rx="3" class="box"/>
+  <rect x="309.2" y="188" width="230" height="52" rx="3" class="box"/>
+  <text x="145" y="207" class="small">Squared Euclidean distance</text>
+  <text x="424.2" y="207" class="small">Squared Euclidean distance</text>
+  <text x="145" y="229" class="formula">s<tspan baseline-shift="sub" font-size="11">A</tspan> = ‖z<tspan baseline-shift="sub" font-size="11">u</tspan> − z<tspan baseline-shift="sub" font-size="11">A</tspan>‖²</text>
+  <text x="424.2" y="229" class="formula">s<tspan baseline-shift="sub" font-size="11">B</tspan> = ‖z<tspan baseline-shift="sub" font-size="11">u</tspan> − z<tspan baseline-shift="sub" font-size="11">B</tspan>‖²</text>
+  <path d="M145 240 V256 H424.2 V240" class="wire"/>
+  <path d="M145 256 V276" class="arrow"/>
+  <path d="M424.2 256 V276" class="arrow"/>
+  <text x="284.6" y="250" class="small">s<tspan baseline-shift="sub" font-size="8">A</tspan>, s<tspan baseline-shift="sub" font-size="8">B</tspan></text>
+
+  <rect x="30" y="277" width="230" height="53" rx="3" class="box"/>
+  <text x="145" y="297" class="label bold">Signed difference</text>
+  <text x="145" y="319" class="formula">s<tspan baseline-shift="sub" font-size="11">B</tspan> − s<tspan baseline-shift="sub" font-size="11">A</tspan></text>
+  <rect x="309.2" y="277" width="230" height="65" rx="3" class="box"/>
+  <text x="424.2" y="297" class="label bold">Symmetric features</text>
+  <text x="424.2" y="317" class="small">(s<tspan baseline-shift="sub" font-size="8">A</tspan> + s<tspan baseline-shift="sub" font-size="8">B</tspan>) / (2K)</text>
+  <text x="424.2" y="333" class="small">[(s<tspan baseline-shift="sub" font-size="8">A</tspan> − s<tspan baseline-shift="sub" font-size="8">B</tspan>) / K]²</text>
+  <path d="M424.2 342 V365" class="arrow"/>
+
+  <rect x="309.2" y="366" width="230" height="60" rx="3" class="box"/>
+  <text x="424.2" y="386" class="label bold">Positive learned multiplier</text>
+  <text x="424.2" y="404" class="small">MLP: 8 → 8 tanh units</text>
+  <text x="424.2" y="419" class="small">g = softplus(output) + 10⁻⁶</text>
+  <path d="M145 330 V396 H258" class="arrow"/>
+  <path d="M309.2 396 H290" class="arrow"/>
+  <circle cx="274" cy="396" r="15" class="box"/>
+  <text x="274" y="402" class="formula">×</text>
+  <path d="M274 411 V455" class="arrow"/>
+
+  <rect x="124" y="456" width="300" height="53" rx="3" class="box"/>
+  <text x="274" y="476" class="label bold">Choice probability</text>
+  <text x="274" y="499" class="formula">P(A) = sigmoid[(s<tspan baseline-shift="sub" font-size="11">B</tspan> − s<tspan baseline-shift="sub" font-size="11">A</tspan>) g]</text>
+</svg>

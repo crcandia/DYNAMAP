@@ -1,0 +1,91 @@
+option_id,z1,z2,short_name,name,topic_name,PC1
+1,0.663117,0.46045652,Farmacias,Creación de Farmacias Populares,Salud,0.153069809954553
+2,0.9779094,0.7692931,Marihuana,Legalización de la Marihuana,Salud,0.06691273251108738
+3,0.33105394,0.27427515,Cárcel Cohecho,Cárcel Efectiva para Soborno y Cohecho,Política Criminal,0.12712413126957162
+4,0.545465,0.68518764,Retiro AFP,Retiro Anticipado Fondo de Pensiones,Pensiones,-0.09940489819170009
+5,0.7392703,0.11539124,Más Metro,Crear Nuevas Líneas de Metro,Vivienda y Transporte,0.4835365041100135
+6,0.18535955,0.4718097,Agua,Desprivatización del Agua,Economía,-0.11793935886168747
+7,0.46148545,0.29128605,Sename,Reforma Sename,Política social y ciudadanía,0.18428147096854933
+8,0.49798897,0.1347092,Narcotráfico,Lucha contra el Narcotráfico,Política Criminal,0.3353004379456833
+9,0.7451058,0.63302886,Termoeléctricas,Adelantar Cierre Termoeléctricas,Medio Ambiente,0.053522877024015966
+10,0.74524176,0.26960477,Voto Obligatorio,Voto Obligatorio,Democracia,0.3577447075769995
+11,1.0,0.3680529,Educación RRSS,Educación sobre uso de Redes Sociales,Educación,0.41479983959436384
+12,0.08853665,0.126694,Zonas de Sacrificio,Regulación y Fiscalización de Empresas en Zonas de Sacrificio,Medio Ambiente,0.1178883938957552
+13,0.7885205,0.4905309,Impuesto al Carbono,Aumento de Impuesto al Carbono,Medio Ambiente,0.19654224541443202
+14,0.091348045,1.8264686e-08,Subsidio Luz,Subsidio al precio de la electricidad,Economía,0.22545667627986649
+15,0.041077033,1.4563757e-07,Subsidio Agua,Subsidio al precio del agua,Economía,0.19793997142234018
+16,0.94111645,0.39235675,Bibliotecas,Modernización Bibliotecas,Educación,0.3622292942189602
+17,0.37388113,0.29805562,Salario Profesores,Aumento Salario Profesores,Educación,0.1306645103207859
+18,0.3899645,0.23853867,IVA medicamentos,Reducción IVA a los Medicamentos,Política Tributaria,0.18927735949727692
+19,0.24366346,3.957e-08,IVA libros,Reducción IVA a los libros,Política Tributaria,0.3088288030833523
+20,0.551994,0.012283187,Notarios,Reforma o fin de sistema de Notarios,Modernización del Estado,0.46731849315480245
+21,0.35565934,0.19932085,Dieta Parlamentaria,Reducción Dieta Parlamentaria,Modernización del Estado,0.20332106671048839
+22,0.9371871,0.4416227,Terrenos Fronterizos,Prohibición Compra de Terrenos Fronterizos a Extranjeros,Modernización del Estado,0.3188481311558849
+23,0.1782478,0.60531896,Nueva Constitución,Nueva Constitución para Chile,Modernización del Estado,-0.23356517048776906
+24,0.6204946,0.35555857,Subsidio Vivienda,Subsidio Vivienda,Vivienda y Transporte,0.21752825150898092
+25,0.49213105,0.24718419,Ciencia y Tecnología,Aumentar Inversión en Ciencia y Tecnología a 1% del PIB,Educación,0.23796438176671453
+26,0.7432949,0.4889071,Camara Única,Reducción del Parlamento a una Camara Única,Reforma Congreso,0.17314627801865204
+27,0.86363506,0.449052,Armas de Fuego,Restricción Venta y Uso de Armas de Fuego,Política Criminal,0.27237077434012963
+28,0.71430385,0.2917629,Protección Consumidor,Aumentar la Protección del Consumidor,Economía,0.32226637067038844
+29,1.5861886e-08,2.8885e-08,Matrimonio Igualitario,Matrimonio Igualitario,Política Social y Ciudadanía,0.17545594292596386
+30,0.5031336,0.2807217,Programas Intervención,Programas de Intervención para Niños y Jóvenes de Alto Riesgo,Política Social y Ciudadanía,0.21591945564792575
+31,0.6380609,0.79995054,Fuerzas Armadas,Reforma Fuerzas Armadas,Modernización del Estado,-0.1447655058385051
+32,0.30298433,0.29264808,Cárcel Colusión,Cárcel efectiva para Delitos de Colusión,Política Criminal,0.09638361258271816
+33,0.24181615,0.31068993,Cárcel Impuestos,Cárcel efectiva para Delitos Tributarios (evasión de impuestos),Política Criminal,0.04780317016308419
+34,0.4625287,0.044820387,Reducción Parlamento,Reducción Número de Parlamentarios,Reforma Congreso,0.3911181241318883
+35,0.88663185,0.2825237,Impuestos a vicios,"Aumentar Impuesto al Alcohol, Tabaco, y Comida Chatarra",Política Tributaria,0.42432493648498215
+36,0.83470994,0.29448995,Información Personal,Resguardar y Proteger Información Personal,Política Social y Ciudadanía,0.3858902123981873
+37,0.08392607,0.79335153,Asamblea Constituyente,Asamblea Constituyente,Modernización del Estado,-0.4425569093983732
+38,0.8815131,0.3676344,Custodia Compartida,Custodia compartida de hijos de padres separados,Modernización del Estado,0.35029448406567304
+39,0.47692114,0.25407735,Adulto Mayor,Red de Cuidado Adulto Mayor,Salud,0.2238701639479173
+40,0.42446622,0.8651417,Pueblos Originarios,Reivindicación y Apoyo de Pueblos Originarios,Modernización del Estado,-0.31623786775065765
+41,1.2611372e-07,0.47336575,Litio Estatal,Estatización del Litio,Economía,-0.22070088999855894
+42,0.63687164,0.3660465,Aporte Empleador a AFP,Aporte del Empleador a Fondo de Pensiones,Pensiones,0.21771518705478682
+43,0.017996602,0.14444222,Glaciares,Inviolabilidad de Glaciares,Medio Ambiente,0.06442385503271333
+44,0.8522774,0.33448058,Bicicletas,Inversión infrastructura cicloviaria,Vivienda y Transporte,0.3620381121119465
+45,0.4067104,0.24339354,Contribuciones,Reducción Contribuciones de Adultos Mayores Vulnerables,Política Tributaria,0.19438046979644927
+46,0.36778972,0.2541783,Transporte Tercera Edad,Transporte Público Gratuito para Ciudadanos de la Tercera Edad,Vivienda y Transporte,0.16405094725843403
+47,0.7358681,0.12235998,Bilingüe,Promover Educación Bilingüe (Inglés),Educación,0.47584216238980215
+48,0.7120867,0.2502155,Ficha Médica Digital,Establecer Ficha Médica Digital Universal,Salud,0.3558235464993079
+49,1.0,0.32323715,Venta de Alcohol,"Restringir Venta de Alcohol en Delivery, Supermercados, o por Horario",Salud,0.45230586822664254
+50,0.30432776,2.5955944e-05,Cuoteo Diplomático,Eliminar Cuoteo Político en Posiciones Diplomáticas,Modernización del Estado,0.3420126353678885
+51,0.34948006,0.09498104,Reelección de Alcaldes,"Limitar Reelección de Alcaldes, Parlamentarios y Presidentes",Democracia,0.28726009685960696
+52,0.98947763,0.29044813,Edad de Jubilación,Aumento Edad de Jubilación,Pensiones,0.47398722139717864
+53,0.68399096,0.5147102,Sistema Salud para Electos,Uso Obligatorio de Sistema de Salud Público para Funcionarios Electos,Modernización del Estado,0.1190909126151384
+54,0.8088572,0.49820936,Transbank,Fin al Monopolio de Transbank,Economía,0.20124778906861107
+55,0.32991028,0.33294645,Pensión Mínima,Pensión Mínima Igual o Mayor al Sueldo Mínimo,Pensiones,0.07739647751618658
+56,0.4052761,0.3090803,Seguro Universal,Seguro Universal de Salud,Salud,0.13862253403592004
+57,0.2442137,0.8622716,Derechos Humanos,Investigación Judicial de Violaciones Recientes a los Derechos Humanos,Política Criminal,-0.4124998398372004
+58,0.5115873,0.971442,Retiro FFAA,Retiro de Fuerzas Armadas,Seguridad,-0.3575129024003618
+59,0.58428687,0.8562077,Toque de Queda,Fin de Toque de Queda,Seguridad,-0.22128080902996702
+60,0.59705716,0.21139732,Educación Técnico Profesional,Mejorar Educación Técnico Profesional,Educación,0.3253470878922944
+61,0.58719116,0.21800452,Estructura Productiva,Diversificar la Economía,Economía,0.314417258169668
+62,0.6231308,0.2682901,Aumento de Médicos,Aumento de Cupos en Especialidades Médicas,Salud,0.2920056672530016
+63,0.6176141,0.23191552,Sala Cuna,Acceso Universal a Sala Cuna,Educación,0.31942768291703844
+64,0.44190553,0.24010666,Enfermedades Catastróficas,Creación del Seguro de Enfermedades Catastróficas,Salud,0.2163958260562621
+65,0.6606626,0.21063702,Fonasa Farmacia,Ampliación Convenio Fonasa con Farmacias,Salud,0.36079877731299237
+66,0.36442673,0.11566419,Elección Parlamentarios,Limitar la Reeleción de Parlamentarios y Parlamentarias,Democracia,0.2781317801492623
+67,0.5245623,0.6631121,Participación Directa,Aumentar Instancias de Participación Ciudadana Directa,Democracia,-0.09237142180338989
+68,0.65448755,0.32457384,Fondo Común Municipal,Fortalecimiento del Fondo Común Municipal,Modernización del Estado,0.2620657385981129
+69,0.70715976,0.2650858,Espacios Públicos,Creación de Más y Mejores Espacios Públicos,Política Social y Ciudadanía,0.3406818477823771
+70,0.59160346,0.32552218,Pilar Solidario,Mejorar Aporte del Estado a Pensiones de los Más Necesitados,Pensiones,0.22685152147060134
+71,0.9600867,0.23871005,Periodo Presidencial,Extender Periodo Presidencial a 6 años,Modernización del Estado,0.5011989361322552
+72,1.5510611e-09,1.0,Provincias,Reducir Número de Provincias,Modernización del Estado,-0.661437959328708
+73,9.061789e-09,0.38351837,Ley de Pesca,Derogación Ley de Pesca,Economía,-0.14550822814499906
+74,0.39897552,0.79038876,40 Horas,Reducción de Jornada Laboral a 40 horas,Laboral,-0.2676303068021447
+75,8.297e-08,0.11761402,Cambio de Gabinete,Cambio de Gabinete,Modernización del Estado,0.07702554575276203
+76,0.30645144,0.21648459,Sueldo Altos Funcionarios,Reducción sueldos altos funcionarios públicos,Modernización del Estado,0.16202214924624692
+77,0.027969796,0.08541665,Franquicias tributarias,Eliminación de franquicias tributarias a las ganacias de capital para acciones,Política Tributaria,0.11928097408713542
+78,0.42519358,0.1267333,Sistema Electoral,Eliminación de elección de parlamentarios por arrastre,Democracia,0.3021297631388648
+79,0.96689504,0.36841288,Vías Exclusivas,Más Vías Exclusivas para Buses,Vivienda y Transporte,0.3963780742871148
+80,0.94856864,0.24706535,Autopistas,Más Autopistas Urbanas,Vivienda y Transporte,0.48790185213879733
+81,0.83359843,0.669818,Viviendas Integradas,Integracion de Viviendas Sociales en Edificios Particulares,Vivienda y Transporte,0.0711720480761556
+82,0.81658447,0.6335268,Barrios Integrados,Integración de Viviendas Sociales en Barrios Altos,Vivienda y Transporte,0.09223108448422995
+83,0.9369684,0.43055195,Edad Máxima,Edad Máxima para candidaturas a Cargos Políticos,Modernización del Estado,0.3279934657545412
+84,0.16541052,0.012851928,Libre de Carbono,Chile Libre de Carbono al 2040,Medio Ambiente,0.2552402063188137
+85,0.23640545,0.42805192,Progresividad de Impuestos,Aumentar progresividad de impuestos (más impuestos a Súper Ricos),Política Tributaria,-0.0533779939693696
+86,0.3814126,0.6727685,CAE,Condonación de las deudas del Crédito con Aval del Estado (CAE),Educación,-0.17880795622849385
+87,0.37018803,0.25461584,Sueldo Mínimo,Aumentar el Sueldo Mínimo,Laboral,0.16499752392202757
+88,0.35002434,0.83047754,Plebiscitos Nacionales,Habilitar plebiscitos nacionales.,Democracia,-0.3279745312536364
+89,0.29396904,0.046756446,Autonomía Regional,Entregar más autonomía a las regiones en su gobernanza.,Modernización del Estado,0.2972341704639506
+90,0.3535819,0.23392731,Límite Precio Medicamentos,Limitar Precio o Ganacia de Medicamentos,Salud,0.17322201260806858

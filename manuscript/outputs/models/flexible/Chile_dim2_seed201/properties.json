@@ -1,0 +1,24 @@
+{
+  "country": "Chile",
+  "dimension": 2,
+  "seed": 201,
+  "epochs": 20,
+  "batch_size": 64,
+  "learning_rate": 0.01,
+  "steps_per_execution": 64,
+  "device": "/CPU:0",
+  "architecture": "original_sigmoid_coordinates_shared_exponential_branches",
+  "tensorflow_version": "2.15.1",
+  "python_version": "3.10.13 | packaged by conda-forge | (main, Dec 23 2023, 15:35:25) [Clang 16.0.6 ]",
+  "participants": 47574,
+  "proposals": 90,
+  "included_missing_age": true,
+  "singleton_choice_assigned_to_train": true,
+  "drop_remainder": false,
+  "array_hashes": {
+    "X_train": "3a8f6fe817ee741ae8ff9759ed76c03fea3ccc87ce2b0cc92f4d8d963f4c44f2",
+    "y_train": "a469393b0610f328235566d33c6fd152e48947f5789fbe5a5ca8eb9f61680c31",
+    "X_test": "39b50442261deee80f178c2b6d21c1834c0d5e60bee53057de3b98491ba894a9",
+    "y_test": "7b15ac04759d2287c5932758e0fab5a1f1860441d3bc5e126c233bdfdfa4e7cb"
+  }
+}

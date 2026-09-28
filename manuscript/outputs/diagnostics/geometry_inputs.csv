@@ -1,0 +1,11 @@
+entity,fit,seed,rows,unique_ids
+proposals,S0,101,90,90
+proposals,S1,201,90,90
+proposals,S2,301,90,90
+proposals,S3,401,90,90
+proposals,S4,501,90,90
+participants,S0,101,47574,47574
+participants,S1,201,47574,47574
+participants,S2,301,47574,47574
+participants,S3,401,47574,47574
+participants,S4,501,47574,47574

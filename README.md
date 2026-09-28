@@ -1,3 +1,17 @@
+# DYNAMAP
+
+## Manuscript package: review draft
+
+The proposed manuscript package is in [`manuscript/`](manuscript/README.md). It contains 18 notebooks, fitted models, figures, tables, processed data, and the other source inputs. The original implementation and its documentation remain in place below.
+
+**This review branch is incomplete and must not be merged as a complete replication release yet.** Two large source files, `manuscript/data/raw/chile_choices.csv` and `manuscript/data/raw/france_participation.csv`, are pending Git LFS upload. GitHub currently rejects new LFS objects from this fork. Raw-data preparation cannot be fully rerun from this branch until those files are restored.
+
+The complete local package passed all 18 notebook executions with Python 3.10.13. That validation applies to the complete package, including the two pending files. This branch is for reviewing the code and organization while upstream LFS access is resolved. See the [data guide](manuscript/data/README.md) for the pending file hashes and sizes.
+
+## Original implementation
+
+The original files remain in their existing locations. The documentation below describes that implementation and its Python 3.9 environment.
+
 DYNAMAP Project
 
 This repository contains the DYNAMAP model developed in Python 3.9.16. The following diagram includes only Python files (.py), Jupyter Notebook files (.ipynb), and folders.

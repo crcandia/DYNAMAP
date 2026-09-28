@@ -1,0 +1,4 @@
+Quantity,Correlation,Minimum,Maximum
+Proposal distances,Pearson,0.5011326352977084,0.6290806206192647
+Participant distances,Pearson,0.5798805738727965,0.6897936977357583
+Participant PC1,Absolute Spearman,0.8805886496495386,0.912055898115944

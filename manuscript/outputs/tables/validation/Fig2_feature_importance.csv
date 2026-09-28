@@ -1,0 +1,16 @@
+country,display_feature,rf_input_feature,mean_importance,available
+Chile,Coordinate 1,z2,0.47682318006755564,True
+Chile,Coordinate 2,z1,0.3293789007182014,True
+Chile,Age,age,0.12631635605937225,True
+Chile,Sex,sex,0.014735528645454452,True
+Chile,Region,region,0.052746034509416076,True
+France,Coordinate 1,z1,0.590632062032648,True
+France,Coordinate 2,z2,0.3532010027246047,True
+France,Age,age,0.04276801622102868,True
+France,Sex,sex,0.01339891902171846,True
+France,Region,region,,False
+Brazil,Coordinate 1,z2,0.16240551969964573,True
+Brazil,Coordinate 2,z1,0.6908744123487515,True
+Brazil,Age,age,0.05525691550880594,True
+Brazil,Sex,sex,0.02264670763342535,True
+Brazil,Region,region,0.06881644480937131,True

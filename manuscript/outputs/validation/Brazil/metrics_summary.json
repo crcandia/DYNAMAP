@@ -1,0 +1,156 @@
+{
+  "coordinates": {
+    "features": [
+      "z1",
+      "z2"
+    ],
+    "fold_accuracy_min": 0.8163265306122449,
+    "fold_accuracy_max": 0.9387755102040817,
+    "fold_accuracy_mean": 0.8725714285714286,
+    "oof_accuracy": 0.8727272727272727,
+    "oof_recall_left": 0.9222520107238605,
+    "oof_recall_right": 0.7213114754098361,
+    "oof_auc": 0.9317672394849033,
+    "confusion_counts_left_right": [
+      [
+        344,
+        29
+      ],
+      [
+        34,
+        88
+      ]
+    ],
+    "confusion_row_normalized_left_right": [
+      [
+        0.9222520107238605,
+        0.0777479892761394
+      ],
+      [
+        0.2786885245901639,
+        0.7213114754098361
+      ]
+    ],
+    "mean_feature_importance": {
+      "z1": 0.7639777377918814,
+      "z2": 0.23602226220811867
+    }
+  },
+  "demographics": {
+    "features": [
+      "age",
+      "sex",
+      "region"
+    ],
+    "fold_accuracy_min": 0.64,
+    "fold_accuracy_max": 0.8,
+    "fold_accuracy_mean": 0.737469387755102,
+    "oof_accuracy": 0.7373737373737373,
+    "oof_recall_left": 0.9517426273458445,
+    "oof_recall_right": 0.08196721311475409,
+    "oof_auc": 0.5283039599173736,
+    "confusion_counts_left_right": [
+      [
+        355,
+        18
+      ],
+      [
+        112,
+        10
+      ]
+    ],
+    "confusion_row_normalized_left_right": [
+      [
+        0.9517426273458445,
+        0.04825737265415549
+      ],
+      [
+        0.9180327868852459,
+        0.08196721311475409
+      ]
+    ],
+    "mean_feature_importance": {
+      "age": 0.28573333246585503,
+      "sex": 0.0545025919190288,
+      "region": 0.6597640756151162
+    }
+  },
+  "combined": {
+    "features": [
+      "age",
+      "sex",
+      "region",
+      "z1",
+      "z2"
+    ],
+    "fold_accuracy_min": 0.82,
+    "fold_accuracy_max": 0.96,
+    "fold_accuracy_mean": 0.8888979591836735,
+    "oof_accuracy": 0.8888888888888888,
+    "oof_recall_left": 0.9222520107238605,
+    "oof_recall_right": 0.7868852459016393,
+    "oof_auc": 0.9357667120819232,
+    "confusion_counts_left_right": [
+      [
+        344,
+        29
+      ],
+      [
+        26,
+        96
+      ]
+    ],
+    "confusion_row_normalized_left_right": [
+      [
+        0.9222520107238605,
+        0.0777479892761394
+      ],
+      [
+        0.21311475409836064,
+        0.7868852459016393
+      ]
+    ],
+    "mean_feature_importance": {
+      "age": 0.055256915508806,
+      "sex": 0.0226467076334254,
+      "region": 0.06881644480937135,
+      "z1": 0.6908744123487515,
+      "z2": 0.16240551969964576
+    }
+  },
+  "pc1": {
+    "features": [
+      "PC1"
+    ],
+    "fold_accuracy_min": 0.7551020408163265,
+    "fold_accuracy_max": 0.88,
+    "fold_accuracy_mean": 0.8423265306122449,
+    "oof_accuracy": 0.8424242424242424,
+    "oof_recall_left": 0.8954423592493298,
+    "oof_recall_right": 0.680327868852459,
+    "oof_auc": 0.9185711774271526,
+    "confusion_counts_left_right": [
+      [
+        334,
+        39
+      ],
+      [
+        39,
+        83
+      ]
+    ],
+    "confusion_row_normalized_left_right": [
+      [
+        0.8954423592493298,
+        0.10455764075067024
+      ],
+      [
+        0.319672131147541,
+        0.680327868852459
+      ]
+    ],
+    "mean_feature_importance": {
+      "PC1": 1.0
+    }
+  }
+}

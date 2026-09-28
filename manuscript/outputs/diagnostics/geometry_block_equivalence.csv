@@ -1,0 +1,5 @@
+block_size,entities,pairs,maximum_absolute_error,tolerance,passed
+1,23,253,2.220446049250313e-15,1e-12,True
+7,23,253,1.4432899320127035e-15,1e-12,True
+23,23,253,1.9984014443252818e-15,1e-12,True
+32,23,253,1.9984014443252818e-15,1e-12,True

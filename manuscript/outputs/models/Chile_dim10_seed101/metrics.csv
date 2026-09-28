@@ -1,0 +1,2 @@
+country,dimension,seed,participants,proposals,records,training_records,test_records,test_loss_all_records,test_accuracy_all_records,last_epoch_test_accuracy,singleton_participants_assigned_to_train,seconds
+Chile,10,101,47574,90,2970347,2650103,320244,0.5565584301948547,0.7176684141159058,0.7176684141159058,8,2683.1093966672197

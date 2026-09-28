@@ -1,0 +1,37 @@
+{
+  "country": "france",
+  "n_users": 1443,
+  "n_proposals": 120,
+  "n_records": 1983640,
+  "training_rows": 1784636,
+  "held_out_rows": 199004,
+  "evaluated_held_out_rows": 199004,
+  "singleton_users_in_training": 0,
+  "global_seed": 301,
+  "branch_seed": 301,
+  "embedding_seed": 101,
+  "dimensions": 2,
+  "epochs": 20,
+  "batch_size": 64,
+  "learning_rate": 0.01,
+  "optimizer": "Adamax",
+  "drop_remainder": false,
+  "split": "first 90% within each participant in retained source order; singleton records go to training",
+  "test_loss": 0.7610748410224915,
+  "test_accuracy": 0.6270426511764526,
+  "train_loss": 0.2680782377719879,
+  "train_accuracy": 0.8839768767356873,
+  "fit_seconds": 192.03374624997377,
+  "architecture": "intermediate",
+  "model_configuration": {
+    "variant": "intermediate",
+    "hidden_sizes": [
+      8,
+      8
+    ],
+    "minimum_scale": 1e-06
+  },
+  "checkpoint_selection": "fixed_final_epoch",
+  "tensorflow": "2.15.1",
+  "parameters": 3231
+}

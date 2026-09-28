@@ -1,0 +1,18 @@
+{
+  "country": "Chile",
+  "dimension": 2,
+  "seed": 101,
+  "epochs": 20,
+  "batch_size": 64,
+  "learning_rate": 0.01,
+  "steps_per_execution": 64,
+  "device": "/CPU:0",
+  "architecture": "original_sigmoid_coordinates_shared_exponential_branches",
+  "tensorflow_version": "2.15.1",
+  "python_version": "3.10.13 | packaged by conda-forge | (main, Dec 23 2023, 15:35:25) [Clang 16.0.6 ]",
+  "participants": 47574,
+  "proposals": 90,
+  "included_missing_age": true,
+  "singleton_choice_assigned_to_train": true,
+  "drop_remainder": false
+}

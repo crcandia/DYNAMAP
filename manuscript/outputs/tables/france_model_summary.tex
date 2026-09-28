@@ -1,0 +1,7 @@
+\begin{tabular}{lrrrrrrrrrrrrrrlrlrrrrrllllr}
+\toprule
+country & n_users & n_proposals & n_records & training_rows & held_out_rows & evaluated_held_out_rows & singleton_users_in_training & global_seed & branch_seed & embedding_seed & dimensions & epochs & batch_size & learning_rate & optimizer & drop_remainder & split & test_loss & test_accuracy & train_loss & train_accuracy & fit_seconds & architecture & model_configuration & checkpoint_selection & tensorflow & parameters \\
+\midrule
+france & 1443 & 120 & 1983640 & 1784636 & 199004 & 199004 & 0 & 301 & 301 & 101 & 2 & 20 & 64 & 0.010000 & Adamax & False & first 90% within each participant in retained source order; singleton records go to training & 0.761075 & 0.627043 & 0.268078 & 0.883977 & 192.033746 & intermediate & {'variant': 'intermediate', 'hidden_sizes': [8, 8], 'minimum_scale': 1e-06} & fixed_final_epoch & 2.15.1 & 3231 \\
+\bottomrule
+\end{tabular}

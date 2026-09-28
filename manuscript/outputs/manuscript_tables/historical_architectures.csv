@@ -1,0 +1,7 @@
+Architecture,Choice parameters,Accuracy (%)
+Embedding + simple NOM-type head,6,65.47231078147888
+Embedding + MLP (512/64/4 units),36681,50.51305890083313
+"Structured head (8 units, 4 per alternative)",20,67.85353422164917
+"Structured head (20 units, 10 per alternative)",44,68.86268854141235
+NOM-DENSE + dense layers,61,68.88163685798645
+Single embedding table + structured head (8 units),20,66.94554090499878

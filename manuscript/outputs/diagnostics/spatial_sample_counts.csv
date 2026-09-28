@@ -1,0 +1,6 @@
+country,analysis,linked_binary_rows,eligible_unique_ids,conflicting_ids_excluded,retained_ids,left,right
+Chile,overall,25075,22071,28,22043,12473,9570
+France,overall,852,813,0,813,668,145
+Brazil,overall,535,499,0,499,377,122
+Chile,sex,25075,22071,37,22034,12467,9567
+Chile,cohort,25075,22071,28,22043,12473,9570

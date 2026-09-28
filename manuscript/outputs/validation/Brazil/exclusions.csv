@@ -1,0 +1,5 @@
+participant_id,conflicting_fields,missing_fields,eligibility_fields
+adac3794-d0c1-4303-ab1b-aa79aec47a0b,,,sex_not_in_codes_1_2
+0795ecd3-c623-464d-be92-f969664a6e11,,,sex_not_in_codes_1_2
+3ba8a75e-1711-4c96-8c9b-7888e70fcdca,,,sex_not_in_codes_1_2
+97752f8e-da1b-4963-b44f-b31c68635dda,,,sex_not_in_codes_1_2

@@ -1,0 +1,12 @@
+\begin{tabular}{p{8.8cm}rr}
+\toprule
+Architecture & Choice parameters & Accuracy (\%) \\
+\midrule
+Embedding + simple NOM-type head & 6 & 65.47 \\
+Embedding + MLP (512/64/4 units) & 36681 & 50.51 \\
+Structured head (8 units, 4 per alternative) & 20 & 67.85 \\
+Structured head (20 units, 10 per alternative) & 44 & 68.86 \\
+NOM-DENSE + dense layers & 61 & 68.88 \\
+Single embedding table + structured head (8 units) & 20 & 66.95 \\
+\bottomrule
+\end{tabular}

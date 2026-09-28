@@ -1,0 +1,18 @@
+# Tested with Python 3.10 on CPU.
+# Notebook 11 also needs the system tool rsvg-convert, documented in README.md.
+tensorflow==2.15.1
+keras==2.15.0
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.13.1
+scikit-learn==1.7.2
+matplotlib==3.9.4
+seaborn==0.13.2
+PyMuPDF==1.28.0
+pyarrow==25.0.1
+trueskill==0.4.5
+numba==0.60.0
+ipykernel==6.31.0
+ipython==8.37.0
+Jinja2==3.1.6
+jupyterlab>=4.4.9,<4.6

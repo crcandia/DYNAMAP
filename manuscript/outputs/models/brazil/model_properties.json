@@ -1,0 +1,37 @@
+{
+  "country": "brazil",
+  "n_users": 765,
+  "n_proposals": 67,
+  "n_records": 163803,
+  "training_rows": 147106,
+  "held_out_rows": 16697,
+  "evaluated_held_out_rows": 16697,
+  "singleton_users_in_training": 2,
+  "global_seed": 101,
+  "branch_seed": 101,
+  "embedding_seed": 101,
+  "dimensions": 2,
+  "epochs": 20,
+  "batch_size": 64,
+  "learning_rate": 0.01,
+  "optimizer": "Adamax",
+  "drop_remainder": false,
+  "split": "first 90% within each participant in retained source order; singleton records go to training",
+  "test_loss": 0.7431223392486572,
+  "test_accuracy": 0.6292148232460022,
+  "train_loss": 0.275662362575531,
+  "train_accuracy": 0.8780335187911987,
+  "fit_seconds": 17.44180866703391,
+  "architecture": "intermediate",
+  "model_configuration": {
+    "variant": "intermediate",
+    "hidden_sizes": [
+      8,
+      8
+    ],
+    "minimum_scale": 1e-06
+  },
+  "checkpoint_selection": "fixed_final_epoch",
+  "tensorflow": "2.15.1",
+  "parameters": 1769
+}

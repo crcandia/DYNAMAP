@@ -1,0 +1,13 @@
+{
+  "dimension": 2,
+  "embedding_seed": 101,
+  "hidden_sizes": [
+    8,
+    8
+  ],
+  "minimum_scale": 1e-06,
+  "n_options": 67,
+  "n_users": 765,
+  "seed": 101,
+  "variant": "intermediate"
+}

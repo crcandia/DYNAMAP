@@ -1,0 +1,221 @@
+id	short_name	name	topic_name
+1	Farmacias	Creación de Farmacias Populares	Salud
+2	Marihuana	Legalización de la Marihuana	Salud
+3	Cárcel Cohecho	Cárcel Efectiva para Soborno y Cohecho	Política Criminal
+4	Retiro AFP	Retiro Anticipado Fondo de Pensiones	Pensiones
+5	Más Metro	Crear Nuevas Líneas de Metro	Vivienda y Transporte
+6	Agua	Desprivatización del Agua	Economía
+7	Sename	Reforma Sename	Política social y ciudadanía
+8	Narcotráfico	Lucha contra el Narcotráfico	Política Criminal
+9	Termoeléctricas	Adelantar Cierre Termoeléctricas	Medio Ambiente
+10	Voto Obligatorio	Voto Obligatorio	Democracia
+11	Educación RRSS	Educación sobre uso de Redes Sociales	Educación
+12	Zonas de Sacrificio	Regulación y Fiscalización de Empresas en Zonas de Sacrificio	Medio Ambiente
+13	Impuesto al Carbono	Aumento de Impuesto al Carbono	Medio Ambiente
+14	Subsidio Luz	Subsidio al precio de la electricidad	Economía
+15	Subsidio Agua	Subsidio al precio del agua	Economía
+16	Bibliotecas	Modernización Bibliotecas	Educación
+17	Salario Profesores	Aumento Salario Profesores	Educación
+18	IVA medicamentos	Reducción IVA a los Medicamentos	Política Tributaria
+19	IVA libros	Reducción IVA a los libros	Política Tributaria
+20	Notarios	Reforma o fin de sistema de Notarios	Modernización del Estado
+21	Dieta Parlamentaria	Reducción Dieta Parlamentaria	Modernización del Estado
+22	Terrenos Fronterizos	Prohibición Compra de Terrenos Fronterizos a Extranjeros	Modernización del Estado
+23	Nueva Constitución	Nueva Constitución para Chile	Modernización del Estado
+24	Subsidio Vivienda	Subsidio Vivienda	Vivienda y Transporte
+25	Ciencia y Tecnología	Aumentar Inversión en Ciencia y Tecnología a 1% del PIB	Educación
+26	Camara Única	Reducción del Parlamento a una Camara Única	Reforma Congreso
+27	Armas de Fuego	Restricción Venta y Uso de Armas de Fuego	Política Criminal
+28	Protección Consumidor	Aumentar la Protección del Consumidor	Economía
+29	Matrimonio Igualitario	Matrimonio Igualitario	Política Social y Ciudadanía
+30	Programas Intervención	Programas de Intervención para Niños y Jóvenes de Alto Riesgo	Política Social y Ciudadanía
+31	Fuerzas Armadas	Reforma Fuerzas Armadas	Modernización del Estado
+32	Cárcel Colusión	Cárcel efectiva para Delitos de Colusión	Política Criminal
+33	Cárcel Impuestos	Cárcel efectiva para Delitos Tributarios (evasión de impuestos)	Política Criminal
+34	Reducción Parlamento	Reducción Número de Parlamentarios	Reforma Congreso
+35	Impuestos a vicios	Aumentar Impuesto al Alcohol, Tabaco, y Comida Chatarra	Política Tributaria
+36	Información Personal	Resguardar y Proteger Información Personal	Política Social y Ciudadanía
+37	Asamblea Constituyente	Asamblea Constituyente	Modernización del Estado
+38	Custodia Compartida	Custodia compartida de hijos de padres separados	Modernización del Estado
+39	Adulto Mayor	Red de Cuidado Adulto Mayor	Salud
+40	Pueblos Originarios	Reivindicación y Apoyo de Pueblos Originarios	Modernización del Estado
+41	Litio Estatal	Estatización del Litio	Economía
+42	Aporte Empleador a AFP	Aporte del Empleador a Fondo de Pensiones	Pensiones
+43	Glaciares	Inviolabilidad de Glaciares	Medio Ambiente
+44	Bicicletas	Inversión infrastructura cicloviaria	Vivienda y Transporte
+45	Contribuciones	Reducción Contribuciones de Adultos Mayores Vulnerables	Política Tributaria
+46	Transporte Tercera Edad	Transporte Público Gratuito para Ciudadanos de la Tercera Edad	Vivienda y Transporte
+47	Bilingüe	Promover Educación Bilingüe (Inglés)	Educación
+48	Ficha Médica Digital	Establecer Ficha Médica Digital Universal	Salud
+49	Venta de Alcohol	Restringir Venta de Alcohol en Delivery, Supermercados, o por Horario	Salud
+50	Cuoteo Diplomático	Eliminar Cuoteo Político en Posiciones Diplomáticas	Modernización del Estado
+51	Reelección de Alcaldes	Limitar Reelección de Alcaldes, Parlamentarios y Presidentes	Democracia
+52	Edad de Jubilación	Aumento Edad de Jubilación	Pensiones
+53	Sistema Salud para Electos	Uso Obligatorio de Sistema de Salud Público para Funcionarios Electos	Modernización del Estado
+54	Transbank	Fin al Monopolio de Transbank	Economía
+55	Pensión Mínima	Pensión Mínima Igual o Mayor al Sueldo Mínimo	Pensiones
+56	Seguro Universal	Seguro Universal de Salud	Salud
+57	Derechos Humanos	Investigación Judicial de Violaciones Recientes a los Derechos Humanos	Política Criminal
+58	Retiro FFAA	Retiro de Fuerzas Armadas	Seguridad
+59	Toque de Queda	Fin de Toque de Queda	Seguridad
+60	Educación Técnico Profesional	Mejorar Educación Técnico Profesional	Educación
+61	Estructura Productiva	Diversificar la Economía	Economía
+62	Aumento de Médicos	Aumento de Cupos en Especialidades Médicas	Salud
+63	Sala Cuna	Acceso Universal a Sala Cuna	Educación
+64	Enfermedades Catastróficas	Creación del Seguro de Enfermedades Catastróficas	Salud
+65	Fonasa Farmacia	Ampliación Convenio Fonasa con Farmacias	Salud
+66	Elección Parlamentarios	Limitar la Reeleción de Parlamentarios y Parlamentarias	Democracia
+67	Participación Directa	Aumentar Instancias de Participación Ciudadana Directa	Democracia
+68	Fondo Común Municipal	Fortalecimiento del Fondo Común Municipal	Modernización del Estado
+69	Espacios Públicos	Creación de Más y Mejores Espacios Públicos	Política Social y Ciudadanía
+70	Pilar Solidario	Mejorar Aporte del Estado a Pensiones de los Más Necesitados	Pensiones
+71	Periodo Presidencial	Extender Periodo Presidencial a 6 años	Modernización del Estado
+72	Provincias	Reducir Número de Provincias	Modernización del Estado
+73	Ley de Pesca	Derogación Ley de Pesca	Economía
+74	40 Horas	Reducción de Jornada Laboral a 40 horas	Laboral
+75	Cambio de Gabinete	Cambio de Gabinete	Modernización del Estado
+76	Sueldo Altos Funcionarios	Reducción sueldos altos funcionarios públicos	Modernización del Estado
+77	Franquicias tributarias	Eliminación de franquicias tributarias a las ganacias de capital para acciones	Política Tributaria
+78	Sistema Electoral	Eliminación de elección de parlamentarios por arrastre	Democracia
+79	Vías Exclusivas	Más Vías Exclusivas para Buses	Vivienda y Transporte
+80	Autopistas	Más Autopistas Urbanas	Vivienda y Transporte
+81	Viviendas Integradas	Integracion de Viviendas Sociales en Edificios Particulares	Vivienda y Transporte
+82	Barrios Integrados	Integración de Viviendas Sociales en Barrios Altos	Vivienda y Transporte
+83	Edad Máxima	Edad Máxima para candidaturas a Cargos Políticos	Modernización del Estado
+84	Libre de Carbono	Chile Libre de Carbono al 2040	Medio Ambiente
+85	Progresividad de Impuestos	Aumentar progresividad de impuestos (más impuestos a Súper Ricos)	Política Tributaria
+86	CAE	Condonación de las deudas del Crédito con Aval del Estado (CAE)	Educación
+87	Sueldo Mínimo	Aumentar el Sueldo Mínimo	Laboral
+88	Plebiscitos Nacionales	Habilitar plebiscitos nacionales.	Democracia
+89	Autonomía Regional	Entregar más autonomía a las regiones en su gobernanza.	Modernización del Estado
+90	Límite Precio Medicamentos	Limitar Precio o Ganacia de Medicamentos	Salud
+91	Autodeterminación Pueblos Originarios	Autodeterminación Pueblos Originarios	Modernización del Estado
+92	Canasta básica sin IVA	Canasta básica de alimentos sin IVA	Política Tributaria
+93	Retiro Parcial AFP	Retiro de partes de los fondos de AFP a media vida laboral.	Pensiones
+94	Transparencia fondos Corfo	Transparencia y responsabilidad pública para la asignación de fondos de Corfo.	Modernización del Estado
+95	Micro parques comunales	Micro parques comunales. Más áreas verdes para todos.	Vivienda y Transporte
+96	AFP como banco popular	Que AFP presten dinero con interés mínimo	Pensiones
+97	Evitar aprobación de proyecto de ley del TPP-11	Evitar aprobación del tratado TPP-11	Economía
+98	Acuerdo de Escazú	Ratificar participación de Chile en Acuerdo de Escazú sobre medioambiente	Medio Ambiente
+99	Regresar el Congreso a Santiago	Regresar el Congreso a Santiago	Reforma Congreso
+100	Pago progresivo de contribuciones	Pago progresivo de contribuciones a individuos con más de una propiedad	Política Tributaria
+101	Estandarización de sueldos	Estandarización de sueldos profesionales según antigüedad y estudios.	Laboral
+102	Eliminar Pre-Existencia	Eliminar obstáculos y castigos con las enfermedades pre-existentes en Isapres	Salud
+103	Aborto libre	Legalizar el aborto	Política Social y Ciudadanía
+104	Fin sueldo vitalicio	Que se termine el sueldo vitalicio a los ex presidentes de la República	Modernización del Estado
+105	Sistema Parlamentario	Cambio a un sistema parlamentario o semipresidencial	Reforma Congreso
+106	CAE sin intereses	CAE sin intereses	Educación
+107	Peajes y TAG	Disminuir Precio de Peajes y TAG	Política Social y Ciudadanía
+108	Bajar años AFP	Reducir el cálculo de jubilación en las AFP que ahora es de 110 años	Pensiones
+109	Educación Inclusiva	Educación Inclusiva para personas con discapacidad	Educación
+110	Derechos Discapacidad	Fiscalizar Derechos de Personas con Discapacidad	Salud
+111	Estado en Empresas Sociales	Participación del Estado (49%) en empresas de agua, educación, salud, energía, territorio..etc	Economía
+112	IVA diferenciado	IVA diferenciado para productos básicos, transporte, medicinas, alimentos, libros.	Política Tributaria
+113	Herencia AFP	Ahorro heredable en sistema de pensiones	Pensiones
+114	Modernización ferrocarriles	Inversión del Estado en un Sistema de Ferrocarriles moderno con cobertura regional y urbana.	Vivienda y Transporte
+115	Chile Federal	Chile como país federal, con territorios autogobernados.	Modernización del Estado
+116	Sueldo Políticos y Mínimo	Fijar el sueldo de los políticos como una proporción del sueldo mínimo	Modernización del Estado
+117	Exámenes de drogas	Exámenes periódicos de drogas a miembros del poder ejecutivo, legislativo y judicial	Modernización del Estado
+118	Sueldo Mínimo Europeo	Equiparar gradualmente salario mínimo a países europeos con PIB similar al nuestro	Laboral
+119	Retiro enfermo terminales	Poder realizar retiro parcial o total de fondos de AFP para enfermos terminales	Pensiones
+120	Pase mensual	Pase mensual de transporte con precio fijo y número de viajes ilimitado	Vivienda y Transporte
+121	Igualar plan de salud	Igualar plan de salud de isapre entre hombres y mujeres	Salud
+122	Correos de Chile	Reestructuración completa del sistema de Correos de Chile	Modernización del Estado
+123	Aumento del Post Natal	Post Natal de 1 año	Laboral
+124	Diferencia sueldo	Tope porcentual a diferencia salarial dentro de empresas	Laboral
+125	Sueldo mínimo diferenciado	Establecer sueldos mínimos diferenciados según empresas o Industrias	Laboral
+126	Combustibles	Eliminar impuesto combustible	Política Tributaria
+127	Incluir deudas en vulnerabilidad	Incluir deudas (e.g. hipotecas, cae) en el análisis y registro de hogares vulnerables.	Política Social y Ciudadanía
+128	Rebaja del IVA, aumento impuesto a la Renta	Rebaja del IVA a un 10%, compensado con un aumento al impuesto a las rentas	Política Tributaria
+129	Reinvertir en Isapres	Reinvertir utilidad generada por las Isapres en el sistema para mejorar acceso a salud de las personas	Pensiones
+130	Deudas universitarias	Condonación de Fondo solidario	Educación
+131	Deuda docentes	Pagar la deuda histórica de docentes	Educación
+132	Operadores Políticos	Eliminar cargos de operadores políticos en el gobierno	Modernización del Estado
+133	Contratación del Estado	Modificación de los contratos en el Estado (no más honorarios)	Modernización del Estado
+134	Elección de Ministros	Elección de ministros y subsecretarios	Democracia
+135	ANI y sistema de inteligencia	Reestructurar ANI y sistema de inteligencia	Modernización del Estado
+136	Inmigración	Regular o restringir inmigración	Política Social y Ciudadanía
+137	Reelección cargos populares	Reelección cargo popular solo por periodos definidos	Democracia
+138	Requisitos parlamentarios	Aumento requisitos parlamentarios incluyendo nivel de educación y experiencia laboral	Reforma Congreso
+139	Cohecho y Soborno	Agravamiento de penas por delito de cohecho o soborno	Modernización del Estado
+140	Trabajo de los presos	Penas productivas para reos con capacidad de trabajo	Política Criminal
+141	Pensiones y FFAA	Eliminación de sistema previsional diferenciado en FFAA	Pensiones
+142	AFP del Estado	Creación de AFP estatal	Pensiones
+143	Salud mental	Creación de un plan nacional de salud mental	Salud
+144	Asunción de pérdidas por AFP	AFPs deben asumir las pérdidas derivadas de su administración de fondos.	Pensiones
+145	No más AFP	Eliminar el sistema de AFP	Pensiones
+146	Vuelta al sistema original AFP 1980	Volver al sistema original de AFP como fue dictado en 1980	Pensiones
+147	Pensión por discapacidad	Equiparar pensión por discapacidad al sueldo mínimo	Pensiones
+148	PYMES	Subsidio o redución de impuestos para PYMES	Política Tributaria
+149	Bomberos	Sueldo a bomberos	Economía
+150	Igualdad de sueldos	Igualdad de sueldos para misma función	Economía
+151	Ciencia y Tecnología	Regularizar condiciones laborales de trabajadores de ciencia y tecnología	Economía
+152	Eliminación impuesto específico a combustibles	Eliminación impuesto específico a combustibles	Política Tributaria
+153	Ley de autismo	Creación Ley de Autismo	Modernización del Estado
+154	Cárcel	Cárcel efectiva para los encapuchados	Política criminal
+155	Educación gratuita	Educación gratuita para todos los niveles educacionales	Educación
+156	Educación cívica	Educación cívica en Educación Media	Educación
+157	Educación Financiera	Educación financiera en Educación Media	Educación
+158	Parlamentarios	Reducción de sueldos y eliminación de asignaciones parlamentarias	Modernización del Estado
+159	Tren	Trenes interregionales e interurbanos	Vivienda y Transporte
+160	Política vivienda	Regulación de precios de viviendas	Vivienda y Transporte
+161	DICOM	Eliminar DICOM	Economía
+162	Sistema de reparto y pensiones	Volver al sistema de reparto de pensiones	Pensiones
+163	Plebiscitos medioambientales	Plebiscitos obligatorios y vinculantes para el desarrollo de proyectos contaminantes	Democracia
+164	Jueces y fiscales electos	Jueces y fiscales deben ser electos.	Democracia
+165	Alcalde áreas metropolitanas	Elección de alcaldes áreas metropolitanas.	Democracia
+166	A pesar de que son legales las donaciones para campañas políticas, estas ejercen precisión al legislador al momento de votar	Eliminar el financiamiento de campañas políticas por parte de privados. Debe ser responsabilidad del Estado en entregar tribuna equitativa a los candidatos.	Democracia
+167	Fiscalización Ciudadana de Tránsito	Permitir la cursación de multas por correo a automovilistas que han transgredido la ley.	Vivienda y Transporte
+168	Gobernantes de Clase Media	Se propone que para optar a cargos de elección popular, no se pertenezca ni al estrato 10% más rico, ni al 10% más pobre.	Democracia
+169	Multas Proporcionales a Riqueza	Se propone que todas las multas por incumplimientos a la ley, no sean a valor fijo, sino como porcentaje del sueldo del sancionado.	Política criminal
+170	TVN con Directorio Electo Popularmente	Directorio de canal estatal TVN sea electo popularmente.	Política social y ciudadanía
+171	Ombudsman (Defensor del Pueblo)	"Se propone la creación de la figura del Ombudsman (""Defensor del Pueblo"")"	Democracia
+172	Clausura de empresas ante infracciones reiteradas	 Empresas que sean sancionadas por la Justicia reiteradamente por la misma falta, sean clausuradas.	Economía
+173	Brazaletes de seguimiento por Sospecha	Actualmente se usan brazaletes de seguimiento a personas condenadas por la justicia para ciertos delitos.	Política Criminal
+174	Fin a la independencia del Director de Obras	Poner fin a la independencia del Director de Obras en Municipalidades.	Modernización del Estado
+175	Autonomía para Isla de Pascua	 Que Isla de Pascua no dependa más de la Región de Valparaíso, sino que sea un territorio especial con alta autonomía administrativa y financiera.	Modernización del Estado
+176	Servicio Militar o Trabajos Comunitarios	Posibilidad de elegir entre servicio militar o trabajos comunitarios para quienes no trabajan ni estudian.	Política social y ciudadanía
+177	Mayor presupuesto en industria y desarrollo.	Destinar más presupuesto a industria y desarrollo.	Economía
+178	Horas al médico en la tarde con incentivos.	Atención de médicos del sistema público en la tarde, incentivándolos a ello (reducción de impuestos, etc.).	Salud
+179	Ley de Vocación Política	Establecer el pre requisito de haber ocupado cargos de elección popular de menor jerarquía para poder postular a aquellos de mayor jerarquía.	Democracia
+180	Valor agregado a exportación de materia prima	Creación de valor agregado en exportaciones de materia prima, generando incentivos para I+D.	Economía
+181	Homologación de Educación superior al acuerdo de Bolonia	Reestructuración de los programas curriculares de la educación técnica y universitaria, de acuerdo al acuerdo de Bolonia	Educación
+182	Limitación cupos carreras universitarias	Limitación de cupos para carreras universitarias según necesidades del país.	Educación
+183	Economía ecológica regenerativa	Reintegrar a la sociedad con la naturaleza, definiendo nuevos significados de desarrollo, progreso y felicidad con una mirada cualitativa, comunitaria, valórica, creativa y espiritual.	Educación
+184	Lenguaje de Señas como ramo obligatorio	Impartir Lenguaje de señas obligatorio en los colegios	Educación
+185	Un seguro cesantía mixto	Durante los primeros 120 días de cesantía, congelar los compromisos hipotecarios y comerciales del trabajador, impidiendo la mora, intereses y cobros durante ese periodo.	Laboral
+186	Energías Renovables	Mayor inversión en Energías Limpias	Medio Ambiente
+187	Exigir 95% asistencia de parlamentarios	Exigir 95% asistencia de parlamentarios a todas sus sesiones. Tres atrasos equivale a una inasistencia.	Modernización del Estado
+188	Restitución de tierras de acuerdo a los planos originales de los Títulos de Merced	La restitución de tierras de acuerdo a los planos originales de los Títulos de Merced y las tierras mapuches se declaren inajenables (volver a la Ley Indígena de Allende)	Modernización del Estado
+189	Instituto Nacional de Estadísticas (INE) independiente	Que el Instituto Nacional de Estadísticas (INE) pase a ser un órgano independiente.	Modernización del Estado
+190	Presupuestos Participativos municipales	Una parte del presupuesto municipal debe, obligatoriamente, distribuirse de la manera que la ciudadanía define por votación directa	Modernización del Estado
+191	Transparencia en Licitaciones	Terminar con la restricción de acceso a la información en licitaciones públicas.	Modernización del Estado
+192	Fondo apoyo a PYME	Fondo para las personas que han fracasado con su pyme	Modernización del Estado
+193	Aporte de Gestión PROBONO de Empresas a Servicios Públicos	Mejorar ineficiencia del servicio público mediante el apoyo de empresas que puedan ofrecer PROBONO, soluciones a problemas de gestión, conocimiento y tecnología.	Modernización del Estado
+194	Fortalecimiento capacidad fiscalizadora Estado	Fortalecimiento en capacidad fiscalizadora del Estado, especialmente en servicios básicos. Control efectivo y sanciones acorde a la falta	Modernización del Estado
+195	Crear una AFP tipo Cooperativa (controlada por la superintendencia), en que sean dueños todos los que imponen en ella.	Crear una AFP tipo Cooperativa (controlada por la superintendencia), en que sean dueños todos los que imponen en ella. Inversiones en servicios públicos (carreteras, puertos, etc.) contribuiría a evitar evasión.	Pensiones
+196	Bono de 1 millón de pesos a cada nacido en Cuenta de AFP	Bono de $1.000.000 para cuenta individual de AFP, a cada recién nacido	Pensiones
+197	Libre circulación	Trabajo comunitario para menores y padres que alteren el orden público, y prisión efectiva para adultos que promuevan/participen	Política Criminal
+198	Potenciar filantropía y aportes de privados a la cultura	Perfeccionar sistema de subsidios indirectos a la cultura	Política Social y Ciudadanía
+199	Simplificación de procesos de adopción	Simplificación de los procesos de adopción para evitar que los niños terminen en el SENAME	Política Social y Ciudadanía
+200	Religión ecuménica y nueva.	En base a las experiencias religiosas en el país, debatir y crear una religión ecuménica o nueva.	Política Social y Ciudadanía
+201	Restringir contenidos de internet	Restringir contenidos de internet según perjudiquen a la sociedad.	Política Social y Ciudadanía
+202	Impuesto a las Transacciones Financieras (ITF)	Impuesto a las Transacciones Financieras (ITF)	Política Tributaria
+203	Hacer pública la información tributaria	Hacer pública la información tributaria, de manera que todos podamos saber el sueldo y patrimonio de cualquier ciudadano (sistema Noruego).	Política Tributaria
+204	Voto digital de ciudadanos en congreso	Uso de tecnologías para que ciudadanos se enteren de las leyes y voten por medio de la app y que sea efectivo en parlamento	Reforma Congreso
+205	Aranceles Fonasa para Tratamientos Dentales	Incluir en los Aranceles Fonasa los tratamientos Dentales	Salud
+206	Licencia post-natal o permiso parental obligatorio para padres (hombres)	Licencia post-natal o permiso parental obligatorio para padres (hombres)	Salud
+207	Rebajar precio de comida saludable	Rebaja en precio de alimentos de alta calidad nutricional, además establecer estrategias de publicidad para estos alimentos	Salud
+208	Sistema de salud de pagador único	Implementar sistema de pagador único	Salud
+209	Transporte público eléctrico libre de emisiones contaminantes y ruido	Transporte público eléctrico libre de emisiones contaminantes y ruido	Vivienda y Transporte
+210	Sistema de transporte integrado en regiones	Sistema de trasporte integrado para regiones con planes mensuales o anuales, sin límite de viajes	Vivienda y Transporte
+211	Tarifa del Transporte	Tarifa única de movilización en transporte público que incluya todos los medios de transporte con tarifas diferenciadas.	Vivienda y Transporte
+212	Tarificación por Congestión	Imponer pago a autos que deseen entrar al centro y financiar transporte público con ello.	Vivienda y Transporte
+213	Restricción Vehicular Transable	Derecho de circulación transable, según interés del dueño del auto, en días de restricción vehicular.	Vivienda y Transporte
+214	Cuotas de Edificios de Altura	Fijación de un número fijo de edificios de altura (“torres”) que un Director de Obra municipal puede autorizar dentro de un periodo alcaldicio por parte del concejo municipal.	Vivienda y Transporte
+215	Estandarización valor de viviendas	Estandarización de los valores de las viviendas y planes de construcción.	Vivienda y Transporte
+216	Transporte marítimo estatal	Asegurar el transporte marítimo, del sur de Chile, con una empresa del Estado.	Vivienda y Transporte
+217	Financiamiento campañas políticas	Modificación de ley electoral y financiamiento de campañas políticas.	Democracia
+218	Creación de un diccionario constitucional	Creación de un Diccionario Constitucional virtual para permitir la comprensión de estos temas por parte de toda la población.	Educación
+219	Policías Municipales	Creación de Policías Municipales, eliminando Carabineros de Chile.	Modernización del Estado
+220	Refundación de Carabineros de Chile	Disolución y refundación de Carabineros de Chile	Modernización del Estado

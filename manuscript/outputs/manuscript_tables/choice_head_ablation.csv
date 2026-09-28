@@ -1,0 +1,8 @@
+Quantity,Flexible head,Positive symmetric head
+Choice parameters,20,105
+"Main-fit accuracy (seed 101, %)",69.45,68.10
+Mean accuracy across five seeds (%),68.71,68.39
+Accuracy range across five seeds (%),68.07--69.45,68.10--68.65
+Participant distances (Pearson),0.17--0.63,0.58--0.69
+Proposal distances (Pearson),-0.12--0.43,0.50--0.63
+Participant PC1 (absolute Spearman),0.01--0.83,0.88--0.91

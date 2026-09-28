@@ -1,0 +1,4 @@
+country,map_participants,binary_label_ids_before_cleaning,excluded_from_common_sample,common_sample,left,right
+Chile,47574,22071,47,22024,12462,9562
+France,1443,813,25,788,644,144
+Brazil,765,499,4,495,373,122

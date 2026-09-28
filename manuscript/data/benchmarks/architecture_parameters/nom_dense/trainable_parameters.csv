@@ -1,0 +1,9 @@
+tensor,shape,parameters
+Variable:0,"(220, 2)",440
+Variable:0,"(94260, 2)",188520
+Variable:0,"(4, 8)",32
+Variable:0,"(1, 8)",8
+dense/kernel:0,"(8, 2)",16
+dense/bias:0,"(2,)",2
+dense_1/kernel:0,"(2, 1)",2
+dense_1/bias:0,"(1,)",1

@@ -1,0 +1,7 @@
+country,analysis,n,left,right,conflicting_ids_excluded
+Chile,binary overall,22043,12473,9570,28
+France,binary overall,813,668,145,0
+Brazil,binary overall,499,377,122,0
+Chile,All left / right,22043,12473,9570,28
+Chile,Scores 0–2 / 8–10,9112,5903,3209,267
+Chile,Scores 0–1 / 9–10,4254,2688,1566,267
