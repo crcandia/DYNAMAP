@@ -1,12 +1,12 @@
 # DYNAMAP
 
-## Manuscript package: review draft
+## Manuscript replication package
 
-The proposed manuscript package is in [`manuscript/`](manuscript/README.md). It contains 18 notebooks, fitted models, figures, tables, processed data, and the other source inputs. The original implementation and its documentation remain in place below.
+The current manuscript package is in [`manuscript/`](manuscript/README.md). It contains 18 independently executable notebooks, the source and processed data, fitted models, and the figures and tables used in the manuscript. Start with its [README](manuscript/README.md) and [data guide](manuscript/data/README.md).
 
-**This review branch is incomplete and must not be merged as a complete replication release yet.** Two large source files, `manuscript/data/raw/chile_choices.csv` and `manuscript/data/raw/france_participation.csv`, are pending Git LFS upload. GitHub currently rejects new LFS objects from this fork. Raw-data preparation cannot be fully rerun from this branch until those files are restored.
+This package uses **Python 3.10** and its own [`requirements.txt`](manuscript/requirements.txt). Run its notebooks from `manuscript/` or `manuscript/notebooks/`. They display live figures and tables and save the generated outputs. The included models can be reevaluated without retraining.
 
-The complete local package passed all 18 notebook executions with Python 3.10.13. That validation applies to the complete package, including the two pending files. This branch is for reviewing the code and organization while upstream LFS access is resolved. See the [data guide](manuscript/data/README.md) for the pending file hashes and sizes.
+The two large source CSV files use Git LFS. Install Git LFS, run `git lfs install`, and run `git lfs pull` after cloning. Keep the package folder structure intact.
 
 ## Original implementation
 

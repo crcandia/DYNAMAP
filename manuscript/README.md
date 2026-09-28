@@ -1,8 +1,6 @@
-> **Review draft: two raw inputs are pending.** `data/raw/chile_choices.csv` and `data/raw/france_participation.csv` are not included in this branch because GitHub rejects new LFS uploads from the public fork. Raw-data preparation cannot be fully rerun until both files are restored. Do not merge this draft as a complete replication release. The execution checks described for the release used the complete local package. The [data guide](data/README.md) records the expected files.
-
 # DYNAMAP
 
-The notebooks show their calculations, figures and tables directly. This review branch includes the fitted models and intermediate data, but notebooks 02 and 03 cannot complete Run All until the two pending raw CSV files are restored. In the complete package, each notebook can start in a fresh kernel without running the others first. Its opening section names the inputs it reads and the notebook that regenerates them.
+Open a notebook, run its cells and inspect the results. The data and fitted models used in the manuscript are included, so each notebook can start in a fresh kernel without running the others first. Its opening section names the inputs it reads and the notebook that regenerates them.
 
 ## Start
 
@@ -16,7 +14,7 @@ python -m ipykernel install --user --name dynamap-release --display-name "DYNAMA
 python -m jupyterlab
 ```
 
-Start with notebook 12 or 15 in `notebooks/`, select the **DYNAMAP (release)** kernel, and choose **Restart Kernel and Run All Cells**. Notebooks 02 and 03 require the pending raw files. The kernel registration above points to the active virtual environment, so Jupyter opened from another environment can use the same dependencies. Parameters and input paths are near the top. Figures appear inline and are saved as PDF. Tables appear as dataframes and are saved as CSV and, where used in the manuscript, LaTeX.
+Open a file in `notebooks/`, select the **DYNAMAP (release)** kernel, and choose **Restart Kernel and Run All Cells**. The kernel registration above points to the active virtual environment, so Jupyter opened from another environment can use the same dependencies. Parameters and input paths are near the top. Figures appear inline and are saved as PDF. Tables appear as dataframes and are saved as CSV and, where used in the manuscript, LaTeX.
 
 If you already have a Python 3.10 environment, activate it, install `requirements.txt`, and select that environment’s kernel in Jupyter. The requirements support JupyterLab 4.4 and 4.5. Restart any running kernel after installing dependencies.
 
@@ -51,7 +49,7 @@ For a first look, start with 12 or 15. Notebook 05 refits the classification for
 
 ## Explore or retrain
 
-After restoring the pending inputs for 02 and 03, the complete package supports the following workflow. In 02–04 and 04b, `REFIT = False` loads the supplied weights, reevaluates choices and regenerates coordinates and plots. Change it to `True` to train using the code visible in that notebook. Full training can take hours. It overwrites the selected model's outputs, so use a copy of the folder if you want to retain the manuscript fits.
+In 02–04 and 04b, `REFIT = False` loads the supplied weights, reevaluates choices and regenerates coordinates and plots. Change it to `True` to train using the code visible in that notebook. Full training can take hours. It overwrites the selected model's outputs, so use a copy of the folder if you want to retain the manuscript fits.
 
 The model settings are ordinary notebook variables:
 
@@ -67,7 +65,7 @@ A saved model's `model_specification.json` records how its weights must be recon
 
 ## Files and dependencies
 
-- `data/raw/` holds the available source observations and reference inputs. The two pending files are listed above. Notebooks never overwrite source inputs.
+- `data/raw/` holds the supplied observations and reference inputs. Notebooks never overwrite them.
 - `data/processed/` holds generated samples, splits, rankings and plotting inputs.
 - `data/benchmarks/` holds supplied optimizer, architecture and ideal-point benchmark results. Their numerical inputs remain unchanged.
 - `outputs/models/` and `outputs/validation/` hold fitted weights and external-validation results.
@@ -83,7 +81,7 @@ All three country maps were fitted separately. Their distances do not define a c
 
 The five flexible-head fits are supplied in `outputs/models/flexible/Chile_dim2_seed*`, including weights, coordinates, metrics, history and model properties. Notebook 04b reloads these fits and reevaluates every held-out choice. With `REFIT = True`, it trains them from the included first-cycle comparisons and partition using the same settings as the positive symmetric fits in 02 and 04. The two specifications are fitted separately.
 
-Notebook 14b calculates correlations from the flexible-head coordinates using every distinct participant/proposal pair in float64, in memory-bounded blocks. It also recalculates participant PC1 rank correlations. Its outputs and the prediction metrics from 04b are in `outputs/ablation/flexible/`. The corresponding positive symmetric results are generated by 02/04 and 14. Notebook 18 reads these included outputs and assembles the comparison without refitting. After restoring the pending Chilean raw file, regenerate the full ablation by running 02 and 04, 04b, 14 and 14b, then 18. The complete package supplies the inputs needed to execute each notebook independently.
+Notebook 14b calculates correlations from the flexible-head coordinates using every distinct participant/proposal pair in float64, in memory-bounded blocks. It also recalculates participant PC1 rank correlations. Its outputs and the prediction metrics from 04b are in `outputs/ablation/flexible/`. The corresponding positive symmetric results are generated by 02/04 and 14. Notebook 18 reads these included outputs and assembles the comparison without refitting. To regenerate the full ablation, run 02 and 04, 04b, 14 and 14b, then 18. Each notebook remains independently readable and executable with its supplied inputs.
 
 ## Locate figures and tables by content
 
@@ -91,10 +89,10 @@ The notebook guide identifies analyses by content. Existing numerical-output fil
 
 ## Data included for sharing
 
-This review branch includes the processed analytical data, fitted results and source observations other than the two pending CSV files. The authors confirm that the source datasets are public. The [data guide](data/README.md) documents their provenance and variables. The two pending raw files are deliberately absent from this review commit. They remain in the complete local package and are not excluded by the local-notes ignore rule.
+The source observations, processed analytical data and fitted results are included with this replication package. The authors confirm that the source datasets are public. The [data guide](data/README.md) documents their provenance and variables. No raw-data files are excluded from Git by the local-notes ignore rule.
 
 ## GitHub and large data files
 
-The included `.gitattributes` is prepared to track `data/raw/chile_choices.csv` and `data/raw/france_participation.csv` with Git LFS. They exceed GitHub's ordinary per-file limit. Install Git LFS and run `git lfs install` before adding this folder to the new manuscript branch. Commit the attributes with the files and check `git lfs ls-files` before pushing. The repository must have sufficient LFS storage and bandwidth. No public upload is performed by the notebooks.
+The included `.gitattributes` tracks `data/raw/chile_choices.csv` and `data/raw/france_participation.csv` with Git LFS. They exceed GitHub's ordinary per-file limit. Install Git LFS and run `git lfs install` before adding this folder to the new manuscript branch. Commit the attributes with the files and check `git lfs ls-files` before pushing. The repository must have sufficient LFS storage and bandwidth. No public upload is performed by the notebooks.
 
-Once the two files have been added to the repository through Git LFS, run `git lfs pull` after cloning. That command cannot retrieve them from this draft, where they have not been committed or uploaded. Keep the folder structure intact and open notebooks individually in JupyterLab. There is no runner or global configuration file. The `model_specification.json` files are required saved-model metadata, not an additional workflow to configure.
+After cloning a branch containing this release, run `git lfs pull` from the repository. Keep the folder structure intact and open notebooks individually in JupyterLab. There is no runner or global configuration file. The `model_specification.json` files are required saved-model metadata, not an additional workflow to configure.
