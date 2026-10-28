@@ -1,0 +1,51 @@
+{
+  "n_boot": 2000,
+  "seed": 20261013,
+  "grid_size": 200,
+  "kernel": "Gaussian",
+  "bandwidth": "Scott covariance fixed within each group/side",
+  "bandwidth_multipliers": [
+    0.8,
+    1.0,
+    1.25
+  ],
+  "fixed_embeddings": true,
+  "interpretation": "pointwise conditional bootstrap percentile intervals, not population-mode or embedding uncertainty",
+  "numpy": "1.26.4",
+  "pandas": "2.3.3",
+  "scipy": "1.13.1",
+  "input_hashes": {
+    "Chile_overall_participants.csv": {
+      "sha256": "318c2751c3ce8f7bf5ebd0ca967f0f03b70a326dfb2006288b7c1cb47320e720",
+      "source": "outputs/tables/spatial/Chile_overall_participants.csv"
+    },
+    "Chile_sex_participants.csv": {
+      "sha256": "a806b0565358fef4ed37ba548ea5418fc72de7cfe9a4467d78f7b26636fcc678",
+      "source": "outputs/tables/spatial/Chile_sex_participants.csv"
+    },
+    "Chile_cohort_participants.csv": {
+      "sha256": "b6a1f8bfd94c6cd18ec6bb71528158aec5802b721d415a0b87722c2efe3bf786",
+      "source": "outputs/tables/spatial/Chile_cohort_participants.csv"
+    },
+    "separation_summaries.csv": {
+      "sha256": "ffeda7c69ad2982c02b9c9c4d7aa5e1d56ecce3fc55759961f728c3f823e0e26",
+      "source": "outputs/tables/spatial/separation_summaries.csv"
+    }
+  },
+  "outputs": {
+    "bandwidth_sensitivity.csv": "0645d600ec01efd9747bdc05deb1914ee8a077719680e78011e68d139f8fcc8c",
+    "bootstrap_replicates.csv": "e91e364982bce540f0cff14810919dae79262bc9c695eeeb930f739711053573",
+    "fig4_with_conditional_intervals.pdf": "92c5da127f90df434b1adb4183327c4186224fff99726e1ce758663c0c67984e",
+    "fig4_with_conditional_intervals.png": "0033d96aed8b1876c6c8e26b1d2353e446634c84cfde2dcf64e73a3189b18fca",
+    "numerical_diagnostics.csv": "49ddd7634b11a6a1f0ed8e4e8d98a76717bfb2e413082e037b72c13d93a9671a",
+    "peak_location_clouds.pdf": "3171d0ff518569cb76b473dbda635f2d271b578f6244ff6119de8e16ccf93f89",
+    "peak_location_clouds.png": "470bc3e3aff6be7fbfba2917b0fb278db0b4051b223046f311356d5189749154",
+    "peak_location_intervals.csv": "7854fc6c19aac462f6ef8b8304209a09b1eb3ad7aa1c6922ad723589c9fc7ebf",
+    "planned_contrasts.csv": "7255d7ac961c6edada64091dd01afd6c8dba355d83fd0ff4be1f066fb167149b",
+    "sample_counts.csv": "e17823313707591aaf5c8172fef2fac0aedf09726978a982f53190909a9a617f",
+    "separation_intervals.csv": "6282e0ff70b89f6c812eda0296d20cb545bbe333244720e5a8612c86d8f3d01f",
+    "separation_intervals.pdf": "aacc546934a0a2c4033e63c9001d64c680fe2da059b4c38d50cde9c82e7d2181",
+    "separation_intervals.png": "28a7049fd91481519a13730cd91e352d6bd63cadadf5187830525e8298a02300",
+    "verification.csv": "e5f255e5312f84eee1aa14c04adc0f9e3671bca398f905a4f09ac97a6f259945"
+  }
+}

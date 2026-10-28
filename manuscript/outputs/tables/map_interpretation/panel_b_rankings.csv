@@ -1,0 +1,19 @@
+seed,membership,phase,sector,proposal_id,mean_rank,n_people,figure_number,role,figure_label
+101,Fixed 101 sectors,confirmation,Near,37,2.857827476038339,626,1,Focal,Constituent assembly
+101,Fixed 101 sectors,confirmation,Near,55,14.793929712460065,626,6,Shared,Minimum pension at least the minimum wage
+101,Fixed 101 sectors,confirmation,Near,57,4.2492012779552715,626,3,Near-distinctive,Investigate recent human-rights violations
+101,Fixed 101 sectors,confirmation,Near,66,46.11661341853035,626,5,Far-distinctive,Limit parliamentary reelection
+101,Fixed 101 sectors,confirmation,Near,72,13.062300319488818,626,2,Near-distinctive,Reduce number of provinces
+101,Fixed 101 sectors,confirmation,Near,78,49.10702875399361,626,4,Far-distinctive,End coattail-based election of legislators
+101,Fixed 101 sectors,confirmation,Middle,37,21.649122807017545,627,1,Focal,Constituent assembly
+101,Fixed 101 sectors,confirmation,Middle,55,9.441786283891547,627,6,Shared,Minimum pension at least the minimum wage
+101,Fixed 101 sectors,confirmation,Middle,57,24.636363636363637,627,3,Near-distinctive,Investigate recent human-rights violations
+101,Fixed 101 sectors,confirmation,Middle,66,40.85964912280702,627,5,Far-distinctive,Limit parliamentary reelection
+101,Fixed 101 sectors,confirmation,Middle,72,52.81658692185008,627,2,Near-distinctive,Reduce number of provinces
+101,Fixed 101 sectors,confirmation,Middle,78,43.30622009569378,627,4,Far-distinctive,End coattail-based election of legislators
+101,Fixed 101 sectors,confirmation,Far,37,68.66936790923825,617,1,Focal,Constituent assembly
+101,Fixed 101 sectors,confirmation,Far,55,13.097244732576986,617,6,Shared,Minimum pension at least the minimum wage
+101,Fixed 101 sectors,confirmation,Far,57,68.19935170178282,617,3,Near-distinctive,Investigate recent human-rights violations
+101,Fixed 101 sectors,confirmation,Far,66,30.41491085899514,617,5,Far-distinctive,Limit parliamentary reelection
+101,Fixed 101 sectors,confirmation,Far,72,85.85899513776337,617,2,Near-distinctive,Reduce number of provinces
+101,Fixed 101 sectors,confirmation,Far,78,30.102106969205835,617,4,Far-distinctive,End coattail-based election of legislators

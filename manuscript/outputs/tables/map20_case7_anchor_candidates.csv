@@ -1,0 +1,91 @@
+proposal_id,median_rank_iqr,near_people,far_people,shared_opponents,proposal,eligible
+86,32.0,53,66,24,Condonación de las deudas del Crédito con Aval del Estado (CAE),True
+6,31.75,58,80,32,Desprivatización del Agua,True
+85,31.0,78,79,36,Aumentar progresividad de impuestos (más impuestos a Súper Ricos),True
+41,30.75,82,68,34,Estatización del Litio,True
+12,30.0,91,56,34,Regulación y Fiscalización de Empresas en Zonas de Sacrificio,True
+4,29.75,36,90,26,Retiro Anticipado Fondo de Pensiones,True
+23,28.0,62,80,26,Nueva Constitución para Chile,True
+33,28.0,86,76,42,Cárcel efectiva para Delitos Tributarios (evasión de impuestos),True
+32,27.0,76,77,34,Cárcel efectiva para Delitos de Colusión,True
+42,27.0,37,94,20,Aporte del Empleador a Fondo de Pensiones,True
+73,27.0,74,72,32,Derogación Ley de Pesca,True
+77,27.0,75,50,28,Eliminación de franquicias tributarias a las ganacias de capital para acciones,True
+1,25.75,58,93,38,Creación de Farmacias Populares,True
+5,25.0,91,73,41,Crear Nuevas Líneas de Metro,True
+10,25.0,72,86,31,Voto Obligatorio,True
+19,25.0,96,60,35,Reducción IVA a los libros,True
+48,25.0,71,73,33,Establecer Ficha Médica Digital Universal,True
+50,25.0,105,60,38,Eliminar Cuoteo Político en Posiciones Diplomáticas,True
+55,25.0,82,66,29,Pensión Mínima Igual o Mayor al Sueldo Mínimo,True
+63,25.0,68,74,34,Acceso Universal a Sala Cuna,True
+65,25.0,76,75,30,Ampliación Convenio Fonasa con Farmacias,True
+69,25.0,82,64,36,Creación de Más y Mejores Espacios Públicos,True
+75,25.0,88,59,28,Cambio de Gabinete,True
+14,24.0,110,51,28,Subsidio al precio de la electricidad,True
+15,24.0,82,58,28,Subsidio al precio del agua,True
+28,24.0,83,69,37,Aumentar la Protección del Consumidor,True
+44,24.0,70,76,39,Inversión infrastructura cicloviaria,True
+47,24.0,91,65,36,Promover Educación Bilingüe (Inglés),True
+54,24.0,55,65,21,Fin al Monopolio de Transbank,True
+20,23.0,111,61,42,Reforma o fin de sistema de Notarios,True
+27,23.0,60,82,31,Restricción Venta y Uso de Armas de Fuego,True
+43,23.0,89,66,35,Inviolabilidad de Glaciares,True
+60,23.0,82,75,35,Mejorar Educación Técnico Profesional,True
+62,23.0,84,67,35,Aumento de Cupos en Especialidades Médicas,True
+74,23.0,66,95,40,Reducción de Jornada Laboral a 40 horas,True
+76,23.0,94,83,40,Reducción sueldos altos funcionarios públicos,True
+84,23.0,91,64,35,Chile Libre de Carbono al 2040,True
+89,23.0,91,58,27,Entregar más autonomía a las regiones en su gobernanza.,True
+3,22.0,72,81,37,Cárcel Efectiva para Soborno y Cohecho,True
+53,22.0,51,81,31,Uso Obligatorio de Sistema de Salud Público para Funcionarios Electos,True
+61,22.0,89,62,32,Diversificar la Economía,True
+67,22.0,62,102,32,Aumentar Instancias de Participación Ciudadana Directa,True
+68,22.0,57,84,29,Fortalecimiento del Fondo Común Municipal,True
+83,22.0,65,82,32,Edad Máxima para candidaturas a Cargos Políticos,True
+13,21.0,67,87,32,Aumento de Impuesto al Carbono,True
+34,21.0,115,70,49,Reducción Número de Parlamentarios,True
+35,21.0,72,90,38,"Aumentar Impuesto al Alcohol, Tabaco, y Comida Chatarra",True
+71,21.0,81,64,37,Extender Periodo Presidencial a 6 años,True
+79,21.0,59,81,25,Más Vías Exclusivas para Buses,True
+88,21.0,53,94,32,Habilitar plebiscitos nacionales.,True
+87,20.75,93,73,30,Aumentar el Sueldo Mínimo,True
+8,20.0,93,57,34,Lucha contra el Narcotráfico,True
+21,20.0,94,60,40,Reducción Dieta Parlamentaria,True
+36,20.0,71,78,35,Resguardar y Proteger Información Personal,True
+38,20.0,72,80,39,Custodia compartida de hijos de padres separados,True
+51,20.0,112,64,36,"Limitar Reelección de Alcaldes, Parlamentarios y Presidentes",True
+52,20.0,83,74,42,Aumento Edad de Jubilación,True
+66,20.0,101,76,42,Limitar la Reeleción de Parlamentarios y Parlamentarias,True
+80,20.0,55,72,33,Más Autopistas Urbanas,True
+16,19.0,66,78,31,Modernización Bibliotecas,True
+24,19.0,58,96,29,Subsidio Vivienda,True
+26,19.0,49,95,28,Reducción del Parlamento a una Camara Única,True
+70,19.0,65,74,28,Mejorar Aporte del Estado a Pensiones de los Más Necesitados,True
+78,19.0,102,67,37,Eliminación de elección de parlamentarios por arrastre,True
+81,19.0,38,75,23,Integracion de Viviendas Sociales en Edificios Particulares,True
+82,19.0,46,80,26,Integración de Viviendas Sociales en Barrios Altos,True
+17,18.0,71,78,33,Aumento Salario Profesores,True
+49,18.0,58,70,32,"Restringir Venta de Alcohol en Delivery, Supermercados, o por Horario",True
+90,18.0,88,62,33,Limitar Precio o Ganacia de Medicamentos,True
+2,17.0,46,87,28,Legalización de la Marihuana,True
+11,17.0,69,68,28,Educación sobre uso de Redes Sociales,True
+25,17.0,77,70,38,Aumentar Inversión en Ciencia y Tecnología a 1% del PIB,True
+29,17.0,87,56,28,Matrimonio Igualitario,True
+31,17.0,53,117,32,Reforma Fuerzas Armadas,True
+46,17.0,103,70,36,Transporte Público Gratuito para Ciudadanos de la Tercera Edad,True
+9,16.75,59,104,38,Adelantar Cierre Termoeléctricas,True
+22,16.0,54,87,37,Prohibición Compra de Terrenos Fronterizos a Extranjeros,True
+30,16.0,72,89,45,Programas de Intervención para Niños y Jóvenes de Alto Riesgo,True
+37,16.0,64,80,28,Asamblea Constituyente,True
+39,16.0,82,73,36,Red de Cuidado Adulto Mayor,True
+40,16.0,52,96,34,Reivindicación y Apoyo de Pueblos Originarios,True
+7,15.0,85,73,33,Reforma Sename,True
+18,15.0,77,69,34,Reducción IVA a los Medicamentos,True
+57,15.0,52,102,31,Investigación Judicial de Violaciones Recientes a los Derechos Humanos,True
+45,14.0,79,64,34,Reducción Contribuciones de Adultos Mayores Vulnerables,True
+56,14.0,74,73,35,Seguro Universal de Salud,True
+64,14.0,83,76,41,Creación del Seguro de Enfermedades Catastróficas,True
+59,12.0,53,100,34,Fin de Toque de Queda,True
+72,11.0,52,78,32,Reducir Número de Provincias,True
+58,6.0,55,87,31,Retiro de Fuerzas Armadas,True

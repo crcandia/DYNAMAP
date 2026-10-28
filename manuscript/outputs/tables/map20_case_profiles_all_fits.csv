@@ -1,0 +1,721 @@
+self_placement,seed,membership,phase,sector,proposal_id,mean_rank,people
+3,101,Fixed 101 sectors,discovery,Near,37,2.898026315789474,608
+3,101,Fixed 101 sectors,discovery,Near,72,12.942434210526315,608
+3,101,Fixed 101 sectors,discovery,Near,57,4.2055921052631575,608
+3,101,Fixed 101 sectors,discovery,Near,78,49.15625,608
+3,101,Fixed 101 sectors,discovery,Near,66,46.27138157894737,608
+3,101,Fixed 101 sectors,discovery,Near,55,14.723684210526315,608
+3,101,Fixed 101 sectors,discovery,Middle,37,21.16282894736842,608
+3,101,Fixed 101 sectors,discovery,Middle,72,52.78453947368421,608
+3,101,Fixed 101 sectors,discovery,Middle,57,25.148026315789473,608
+3,101,Fixed 101 sectors,discovery,Middle,78,42.44901315789474,608
+3,101,Fixed 101 sectors,discovery,Middle,66,39.625,608
+3,101,Fixed 101 sectors,discovery,Middle,55,9.026315789473685,608
+3,101,Fixed 101 sectors,discovery,Far,37,66.42857142857143,609
+3,101,Fixed 101 sectors,discovery,Far,72,85.07224958949097,609
+3,101,Fixed 101 sectors,discovery,Far,57,67.33497536945812,609
+3,101,Fixed 101 sectors,discovery,Far,78,29.295566502463053,609
+3,101,Fixed 101 sectors,discovery,Far,66,28.655172413793103,609
+3,101,Fixed 101 sectors,discovery,Far,55,12.35960591133005,609
+3,101,Fixed 101 sectors,confirmation,Near,37,2.857827476038339,626
+3,101,Fixed 101 sectors,confirmation,Near,72,13.062300319488818,626
+3,101,Fixed 101 sectors,confirmation,Near,57,4.2492012779552715,626
+3,101,Fixed 101 sectors,confirmation,Near,78,49.10702875399361,626
+3,101,Fixed 101 sectors,confirmation,Near,66,46.11661341853035,626
+3,101,Fixed 101 sectors,confirmation,Near,55,14.793929712460065,626
+3,101,Fixed 101 sectors,confirmation,Middle,37,21.649122807017545,627
+3,101,Fixed 101 sectors,confirmation,Middle,72,52.81658692185008,627
+3,101,Fixed 101 sectors,confirmation,Middle,57,24.636363636363637,627
+3,101,Fixed 101 sectors,confirmation,Middle,78,43.30622009569378,627
+3,101,Fixed 101 sectors,confirmation,Middle,66,40.85964912280702,627
+3,101,Fixed 101 sectors,confirmation,Middle,55,9.441786283891547,627
+3,101,Fixed 101 sectors,confirmation,Far,37,68.66936790923825,617
+3,101,Fixed 101 sectors,confirmation,Far,72,85.85899513776337,617
+3,101,Fixed 101 sectors,confirmation,Far,57,68.19935170178282,617
+3,101,Fixed 101 sectors,confirmation,Far,78,30.102106969205835,617
+3,101,Fixed 101 sectors,confirmation,Far,66,30.41491085899514,617
+3,101,Fixed 101 sectors,confirmation,Far,55,13.097244732576986,617
+3,101,Seed-specific sectors,discovery,Near,37,2.898026315789474,608
+3,101,Seed-specific sectors,discovery,Near,72,12.942434210526315,608
+3,101,Seed-specific sectors,discovery,Near,57,4.2055921052631575,608
+3,101,Seed-specific sectors,discovery,Near,78,49.15625,608
+3,101,Seed-specific sectors,discovery,Near,66,46.27138157894737,608
+3,101,Seed-specific sectors,discovery,Near,55,14.723684210526315,608
+3,101,Seed-specific sectors,discovery,Middle,37,21.16282894736842,608
+3,101,Seed-specific sectors,discovery,Middle,72,52.78453947368421,608
+3,101,Seed-specific sectors,discovery,Middle,57,25.148026315789473,608
+3,101,Seed-specific sectors,discovery,Middle,78,42.44901315789474,608
+3,101,Seed-specific sectors,discovery,Middle,66,39.625,608
+3,101,Seed-specific sectors,discovery,Middle,55,9.026315789473685,608
+3,101,Seed-specific sectors,discovery,Far,37,66.42857142857143,609
+3,101,Seed-specific sectors,discovery,Far,72,85.07224958949097,609
+3,101,Seed-specific sectors,discovery,Far,57,67.33497536945812,609
+3,101,Seed-specific sectors,discovery,Far,78,29.295566502463053,609
+3,101,Seed-specific sectors,discovery,Far,66,28.655172413793103,609
+3,101,Seed-specific sectors,discovery,Far,55,12.35960591133005,609
+3,101,Seed-specific sectors,confirmation,Near,37,2.857827476038339,626
+3,101,Seed-specific sectors,confirmation,Near,72,13.062300319488818,626
+3,101,Seed-specific sectors,confirmation,Near,57,4.2492012779552715,626
+3,101,Seed-specific sectors,confirmation,Near,78,49.10702875399361,626
+3,101,Seed-specific sectors,confirmation,Near,66,46.11661341853035,626
+3,101,Seed-specific sectors,confirmation,Near,55,14.793929712460065,626
+3,101,Seed-specific sectors,confirmation,Middle,37,21.649122807017545,627
+3,101,Seed-specific sectors,confirmation,Middle,72,52.81658692185008,627
+3,101,Seed-specific sectors,confirmation,Middle,57,24.636363636363637,627
+3,101,Seed-specific sectors,confirmation,Middle,78,43.30622009569378,627
+3,101,Seed-specific sectors,confirmation,Middle,66,40.85964912280702,627
+3,101,Seed-specific sectors,confirmation,Middle,55,9.441786283891547,627
+3,101,Seed-specific sectors,confirmation,Far,37,68.66936790923825,617
+3,101,Seed-specific sectors,confirmation,Far,72,85.85899513776337,617
+3,101,Seed-specific sectors,confirmation,Far,57,68.19935170178282,617
+3,101,Seed-specific sectors,confirmation,Far,78,30.102106969205835,617
+3,101,Seed-specific sectors,confirmation,Far,66,30.41491085899514,617
+3,101,Seed-specific sectors,confirmation,Far,55,13.097244732576986,617
+3,201,Fixed 101 sectors,discovery,Near,37,5.069078947368421,608
+3,201,Fixed 101 sectors,discovery,Near,72,88.96710526315789,608
+3,201,Fixed 101 sectors,discovery,Near,57,8.90625,608
+3,201,Fixed 101 sectors,discovery,Near,78,42.80427631578947,608
+3,201,Fixed 101 sectors,discovery,Near,66,44.74013157894737,608
+3,201,Fixed 101 sectors,discovery,Near,55,9.824013157894736,608
+3,201,Fixed 101 sectors,discovery,Middle,37,19.71546052631579,608
+3,201,Fixed 101 sectors,discovery,Middle,72,88.20065789473684,608
+3,201,Fixed 101 sectors,discovery,Middle,57,24.94078947368421,608
+3,201,Fixed 101 sectors,discovery,Middle,78,38.30263157894737,608
+3,201,Fixed 101 sectors,discovery,Middle,66,40.0296052631579,608
+3,201,Fixed 101 sectors,discovery,Middle,55,8.116776315789474,608
+3,201,Fixed 101 sectors,discovery,Far,37,57.82101806239737,609
+3,201,Fixed 101 sectors,discovery,Far,72,85.44334975369458,609
+3,201,Fixed 101 sectors,discovery,Far,57,56.86863711001642,609
+3,201,Fixed 101 sectors,discovery,Far,78,29.469622331691298,609
+3,201,Fixed 101 sectors,discovery,Far,66,31.796387520525453,609
+3,201,Fixed 101 sectors,discovery,Far,55,10.064039408866995,609
+3,201,Fixed 101 sectors,confirmation,Near,37,6.138977635782748,626
+3,201,Fixed 101 sectors,confirmation,Near,72,88.80191693290735,626
+3,201,Fixed 101 sectors,confirmation,Near,57,9.56709265175719,626
+3,201,Fixed 101 sectors,confirmation,Near,78,42.90255591054313,626
+3,201,Fixed 101 sectors,confirmation,Near,66,44.84504792332268,626
+3,201,Fixed 101 sectors,confirmation,Near,55,9.94888178913738,626
+3,201,Fixed 101 sectors,confirmation,Middle,37,23.01116427432217,627
+3,201,Fixed 101 sectors,confirmation,Middle,72,88.06539074960128,627
+3,201,Fixed 101 sectors,confirmation,Middle,57,27.669856459330145,627
+3,201,Fixed 101 sectors,confirmation,Middle,78,37.54066985645933,627
+3,201,Fixed 101 sectors,confirmation,Middle,66,39.218500797448165,627
+3,201,Fixed 101 sectors,confirmation,Middle,55,7.811802232854864,627
+3,201,Fixed 101 sectors,confirmation,Far,37,57.6871961102107,617
+3,201,Fixed 101 sectors,confirmation,Far,72,84.69205834683954,617
+3,201,Fixed 101 sectors,confirmation,Far,57,56.26094003241491,617
+3,201,Fixed 101 sectors,confirmation,Far,78,30.051863857374393,617
+3,201,Fixed 101 sectors,confirmation,Far,66,32.19935170178282,617
+3,201,Fixed 101 sectors,confirmation,Far,55,11.13776337115073,617
+3,201,Seed-specific sectors,discovery,Near,37,1.4844006568144499,609
+3,201,Seed-specific sectors,discovery,Near,72,89.82758620689656,609
+3,201,Seed-specific sectors,discovery,Near,57,5.275862068965517,609
+3,201,Seed-specific sectors,discovery,Near,78,42.566502463054185,609
+3,201,Seed-specific sectors,discovery,Near,66,44.64367816091954,609
+3,201,Seed-specific sectors,discovery,Near,55,9.361247947454844,609
+3,201,Seed-specific sectors,discovery,Middle,37,13.392092257001648,607
+3,201,Seed-specific sectors,discovery,Middle,72,88.32619439868205,607
+3,201,Seed-specific sectors,discovery,Middle,57,20.771004942339374,607
+3,201,Seed-specific sectors,discovery,Middle,78,39.9505766062603,607
+3,201,Seed-specific sectors,discovery,Middle,66,41.67380560131796,607
+3,201,Seed-specific sectors,discovery,Middle,55,8.233937397034596,607
+3,201,Seed-specific sectors,discovery,Far,37,67.73234811165845,609
+3,201,Seed-specific sectors,discovery,Far,72,84.45648604269294,609
+3,201,Seed-specific sectors,discovery,Far,57,64.68144499178982,609
+3,201,Seed-specific sectors,discovery,Far,78,28.057471264367816,609
+3,201,Seed-specific sectors,discovery,Far,66,30.246305418719214,609
+3,201,Seed-specific sectors,discovery,Far,55,10.407224958949097,609
+3,201,Seed-specific sectors,confirmation,Near,37,1.4288194444444444,576
+3,201,Seed-specific sectors,confirmation,Near,72,89.85416666666667,576
+3,201,Seed-specific sectors,confirmation,Near,57,5.189236111111111,576
+3,201,Seed-specific sectors,confirmation,Near,78,42.55902777777778,576
+3,201,Seed-specific sectors,confirmation,Near,66,44.69965277777778,576
+3,201,Seed-specific sectors,confirmation,Near,55,9.380208333333334,576
+3,201,Seed-specific sectors,confirmation,Middle,37,13.163636363636364,605
+3,201,Seed-specific sectors,confirmation,Middle,72,88.4198347107438,605
+3,201,Seed-specific sectors,confirmation,Middle,57,20.859504132231404,605
+3,201,Seed-specific sectors,confirmation,Middle,78,40.03305785123967,605
+3,201,Seed-specific sectors,confirmation,Middle,66,41.63636363636363,605
+3,201,Seed-specific sectors,confirmation,Middle,55,8.24793388429752,605
+3,201,Seed-specific sectors,confirmation,Far,37,65.42380261248186,689
+3,201,Seed-specific sectors,confirmation,Far,72,83.90711175616836,689
+3,201,Seed-specific sectors,confirmation,Far,57,61.599419448476056,689
+3,201,Seed-specific sectors,confirmation,Far,78,29.322206095791003,689
+3,201,Seed-specific sectors,confirmation,Far,66,31.339622641509433,689
+3,201,Seed-specific sectors,confirmation,Far,55,11.037735849056604,689
+3,301,Fixed 101 sectors,discovery,Near,37,4.71875,608
+3,301,Fixed 101 sectors,discovery,Near,72,88.9095394736842,608
+3,301,Fixed 101 sectors,discovery,Near,57,8.493421052631579,608
+3,301,Fixed 101 sectors,discovery,Near,78,47.28453947368421,608
+3,301,Fixed 101 sectors,discovery,Near,66,49.817434210526315,608
+3,301,Fixed 101 sectors,discovery,Near,55,9.407894736842104,608
+3,301,Fixed 101 sectors,discovery,Middle,37,18.38980263157895,608
+3,301,Fixed 101 sectors,discovery,Middle,72,88.6282894736842,608
+3,301,Fixed 101 sectors,discovery,Middle,57,21.64967105263158,608
+3,301,Fixed 101 sectors,discovery,Middle,78,42.421052631578945,608
+3,301,Fixed 101 sectors,discovery,Middle,66,44.75822368421053,608
+3,301,Fixed 101 sectors,discovery,Middle,55,8.169407894736842,608
+3,301,Fixed 101 sectors,discovery,Far,37,56.8440065681445,609
+3,301,Fixed 101 sectors,discovery,Far,72,84.19047619047619,609
+3,301,Fixed 101 sectors,discovery,Far,57,55.24466338259442,609
+3,301,Fixed 101 sectors,discovery,Far,78,33.904761904761905,609
+3,301,Fixed 101 sectors,discovery,Far,66,36.085385878489326,609
+3,301,Fixed 101 sectors,discovery,Far,55,11.523809523809524,609
+3,301,Fixed 101 sectors,confirmation,Near,37,4.468051118210862,626
+3,301,Fixed 101 sectors,confirmation,Near,72,88.92492012779553,626
+3,301,Fixed 101 sectors,confirmation,Near,57,8.060702875399361,626
+3,301,Fixed 101 sectors,confirmation,Near,78,47.14376996805112,626
+3,301,Fixed 101 sectors,confirmation,Near,66,49.76517571884984,626
+3,301,Fixed 101 sectors,confirmation,Near,55,9.154952076677317,626
+3,301,Fixed 101 sectors,confirmation,Middle,37,19.944178628389153,627
+3,301,Fixed 101 sectors,confirmation,Middle,72,88.51515151515152,627
+3,301,Fixed 101 sectors,confirmation,Middle,57,21.749601275917065,627
+3,301,Fixed 101 sectors,confirmation,Middle,78,43.37639553429027,627
+3,301,Fixed 101 sectors,confirmation,Middle,66,45.730462519936204,627
+3,301,Fixed 101 sectors,confirmation,Middle,55,8.969696969696969,627
+3,301,Fixed 101 sectors,confirmation,Far,37,60.090761750405186,617
+3,301,Fixed 101 sectors,confirmation,Far,72,83.77309562398703,617
+3,301,Fixed 101 sectors,confirmation,Far,57,57.76985413290114,617
+3,301,Fixed 101 sectors,confirmation,Far,78,34.572123176661265,617
+3,301,Fixed 101 sectors,confirmation,Far,66,36.73257698541329,617
+3,301,Fixed 101 sectors,confirmation,Far,55,13.050243111831442,617
+3,301,Seed-specific sectors,discovery,Near,37,2.2463054187192117,609
+3,301,Seed-specific sectors,discovery,Near,72,89.0,609
+3,301,Seed-specific sectors,discovery,Near,57,4.192118226600985,609
+3,301,Seed-specific sectors,discovery,Near,78,50.22495894909688,609
+3,301,Seed-specific sectors,discovery,Near,66,53.198686371100166,609
+3,301,Seed-specific sectors,discovery,Near,55,9.724137931034482,609
+3,301,Seed-specific sectors,discovery,Middle,37,11.962108731466227,607
+3,301,Seed-specific sectors,discovery,Middle,72,88.998352553542,607
+3,301,Seed-specific sectors,discovery,Middle,57,16.683690280065896,607
+3,301,Seed-specific sectors,discovery,Middle,78,42.34761120263592,607
+3,301,Seed-specific sectors,discovery,Middle,66,44.55848434925865,607
+3,301,Seed-specific sectors,discovery,Middle,55,7.774299835255354,607
+3,301,Seed-specific sectors,discovery,Far,37,65.74548440065682,609
+3,301,Seed-specific sectors,discovery,Far,72,83.73070607553366,609
+3,301,Seed-specific sectors,discovery,Far,57,64.51724137931035,609
+3,301,Seed-specific sectors,discovery,Far,78,31.029556650246306,609
+3,301,Seed-specific sectors,discovery,Far,66,32.894909688013136,609
+3,301,Seed-specific sectors,discovery,Far,55,11.599343185550081,609
+3,301,Seed-specific sectors,confirmation,Near,37,2.165289256198347,605
+3,301,Seed-specific sectors,confirmation,Near,72,89.0,605
+3,301,Seed-specific sectors,confirmation,Near,57,4.31404958677686,605
+3,301,Seed-specific sectors,confirmation,Near,78,49.90247933884297,605
+3,301,Seed-specific sectors,confirmation,Near,66,52.897520661157024,605
+3,301,Seed-specific sectors,confirmation,Near,55,9.552066115702479,605
+3,301,Seed-specific sectors,confirmation,Middle,37,12.430645161290322,620
+3,301,Seed-specific sectors,confirmation,Middle,72,88.9983870967742,620
+3,301,Seed-specific sectors,confirmation,Middle,57,16.62741935483871,620
+3,301,Seed-specific sectors,confirmation,Middle,78,42.901612903225804,620
+3,301,Seed-specific sectors,confirmation,Middle,66,45.15,620
+3,301,Seed-specific sectors,confirmation,Middle,55,8.041935483870967,620
+3,301,Seed-specific sectors,confirmation,Far,37,67.22635658914729,645
+3,301,Seed-specific sectors,confirmation,Far,72,83.45736434108527,645
+3,301,Seed-specific sectors,confirmation,Far,57,64.1984496124031,645
+3,301,Seed-specific sectors,confirmation,Far,78,32.945736434108525,645
+3,301,Seed-specific sectors,confirmation,Far,66,34.87441860465116,645
+3,301,Seed-specific sectors,confirmation,Far,55,13.3984496124031,645
+3,401,Fixed 101 sectors,discovery,Near,37,9.904605263157896,608
+3,401,Fixed 101 sectors,discovery,Near,72,86.42598684210526,608
+3,401,Fixed 101 sectors,discovery,Near,57,10.631578947368421,608
+3,401,Fixed 101 sectors,discovery,Near,78,48.02138157894737,608
+3,401,Fixed 101 sectors,discovery,Near,66,47.04934210526316,608
+3,401,Fixed 101 sectors,discovery,Near,55,14.623355263157896,608
+3,401,Fixed 101 sectors,discovery,Middle,37,24.138157894736842,608
+3,401,Fixed 101 sectors,discovery,Middle,72,84.09210526315789,608
+3,401,Fixed 101 sectors,discovery,Middle,57,24.94078947368421,608
+3,401,Fixed 101 sectors,discovery,Middle,78,42.65953947368421,608
+3,401,Fixed 101 sectors,discovery,Middle,66,42.26973684210526,608
+3,401,Fixed 101 sectors,discovery,Middle,55,12.324013157894736,608
+3,401,Fixed 101 sectors,discovery,Far,37,54.58292282430214,609
+3,401,Fixed 101 sectors,discovery,Far,72,80.86535303776684,609
+3,401,Fixed 101 sectors,discovery,Far,57,55.27914614121511,609
+3,401,Fixed 101 sectors,discovery,Far,78,29.113300492610836,609
+3,401,Fixed 101 sectors,discovery,Far,66,31.12807881773399,609
+3,401,Fixed 101 sectors,discovery,Far,55,14.523809523809524,609
+3,401,Fixed 101 sectors,confirmation,Near,37,11.012779552715655,626
+3,401,Fixed 101 sectors,confirmation,Near,72,86.19169329073482,626
+3,401,Fixed 101 sectors,confirmation,Near,57,11.70447284345048,626
+3,401,Fixed 101 sectors,confirmation,Near,78,47.531948881789134,626
+3,401,Fixed 101 sectors,confirmation,Near,66,46.5591054313099,626
+3,401,Fixed 101 sectors,confirmation,Near,55,14.471246006389777,626
+3,401,Fixed 101 sectors,confirmation,Middle,37,24.848484848484848,627
+3,401,Fixed 101 sectors,confirmation,Middle,72,82.65869218500798,627
+3,401,Fixed 101 sectors,confirmation,Middle,57,25.170653907496014,627
+3,401,Fixed 101 sectors,confirmation,Middle,78,42.96969696969697,627
+3,401,Fixed 101 sectors,confirmation,Middle,66,43.11642743221691,627
+3,401,Fixed 101 sectors,confirmation,Middle,55,13.202551834130782,627
+3,401,Fixed 101 sectors,confirmation,Far,37,55.188006482982175,617
+3,401,Fixed 101 sectors,confirmation,Far,72,80.08914100486224,617
+3,401,Fixed 101 sectors,confirmation,Far,57,55.80713128038898,617
+3,401,Fixed 101 sectors,confirmation,Far,78,29.40518638573744,617
+3,401,Fixed 101 sectors,confirmation,Far,66,31.559157212317665,617
+3,401,Fixed 101 sectors,confirmation,Far,55,15.290113452188006,617
+3,401,Seed-specific sectors,discovery,Near,37,3.2483552631578947,608
+3,401,Seed-specific sectors,discovery,Near,72,87.85032894736842,608
+3,401,Seed-specific sectors,discovery,Near,57,3.5657894736842106,608
+3,401,Seed-specific sectors,discovery,Near,78,49.889802631578945,608
+3,401,Seed-specific sectors,discovery,Near,66,48.922697368421055,608
+3,401,Seed-specific sectors,discovery,Near,55,15.77796052631579,608
+3,401,Seed-specific sectors,discovery,Middle,37,23.86019736842105,608
+3,401,Seed-specific sectors,discovery,Middle,72,85.27960526315789,608
+3,401,Seed-specific sectors,discovery,Middle,57,25.370065789473685,608
+3,401,Seed-specific sectors,discovery,Middle,78,41.55427631578947,608
+3,401,Seed-specific sectors,discovery,Middle,66,40.83717105263158,608
+3,401,Seed-specific sectors,discovery,Middle,55,9.820723684210526,608
+3,401,Seed-specific sectors,discovery,Far,37,61.50574712643678,609
+3,401,Seed-specific sectors,discovery,Far,72,78.25779967159278,609
+3,401,Seed-specific sectors,discovery,Far,57,61.904761904761905,609
+3,401,Seed-specific sectors,discovery,Far,78,28.351395730706077,609
+3,401,Seed-specific sectors,discovery,Far,66,30.688013136288998,609
+3,401,Seed-specific sectors,discovery,Far,55,15.870279146141215,609
+3,401,Seed-specific sectors,confirmation,Near,37,3.387858347386172,593
+3,401,Seed-specific sectors,confirmation,Near,72,87.88532883642496,593
+3,401,Seed-specific sectors,confirmation,Near,57,3.6897133220910625,593
+3,401,Seed-specific sectors,confirmation,Near,78,49.79932546374368,593
+3,401,Seed-specific sectors,confirmation,Near,66,48.735244519392914,593
+3,401,Seed-specific sectors,confirmation,Near,55,15.720067453625632,593
+3,401,Seed-specific sectors,confirmation,Middle,37,24.51486697965571,639
+3,401,Seed-specific sectors,confirmation,Middle,72,84.70579029733959,639
+3,401,Seed-specific sectors,confirmation,Middle,57,25.682316118935837,639
+3,401,Seed-specific sectors,confirmation,Middle,78,41.57120500782472,639
+3,401,Seed-specific sectors,confirmation,Middle,66,41.31768388106416,639
+3,401,Seed-specific sectors,confirmation,Middle,55,10.137715179968701,639
+3,401,Seed-specific sectors,confirmation,Far,37,60.89498432601881,638
+3,401,Seed-specific sectors,confirmation,Far,72,76.7319749216301,638
+3,401,Seed-specific sectors,confirmation,Far,57,61.039184952978054,638
+3,401,Seed-specific sectors,confirmation,Far,78,29.38087774294671,638
+3,401,Seed-specific sectors,confirmation,Far,66,31.896551724137932,638
+3,401,Seed-specific sectors,confirmation,Far,55,17.195924764890282,638
+3,501,Fixed 101 sectors,discovery,Near,37,8.162828947368421,608
+3,501,Fixed 101 sectors,discovery,Near,72,36.254934210526315,608
+3,501,Fixed 101 sectors,discovery,Near,57,9.485197368421053,608
+3,501,Fixed 101 sectors,discovery,Near,78,54.1233552631579,608
+3,501,Fixed 101 sectors,discovery,Near,66,45.58388157894737,608
+3,501,Fixed 101 sectors,discovery,Near,55,12.855263157894736,608
+3,501,Fixed 101 sectors,discovery,Middle,37,22.075657894736842,608
+3,501,Fixed 101 sectors,discovery,Middle,72,54.64309210526316,608
+3,501,Fixed 101 sectors,discovery,Middle,57,23.69407894736842,608
+3,501,Fixed 101 sectors,discovery,Middle,78,48.26809210526316,608
+3,501,Fixed 101 sectors,discovery,Middle,66,40.12828947368421,608
+3,501,Fixed 101 sectors,discovery,Middle,55,10.383223684210526,608
+3,501,Fixed 101 sectors,discovery,Far,37,51.47290640394089,609
+3,501,Fixed 101 sectors,discovery,Far,72,77.58128078817734,609
+3,501,Fixed 101 sectors,discovery,Far,57,52.69786535303777,609
+3,501,Fixed 101 sectors,discovery,Far,78,36.50410509031199,609
+3,501,Fixed 101 sectors,discovery,Far,66,30.950738916256157,609
+3,501,Fixed 101 sectors,discovery,Far,55,12.704433497536947,609
+3,501,Fixed 101 sectors,confirmation,Near,37,7.932907348242812,626
+3,501,Fixed 101 sectors,confirmation,Near,72,36.23003194888179,626
+3,501,Fixed 101 sectors,confirmation,Near,57,9.154952076677317,626
+3,501,Fixed 101 sectors,confirmation,Near,78,54.25878594249201,626
+3,501,Fixed 101 sectors,confirmation,Near,66,45.52555910543131,626
+3,501,Fixed 101 sectors,confirmation,Near,55,12.738019169329073,626
+3,501,Fixed 101 sectors,confirmation,Middle,37,22.614035087719298,627
+3,501,Fixed 101 sectors,confirmation,Middle,72,56.76236044657097,627
+3,501,Fixed 101 sectors,confirmation,Middle,57,23.681020733652314,627
+3,501,Fixed 101 sectors,confirmation,Middle,78,48.708133971291865,627
+3,501,Fixed 101 sectors,confirmation,Middle,66,40.738437001594896,627
+3,501,Fixed 101 sectors,confirmation,Middle,55,10.37799043062201,627
+3,501,Fixed 101 sectors,confirmation,Far,37,52.65316045380875,617
+3,501,Fixed 101 sectors,confirmation,Far,72,77.91896272285251,617
+3,501,Fixed 101 sectors,confirmation,Far,57,53.944894651539705,617
+3,501,Fixed 101 sectors,confirmation,Far,78,36.32739059967585,617
+3,501,Fixed 101 sectors,confirmation,Far,66,31.01134521880065,617
+3,501,Fixed 101 sectors,confirmation,Far,55,13.215559157212319,617
+3,501,Seed-specific sectors,discovery,Near,37,3.7697368421052633,608
+3,501,Seed-specific sectors,discovery,Near,72,30.81907894736842,608
+3,501,Seed-specific sectors,discovery,Near,57,5.006578947368421,608
+3,501,Seed-specific sectors,discovery,Near,78,55.567434210526315,608
+3,501,Seed-specific sectors,discovery,Near,66,46.11184210526316,608
+3,501,Seed-specific sectors,discovery,Near,55,12.708881578947368,608
+3,501,Seed-specific sectors,discovery,Middle,37,19.60855263157895,608
+3,501,Seed-specific sectors,discovery,Middle,72,55.64309210526316,608
+3,501,Seed-specific sectors,discovery,Middle,57,22.08717105263158,608
+3,501,Seed-specific sectors,discovery,Middle,78,48.23684210526316,608
+3,501,Seed-specific sectors,discovery,Middle,66,40.35197368421053,608
+3,501,Seed-specific sectors,discovery,Middle,55,8.891447368421053,608
+3,501,Seed-specific sectors,discovery,Far,37,58.32183908045977,609
+3,501,Seed-specific sectors,discovery,Far,72,82.00985221674877,609
+3,501,Seed-specific sectors,discovery,Far,57,58.77339901477833,609
+3,501,Seed-specific sectors,discovery,Far,78,35.0935960591133,609
+3,501,Seed-specific sectors,discovery,Far,66,30.20032840722496,609
+3,501,Seed-specific sectors,discovery,Far,55,14.339901477832512,609
+3,501,Seed-specific sectors,confirmation,Near,37,3.6846275752773376,631
+3,501,Seed-specific sectors,confirmation,Near,72,31.022187004754358,631
+3,501,Seed-specific sectors,confirmation,Near,57,4.798732171156894,631
+3,501,Seed-specific sectors,confirmation,Near,78,55.752773375594295,631
+3,501,Seed-specific sectors,confirmation,Near,66,46.26941362916006,631
+3,501,Seed-specific sectors,confirmation,Near,55,12.724247226624406,631
+3,501,Seed-specific sectors,confirmation,Middle,37,20.53267973856209,612
+3,501,Seed-specific sectors,confirmation,Middle,72,57.22385620915033,612
+3,501,Seed-specific sectors,confirmation,Middle,57,22.772875816993466,612
+3,501,Seed-specific sectors,confirmation,Middle,78,47.97549019607843,612
+3,501,Seed-specific sectors,confirmation,Middle,66,40.099673202614376,612
+3,501,Seed-specific sectors,confirmation,Middle,55,8.616013071895425,612
+3,501,Seed-specific sectors,confirmation,Far,37,58.59808612440192,627
+3,501,Seed-specific sectors,confirmation,Far,72,82.53588516746412,627
+3,501,Seed-specific sectors,confirmation,Far,57,58.84848484848485,627
+3,501,Seed-specific sectors,confirmation,Far,78,35.69218500797448,627
+3,501,Seed-specific sectors,confirmation,Far,66,31.003189792663477,627
+3,501,Seed-specific sectors,confirmation,Far,55,14.885167464114833,627
+7,101,Fixed 101 sectors,discovery,Near,86,29.423228346456693,508
+7,101,Fixed 101 sectors,discovery,Near,6,26.287401574803148,508
+7,101,Fixed 101 sectors,discovery,Near,85,20.37204724409449,508
+7,101,Fixed 101 sectors,discovery,Near,20,58.618110236220474,508
+7,101,Fixed 101 sectors,discovery,Near,34,49.94094488188976,508
+7,101,Fixed 101 sectors,discovery,Near,45,18.748031496062993,508
+7,101,Fixed 101 sectors,discovery,Middle,86,57.45652173913044,506
+7,101,Fixed 101 sectors,discovery,Middle,6,42.90909090909091,506
+7,101,Fixed 101 sectors,discovery,Middle,85,35.426877470355734,506
+7,101,Fixed 101 sectors,discovery,Middle,20,37.17193675889328,506
+7,101,Fixed 101 sectors,discovery,Middle,34,30.128458498023715,506
+7,101,Fixed 101 sectors,discovery,Middle,45,10.873517786561266,506
+7,101,Fixed 101 sectors,discovery,Far,86,67.14566929133858,508
+7,101,Fixed 101 sectors,discovery,Far,6,56.246062992125985,508
+7,101,Fixed 101 sectors,discovery,Far,85,48.90748031496063,508
+7,101,Fixed 101 sectors,discovery,Far,20,20.023622047244096,508
+7,101,Fixed 101 sectors,discovery,Far,34,16.521653543307085,508
+7,101,Fixed 101 sectors,discovery,Far,45,18.18503937007874,508
+7,101,Fixed 101 sectors,confirmation,Near,86,29.299196787148595,498
+7,101,Fixed 101 sectors,confirmation,Near,6,24.248995983935743,498
+7,101,Fixed 101 sectors,confirmation,Near,85,18.79116465863454,498
+7,101,Fixed 101 sectors,confirmation,Near,20,58.42570281124498,498
+7,101,Fixed 101 sectors,confirmation,Near,34,49.40160642570281,498
+7,101,Fixed 101 sectors,confirmation,Near,45,18.765060240963855,498
+7,101,Fixed 101 sectors,confirmation,Middle,86,57.055755395683455,556
+7,101,Fixed 101 sectors,confirmation,Middle,6,42.47482014388489,556
+7,101,Fixed 101 sectors,confirmation,Middle,85,34.93884892086331,556
+7,101,Fixed 101 sectors,confirmation,Middle,20,37.96762589928058,556
+7,101,Fixed 101 sectors,confirmation,Middle,34,30.836330935251798,556
+7,101,Fixed 101 sectors,confirmation,Middle,45,11.588129496402878,556
+7,101,Fixed 101 sectors,confirmation,Far,86,67.18913480885311,497
+7,101,Fixed 101 sectors,confirmation,Far,6,56.185110663983906,497
+7,101,Fixed 101 sectors,confirmation,Far,85,48.69416498993964,497
+7,101,Fixed 101 sectors,confirmation,Far,20,20.082494969818914,497
+7,101,Fixed 101 sectors,confirmation,Far,34,16.277665995975855,497
+7,101,Fixed 101 sectors,confirmation,Far,45,17.617706237424546,497
+7,101,Seed-specific sectors,discovery,Near,86,29.423228346456693,508
+7,101,Seed-specific sectors,discovery,Near,6,26.287401574803148,508
+7,101,Seed-specific sectors,discovery,Near,85,20.37204724409449,508
+7,101,Seed-specific sectors,discovery,Near,20,58.618110236220474,508
+7,101,Seed-specific sectors,discovery,Near,34,49.94094488188976,508
+7,101,Seed-specific sectors,discovery,Near,45,18.748031496062993,508
+7,101,Seed-specific sectors,discovery,Middle,86,57.45652173913044,506
+7,101,Seed-specific sectors,discovery,Middle,6,42.90909090909091,506
+7,101,Seed-specific sectors,discovery,Middle,85,35.426877470355734,506
+7,101,Seed-specific sectors,discovery,Middle,20,37.17193675889328,506
+7,101,Seed-specific sectors,discovery,Middle,34,30.128458498023715,506
+7,101,Seed-specific sectors,discovery,Middle,45,10.873517786561266,506
+7,101,Seed-specific sectors,discovery,Far,86,67.14566929133858,508
+7,101,Seed-specific sectors,discovery,Far,6,56.246062992125985,508
+7,101,Seed-specific sectors,discovery,Far,85,48.90748031496063,508
+7,101,Seed-specific sectors,discovery,Far,20,20.023622047244096,508
+7,101,Seed-specific sectors,discovery,Far,34,16.521653543307085,508
+7,101,Seed-specific sectors,discovery,Far,45,18.18503937007874,508
+7,101,Seed-specific sectors,confirmation,Near,86,29.299196787148595,498
+7,101,Seed-specific sectors,confirmation,Near,6,24.248995983935743,498
+7,101,Seed-specific sectors,confirmation,Near,85,18.79116465863454,498
+7,101,Seed-specific sectors,confirmation,Near,20,58.42570281124498,498
+7,101,Seed-specific sectors,confirmation,Near,34,49.40160642570281,498
+7,101,Seed-specific sectors,confirmation,Near,45,18.765060240963855,498
+7,101,Seed-specific sectors,confirmation,Middle,86,57.055755395683455,556
+7,101,Seed-specific sectors,confirmation,Middle,6,42.47482014388489,556
+7,101,Seed-specific sectors,confirmation,Middle,85,34.93884892086331,556
+7,101,Seed-specific sectors,confirmation,Middle,20,37.96762589928058,556
+7,101,Seed-specific sectors,confirmation,Middle,34,30.836330935251798,556
+7,101,Seed-specific sectors,confirmation,Middle,45,11.588129496402878,556
+7,101,Seed-specific sectors,confirmation,Far,86,67.18913480885311,497
+7,101,Seed-specific sectors,confirmation,Far,6,56.185110663983906,497
+7,101,Seed-specific sectors,confirmation,Far,85,48.69416498993964,497
+7,101,Seed-specific sectors,confirmation,Far,20,20.082494969818914,497
+7,101,Seed-specific sectors,confirmation,Far,34,16.277665995975855,497
+7,101,Seed-specific sectors,confirmation,Far,45,17.617706237424546,497
+7,201,Fixed 101 sectors,discovery,Near,86,29.911417322834644,508
+7,201,Fixed 101 sectors,discovery,Near,6,22.612204724409448,508
+7,201,Fixed 101 sectors,discovery,Near,85,13.429133858267717,508
+7,201,Fixed 101 sectors,discovery,Near,20,54.875984251968504,508
+7,201,Fixed 101 sectors,discovery,Near,34,42.55905511811024,508
+7,201,Fixed 101 sectors,discovery,Near,45,15.0,508
+7,201,Fixed 101 sectors,discovery,Middle,86,50.54545454545455,506
+7,201,Fixed 101 sectors,discovery,Middle,6,41.88537549407115,506
+7,201,Fixed 101 sectors,discovery,Middle,85,28.658102766798418,506
+7,201,Fixed 101 sectors,discovery,Middle,20,41.8399209486166,506
+7,201,Fixed 101 sectors,discovery,Middle,34,30.75098814229249,506
+7,201,Fixed 101 sectors,discovery,Middle,45,10.84189723320158,506
+7,201,Fixed 101 sectors,discovery,Far,86,64.17125984251969,508
+7,201,Fixed 101 sectors,discovery,Far,6,58.824803149606296,508
+7,201,Fixed 101 sectors,discovery,Far,85,45.00196850393701,508
+7,201,Fixed 101 sectors,discovery,Far,20,27.44685039370079,508
+7,201,Fixed 101 sectors,discovery,Far,34,20.618110236220474,508
+7,201,Fixed 101 sectors,discovery,Far,45,15.494094488188976,508
+7,201,Fixed 101 sectors,confirmation,Near,86,30.014056224899598,498
+7,201,Fixed 101 sectors,confirmation,Near,6,21.407630522088354,498
+7,201,Fixed 101 sectors,confirmation,Near,85,12.967871485943775,498
+7,201,Fixed 101 sectors,confirmation,Near,20,55.11646586345382,498
+7,201,Fixed 101 sectors,confirmation,Near,34,42.77510040160642,498
+7,201,Fixed 101 sectors,confirmation,Near,45,15.050200803212851,498
+7,201,Fixed 101 sectors,confirmation,Middle,86,49.131294964028775,556
+7,201,Fixed 101 sectors,confirmation,Middle,6,40.39028776978417,556
+7,201,Fixed 101 sectors,confirmation,Middle,85,27.413669064748202,556
+7,201,Fixed 101 sectors,confirmation,Middle,20,43.0,556
+7,201,Fixed 101 sectors,confirmation,Middle,34,31.6205035971223,556
+7,201,Fixed 101 sectors,confirmation,Middle,45,11.007194244604317,556
+7,201,Fixed 101 sectors,confirmation,Far,86,64.0523138832998,497
+7,201,Fixed 101 sectors,confirmation,Far,6,58.7102615694165,497
+7,201,Fixed 101 sectors,confirmation,Far,85,44.861167002012074,497
+7,201,Fixed 101 sectors,confirmation,Far,20,27.56338028169014,497
+7,201,Fixed 101 sectors,confirmation,Far,34,20.86317907444668,497
+7,201,Fixed 101 sectors,confirmation,Far,45,15.247484909456741,497
+7,201,Seed-specific sectors,discovery,Near,86,24.263779527559056,508
+7,201,Seed-specific sectors,discovery,Near,6,24.440944881889763,508
+7,201,Seed-specific sectors,discovery,Near,85,11.165354330708661,508
+7,201,Seed-specific sectors,discovery,Near,20,56.25787401574803,508
+7,201,Seed-specific sectors,discovery,Near,34,44.65157480314961,508
+7,201,Seed-specific sectors,discovery,Near,45,14.598425196850394,508
+7,201,Seed-specific sectors,discovery,Middle,86,53.49407114624506,506
+7,201,Seed-specific sectors,discovery,Middle,6,41.60079051383399,506
+7,201,Seed-specific sectors,discovery,Middle,85,29.484189723320156,506
+7,201,Seed-specific sectors,discovery,Middle,20,40.940711462450594,506
+7,201,Seed-specific sectors,discovery,Middle,34,30.806324110671937,506
+7,201,Seed-specific sectors,discovery,Middle,45,9.019762845849803,506
+7,201,Seed-specific sectors,discovery,Far,86,66.88188976377953,508
+7,201,Seed-specific sectors,discovery,Far,6,57.27952755905512,508
+7,201,Seed-specific sectors,discovery,Far,85,46.44291338582677,508
+7,201,Seed-specific sectors,discovery,Far,20,26.96062992125984,508
+7,201,Seed-specific sectors,discovery,Far,34,18.47047244094488,508
+7,201,Seed-specific sectors,discovery,Far,45,17.71062992125984,508
+7,201,Seed-specific sectors,confirmation,Near,86,26.041666666666668,528
+7,201,Seed-specific sectors,confirmation,Near,6,25.223484848484848,528
+7,201,Seed-specific sectors,confirmation,Near,85,12.083333333333334,528
+7,201,Seed-specific sectors,confirmation,Near,20,55.41098484848485,528
+7,201,Seed-specific sectors,confirmation,Near,34,43.97727272727273,528
+7,201,Seed-specific sectors,confirmation,Near,45,14.62310606060606,528
+7,201,Seed-specific sectors,confirmation,Middle,86,53.583333333333336,540
+7,201,Seed-specific sectors,confirmation,Middle,6,41.379629629629626,540
+7,201,Seed-specific sectors,confirmation,Middle,85,29.524074074074075,540
+7,201,Seed-specific sectors,confirmation,Middle,20,41.12407407407407,540
+7,201,Seed-specific sectors,confirmation,Middle,34,30.68148148148148,540
+7,201,Seed-specific sectors,confirmation,Middle,45,9.131481481481481,540
+7,201,Seed-specific sectors,confirmation,Far,86,65.03726708074534,483
+7,201,Seed-specific sectors,confirmation,Far,6,55.142857142857146,483
+7,201,Seed-specific sectors,confirmation,Far,85,44.87163561076605,483
+7,201,Seed-specific sectors,confirmation,Far,20,28.13871635610766,483
+7,201,Seed-specific sectors,confirmation,Far,34,19.594202898550726,483
+7,201,Seed-specific sectors,confirmation,Far,45,17.683229813664596,483
+7,301,Fixed 101 sectors,discovery,Near,86,41.44881889763779,508
+7,301,Fixed 101 sectors,discovery,Near,6,22.826771653543307,508
+7,301,Fixed 101 sectors,discovery,Near,85,15.108267716535433,508
+7,301,Fixed 101 sectors,discovery,Near,20,56.289370078740156,508
+7,301,Fixed 101 sectors,discovery,Near,34,47.68503937007874,508
+7,301,Fixed 101 sectors,discovery,Near,45,18.340551181102363,508
+7,301,Fixed 101 sectors,discovery,Middle,86,50.452569169960476,506
+7,301,Fixed 101 sectors,discovery,Middle,6,42.8794466403162,506
+7,301,Fixed 101 sectors,discovery,Middle,85,28.272727272727273,506
+7,301,Fixed 101 sectors,discovery,Middle,20,41.68577075098814,506
+7,301,Fixed 101 sectors,discovery,Middle,34,34.19762845849802,506
+7,301,Fixed 101 sectors,discovery,Middle,45,12.027667984189723,506
+7,301,Fixed 101 sectors,discovery,Far,86,60.87992125984252,508
+7,301,Fixed 101 sectors,discovery,Far,6,59.960629921259844,508
+7,301,Fixed 101 sectors,discovery,Far,85,45.77952755905512,508
+7,301,Fixed 101 sectors,discovery,Far,20,26.143700787401574,508
+7,301,Fixed 101 sectors,discovery,Far,34,22.822834645669293,508
+7,301,Fixed 101 sectors,discovery,Far,45,15.438976377952756,508
+7,301,Fixed 101 sectors,confirmation,Near,86,38.95582329317269,498
+7,301,Fixed 101 sectors,confirmation,Near,6,21.829317269076306,498
+7,301,Fixed 101 sectors,confirmation,Near,85,14.194779116465863,498
+7,301,Fixed 101 sectors,confirmation,Near,20,56.41566265060241,498
+7,301,Fixed 101 sectors,confirmation,Near,34,47.09036144578313,498
+7,301,Fixed 101 sectors,confirmation,Near,45,17.961847389558233,498
+7,301,Fixed 101 sectors,confirmation,Middle,86,49.76978417266187,556
+7,301,Fixed 101 sectors,confirmation,Middle,6,42.26798561151079,556
+7,301,Fixed 101 sectors,confirmation,Middle,85,28.471223021582734,556
+7,301,Fixed 101 sectors,confirmation,Middle,20,42.14928057553957,556
+7,301,Fixed 101 sectors,confirmation,Middle,34,34.78237410071942,556
+7,301,Fixed 101 sectors,confirmation,Middle,45,13.232014388489208,556
+7,301,Fixed 101 sectors,confirmation,Far,86,60.50704225352113,497
+7,301,Fixed 101 sectors,confirmation,Far,6,59.903420523138834,497
+7,301,Fixed 101 sectors,confirmation,Far,85,46.02213279678068,497
+7,301,Fixed 101 sectors,confirmation,Far,20,26.17907444668008,497
+7,301,Fixed 101 sectors,confirmation,Far,34,22.53118712273642,497
+7,301,Fixed 101 sectors,confirmation,Far,45,15.849094567404427,497
+7,301,Seed-specific sectors,discovery,Near,86,24.21456692913386,508
+7,301,Seed-specific sectors,discovery,Near,6,23.753937007874015,508
+7,301,Seed-specific sectors,discovery,Near,85,12.594488188976378,508
+7,301,Seed-specific sectors,discovery,Near,20,45.838582677165356,508
+7,301,Seed-specific sectors,discovery,Near,34,32.218503937007874,508
+7,301,Seed-specific sectors,discovery,Near,45,14.277559055118111,508
+7,301,Seed-specific sectors,discovery,Middle,86,54.68577075098814,506
+7,301,Seed-specific sectors,discovery,Middle,6,42.67391304347826,506
+7,301,Seed-specific sectors,discovery,Middle,85,27.713438735177867,506
+7,301,Seed-specific sectors,discovery,Middle,20,41.015810276679844,506
+7,301,Seed-specific sectors,discovery,Middle,34,32.1699604743083,506
+7,301,Seed-specific sectors,discovery,Middle,45,7.462450592885376,506
+7,301,Seed-specific sectors,discovery,Far,86,73.89763779527559,508
+7,301,Seed-specific sectors,discovery,Far,6,59.238188976377955,508
+7,301,Seed-specific sectors,discovery,Far,85,48.8503937007874,508
+7,301,Seed-specific sectors,discovery,Far,20,37.261811023622045,508
+7,301,Seed-specific sectors,discovery,Far,34,40.30905511811024,508
+7,301,Seed-specific sectors,discovery,Far,45,24.049212598425196,508
+7,301,Seed-specific sectors,confirmation,Near,86,24.3731884057971,552
+7,301,Seed-specific sectors,confirmation,Near,6,23.369565217391305,552
+7,301,Seed-specific sectors,confirmation,Near,85,12.28623188405797,552
+7,301,Seed-specific sectors,confirmation,Near,20,46.09057971014493,552
+7,301,Seed-specific sectors,confirmation,Near,34,32.33152173913044,552
+7,301,Seed-specific sectors,confirmation,Near,45,14.240942028985508,552
+7,301,Seed-specific sectors,confirmation,Middle,86,53.7085020242915,494
+7,301,Seed-specific sectors,confirmation,Middle,6,42.60526315789474,494
+7,301,Seed-specific sectors,confirmation,Middle,85,28.105263157894736,494
+7,301,Seed-specific sectors,confirmation,Middle,20,40.797570850202426,494
+7,301,Seed-specific sectors,confirmation,Middle,34,31.670040485829958,494
+7,301,Seed-specific sectors,confirmation,Middle,45,7.469635627530365,494
+7,301,Seed-specific sectors,confirmation,Far,86,73.58019801980198,505
+7,301,Seed-specific sectors,confirmation,Far,6,59.796039603960395,505
+7,301,Seed-specific sectors,confirmation,Far,85,49.714851485148515,505
+7,301,Seed-specific sectors,confirmation,Far,20,37.51485148514851,505
+7,301,Seed-specific sectors,confirmation,Far,34,40.58613861386139,505
+7,301,Seed-specific sectors,confirmation,Far,45,25.005940594059407,505
+7,401,Fixed 101 sectors,discovery,Near,86,36.63779527559055,508
+7,401,Fixed 101 sectors,discovery,Near,6,27.507874015748033,508
+7,401,Fixed 101 sectors,discovery,Near,85,19.5,508
+7,401,Fixed 101 sectors,discovery,Near,20,50.03740157480315,508
+7,401,Fixed 101 sectors,discovery,Near,34,44.6003937007874,508
+7,401,Fixed 101 sectors,discovery,Near,45,17.856299212598426,508
+7,401,Fixed 101 sectors,discovery,Middle,86,47.74901185770751,506
+7,401,Fixed 101 sectors,discovery,Middle,6,42.91304347826087,506
+7,401,Fixed 101 sectors,discovery,Middle,85,31.507905138339922,506
+7,401,Fixed 101 sectors,discovery,Middle,20,37.17786561264822,506
+7,401,Fixed 101 sectors,discovery,Middle,34,29.114624505928855,506
+7,401,Fixed 101 sectors,discovery,Middle,45,12.804347826086957,506
+7,401,Fixed 101 sectors,discovery,Far,86,58.82874015748032,508
+7,401,Fixed 101 sectors,discovery,Far,6,55.496062992125985,508
+7,401,Fixed 101 sectors,discovery,Far,85,44.438976377952756,508
+7,401,Fixed 101 sectors,discovery,Far,20,21.257874015748033,508
+7,401,Fixed 101 sectors,discovery,Far,34,20.533464566929133,508
+7,401,Fixed 101 sectors,discovery,Far,45,16.933070866141733,508
+7,401,Fixed 101 sectors,confirmation,Near,86,35.22289156626506,498
+7,401,Fixed 101 sectors,confirmation,Near,6,26.680722891566266,498
+7,401,Fixed 101 sectors,confirmation,Near,85,18.91164658634538,498
+7,401,Fixed 101 sectors,confirmation,Near,20,50.99598393574297,498
+7,401,Fixed 101 sectors,confirmation,Near,34,44.630522088353416,498
+7,401,Fixed 101 sectors,confirmation,Near,45,18.02409638554217,498
+7,401,Fixed 101 sectors,confirmation,Middle,86,46.764388489208635,556
+7,401,Fixed 101 sectors,confirmation,Middle,6,42.35971223021583,556
+7,401,Fixed 101 sectors,confirmation,Middle,85,30.93345323741007,556
+7,401,Fixed 101 sectors,confirmation,Middle,20,37.672661870503596,556
+7,401,Fixed 101 sectors,confirmation,Middle,34,28.850719424460433,556
+7,401,Fixed 101 sectors,confirmation,Middle,45,13.01978417266187,556
+7,401,Fixed 101 sectors,confirmation,Far,86,58.65392354124749,497
+7,401,Fixed 101 sectors,confirmation,Far,6,55.156941649899395,497
+7,401,Fixed 101 sectors,confirmation,Far,85,44.07645875251509,497
+7,401,Fixed 101 sectors,confirmation,Far,20,21.6841046277666,497
+7,401,Fixed 101 sectors,confirmation,Far,34,20.23138832997988,497
+7,401,Fixed 101 sectors,confirmation,Far,45,16.740442655935613,497
+7,401,Seed-specific sectors,discovery,Near,86,25.23228346456693,508
+7,401,Seed-specific sectors,discovery,Near,6,22.690944881889763,508
+7,401,Seed-specific sectors,discovery,Near,85,13.625984251968504,508
+7,401,Seed-specific sectors,discovery,Near,20,57.70866141732284,508
+7,401,Seed-specific sectors,discovery,Near,34,38.33661417322835,508
+7,401,Seed-specific sectors,discovery,Near,45,15.01968503937008,508
+7,401,Seed-specific sectors,discovery,Middle,86,50.58102766798419,506
+7,401,Seed-specific sectors,discovery,Middle,6,43.037549407114625,506
+7,401,Seed-specific sectors,discovery,Middle,85,31.100790513833992,506
+7,401,Seed-specific sectors,discovery,Middle,20,37.07707509881423,506
+7,401,Seed-specific sectors,discovery,Middle,34,25.705533596837945,506
+7,401,Seed-specific sectors,discovery,Middle,45,8.588932806324111,506
+7,401,Seed-specific sectors,discovery,Far,86,67.41338582677166,508
+7,401,Seed-specific sectors,discovery,Far,6,60.188976377952756,508
+7,401,Seed-specific sectors,discovery,Far,85,50.718503937007874,508
+7,401,Seed-specific sectors,discovery,Far,20,13.687007874015748,508
+7,401,Seed-specific sectors,discovery,Far,34,30.19291338582677,508
+7,401,Seed-specific sectors,discovery,Far,45,23.968503937007874,508
+7,401,Seed-specific sectors,confirmation,Near,86,25.654545454545456,550
+7,401,Seed-specific sectors,confirmation,Near,6,23.565454545454546,550
+7,401,Seed-specific sectors,confirmation,Near,85,14.114545454545455,550
+7,401,Seed-specific sectors,confirmation,Near,20,57.04727272727273,550
+7,401,Seed-specific sectors,confirmation,Near,34,37.52,550
+7,401,Seed-specific sectors,confirmation,Near,45,14.961818181818181,550
+7,401,Seed-specific sectors,confirmation,Middle,86,49.74949899799599,499
+7,401,Seed-specific sectors,confirmation,Middle,6,42.545090180360724,499
+7,401,Seed-specific sectors,confirmation,Middle,85,31.016032064128257,499
+7,401,Seed-specific sectors,confirmation,Middle,20,37.43887775551102,499
+7,401,Seed-specific sectors,confirmation,Middle,34,25.338677354709418,499
+7,401,Seed-specific sectors,confirmation,Middle,45,8.7875751503006,499
+7,401,Seed-specific sectors,confirmation,Far,86,67.24701195219123,502
+7,401,Seed-specific sectors,confirmation,Far,6,59.88247011952191,502
+7,401,Seed-specific sectors,confirmation,Far,85,50.364541832669325,502
+7,401,Seed-specific sectors,confirmation,Far,20,14.065737051792828,502
+7,401,Seed-specific sectors,confirmation,Far,34,29.96414342629482,502
+7,401,Seed-specific sectors,confirmation,Far,45,23.747011952191237,502
+7,501,Fixed 101 sectors,discovery,Near,86,36.58661417322835,508
+7,501,Fixed 101 sectors,discovery,Near,6,25.31496062992126,508
+7,501,Fixed 101 sectors,discovery,Near,85,17.673228346456693,508
+7,501,Fixed 101 sectors,discovery,Near,20,53.031496062992126,508
+7,501,Fixed 101 sectors,discovery,Near,34,44.6003937007874,508
+7,501,Fixed 101 sectors,discovery,Near,45,18.87007874015748,508
+7,501,Fixed 101 sectors,discovery,Middle,86,48.91699604743083,506
+7,501,Fixed 101 sectors,discovery,Middle,6,41.17391304347826,506
+7,501,Fixed 101 sectors,discovery,Middle,85,30.81620553359684,506
+7,501,Fixed 101 sectors,discovery,Middle,20,38.91501976284585,506
+7,501,Fixed 101 sectors,discovery,Middle,34,32.515810276679844,506
+7,501,Fixed 101 sectors,discovery,Middle,45,12.851778656126482,506
+7,501,Fixed 101 sectors,discovery,Far,86,61.56496062992126,508
+7,501,Fixed 101 sectors,discovery,Far,6,55.976377952755904,508
+7,501,Fixed 101 sectors,discovery,Far,85,46.110236220472444,508
+7,501,Fixed 101 sectors,discovery,Far,20,22.848425196850393,508
+7,501,Fixed 101 sectors,discovery,Far,34,24.03543307086614,508
+7,501,Fixed 101 sectors,discovery,Far,45,16.84251968503937,508
+7,501,Fixed 101 sectors,confirmation,Near,86,34.265060240963855,498
+7,501,Fixed 101 sectors,confirmation,Near,6,23.140562248995984,498
+7,501,Fixed 101 sectors,confirmation,Near,85,16.122489959839356,498
+7,501,Fixed 101 sectors,confirmation,Near,20,54.86746987951807,498
+7,501,Fixed 101 sectors,confirmation,Near,34,45.72489959839358,498
+7,501,Fixed 101 sectors,confirmation,Near,45,19.572289156626507,498
+7,501,Fixed 101 sectors,confirmation,Middle,86,48.36330935251799,556
+7,501,Fixed 101 sectors,confirmation,Middle,6,40.49820143884892,556
+7,501,Fixed 101 sectors,confirmation,Middle,85,30.366906474820144,556
+7,501,Fixed 101 sectors,confirmation,Middle,20,39.48381294964029,556
+7,501,Fixed 101 sectors,confirmation,Middle,34,33.33453237410072,556
+7,501,Fixed 101 sectors,confirmation,Middle,45,13.255395683453237,556
+7,501,Fixed 101 sectors,confirmation,Far,86,61.99396378269618,497
+7,501,Fixed 101 sectors,confirmation,Far,6,55.82696177062374,497
+7,501,Fixed 101 sectors,confirmation,Far,85,45.74647887323944,497
+7,501,Fixed 101 sectors,confirmation,Far,20,23.50301810865191,497
+7,501,Fixed 101 sectors,confirmation,Far,34,25.346076458752513,497
+7,501,Fixed 101 sectors,confirmation,Far,45,16.772635814889338,497
+7,501,Seed-specific sectors,discovery,Near,86,24.79527559055118,508
+7,501,Seed-specific sectors,discovery,Near,6,20.338582677165356,508
+7,501,Seed-specific sectors,discovery,Near,85,12.771653543307087,508
+7,501,Seed-specific sectors,discovery,Near,20,52.34842519685039,508
+7,501,Seed-specific sectors,discovery,Near,34,36.31496062992126,508
+7,501,Seed-specific sectors,discovery,Near,45,16.13976377952756,508
+7,501,Seed-specific sectors,discovery,Middle,86,52.49802371541502,506
+7,501,Seed-specific sectors,discovery,Middle,6,42.383399209486164,506
+7,501,Seed-specific sectors,discovery,Middle,85,31.798418972332016,506
+7,501,Seed-specific sectors,discovery,Middle,20,36.116600790513836,506
+7,501,Seed-specific sectors,discovery,Middle,34,28.152173913043477,506
+7,501,Seed-specific sectors,discovery,Middle,45,9.035573122529645,506
+7,501,Seed-specific sectors,discovery,Far,86,69.78937007874016,508
+7,501,Seed-specific sectors,discovery,Far,6,59.74803149606299,508
+7,501,Seed-specific sectors,discovery,Far,85,50.03346456692913,508
+7,501,Seed-specific sectors,discovery,Far,20,26.318897637795274,508
+7,501,Seed-specific sectors,discovery,Far,34,36.66732283464567,508
+7,501,Seed-specific sectors,discovery,Far,45,23.374015748031496,508
+7,501,Seed-specific sectors,confirmation,Near,86,24.7985347985348,546
+7,501,Seed-specific sectors,confirmation,Near,6,20.48901098901099,546
+7,501,Seed-specific sectors,confirmation,Near,85,13.212454212454212,546
+7,501,Seed-specific sectors,confirmation,Near,20,52.523809523809526,546
+7,501,Seed-specific sectors,confirmation,Near,34,36.93589743589744,546
+7,501,Seed-specific sectors,confirmation,Near,45,16.778388278388277,546
+7,501,Seed-specific sectors,confirmation,Middle,86,52.60919540229885,522
+7,501,Seed-specific sectors,confirmation,Middle,6,41.32375478927203,522
+7,501,Seed-specific sectors,confirmation,Middle,85,30.88888888888889,522
+7,501,Seed-specific sectors,confirmation,Middle,20,37.70498084291188,522
+7,501,Seed-specific sectors,confirmation,Middle,34,30.478927203065133,522
+7,501,Seed-specific sectors,confirmation,Middle,45,9.75287356321839,522
+7,501,Seed-specific sectors,confirmation,Far,86,69.90269151138716,483
+7,501,Seed-specific sectors,confirmation,Far,6,60.10144927536232,483
+7,501,Seed-specific sectors,confirmation,Far,85,50.333333333333336,483
+7,501,Seed-specific sectors,confirmation,Far,20,26.082815734989648,483
+7,501,Seed-specific sectors,confirmation,Far,34,36.904761904761905,483
+7,501,Seed-specific sectors,confirmation,Far,45,23.19047619047619,483

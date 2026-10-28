@@ -1,0 +1,401 @@
+{
+  "archives": {
+    "inputs_france.tar.gz": {
+      "sha256": "8f3cf37b1e0414bc9dfb3d7b4d7a18374ffeff4ab9a77a18656825feec93c302",
+      "files": [
+        "data/france/external_cohort.csv",
+        "evaluation/france/1000/manifest.json",
+        "evaluation/france/1000/test.csv",
+        "evaluation/france/300/manifest.json",
+        "evaluation/france/300/test.csv",
+        "evaluation/france/full/manifest.json",
+        "evaluation/france/full/test.csv",
+        "nativeinputs/france/1000/manifest.json",
+        "nativeinputs/france/1000/pairs.csv",
+        "nativeinputs/france/1000/people.csv",
+        "nativeinputs/france/1000/train_matrix.int8",
+        "nativeinputs/france/1000/validation.csv",
+        "nativeinputs/france/300/manifest.json",
+        "nativeinputs/france/300/pairs.csv",
+        "nativeinputs/france/300/people.csv",
+        "nativeinputs/france/300/train_matrix.int8",
+        "nativeinputs/france/300/validation.csv",
+        "nativeinputs/france/full/manifest.json",
+        "nativeinputs/france/full/pairs.csv",
+        "nativeinputs/france/full/people.csv",
+        "nativeinputs/france/full/train_matrix.int8",
+        "nativeinputs/france/full/validation.csv"
+      ]
+    },
+    "inputs_brazil.tar.gz": {
+      "sha256": "631db87c3905dec25cd19a814d4ddcfb3c5beae150d8a90b951f22575b8d4701",
+      "files": [
+        "data/brazil/external_cohort.csv",
+        "evaluation/brazil/300/manifest.json",
+        "evaluation/brazil/300/test.csv",
+        "evaluation/brazil/full/manifest.json",
+        "evaluation/brazil/full/test.csv",
+        "nativeinputs/brazil/300/manifest.json",
+        "nativeinputs/brazil/300/pairs.csv",
+        "nativeinputs/brazil/300/people.csv",
+        "nativeinputs/brazil/300/train_matrix.int8",
+        "nativeinputs/brazil/300/validation.csv",
+        "nativeinputs/brazil/full/manifest.json",
+        "nativeinputs/brazil/full/pairs.csv",
+        "nativeinputs/brazil/full/people.csv",
+        "nativeinputs/brazil/full/train_matrix.int8",
+        "nativeinputs/brazil/full/validation.csv"
+      ]
+    },
+    "inputs_chile_full.tar.gz": {
+      "sha256": "9b90b7a6387797d577e148e42afaf64d6216ea19c89beb884ede5b980bf69855",
+      "files": [
+        "evaluation/chile/full/manifest.json",
+        "evaluation/chile/full/test.csv",
+        "nativeinputs/chile/full/.train_matrix.int8.P6ngy6",
+        "nativeinputs/chile/full/.train_matrix.int8.P6ngy6.KWpWmH",
+        "nativeinputs/chile/full/manifest.json",
+        "nativeinputs/chile/full/pairs.csv",
+        "nativeinputs/chile/full/people.csv",
+        "nativeinputs/chile/full/train_matrix.int8",
+        "nativeinputs/chile/full/validation.csv"
+      ]
+    },
+    "inputs_chile_nested.tar.gz": {
+      "sha256": "38da1f989aa9e67877bbc43b8351fb0f5707a94076730f40239281c601698ec7",
+      "files": [
+        "data/chile/external_cohort.csv",
+        "evaluation/chile/1000/manifest.json",
+        "evaluation/chile/1000/test.csv",
+        "evaluation/chile/15000/manifest.json",
+        "evaluation/chile/15000/test.csv",
+        "evaluation/chile/300/manifest.json",
+        "evaluation/chile/300/test.csv",
+        "evaluation/chile/5000/manifest.json",
+        "evaluation/chile/5000/test.csv",
+        "nativeinputs/chile/1000/manifest.json",
+        "nativeinputs/chile/1000/pairs.csv",
+        "nativeinputs/chile/1000/people.csv",
+        "nativeinputs/chile/1000/train_matrix.int8",
+        "nativeinputs/chile/1000/validation.csv",
+        "nativeinputs/chile/15000/manifest.json",
+        "nativeinputs/chile/15000/pairs.csv",
+        "nativeinputs/chile/15000/people.csv",
+        "nativeinputs/chile/15000/train_matrix.int8",
+        "nativeinputs/chile/15000/validation.csv",
+        "nativeinputs/chile/300/manifest.json",
+        "nativeinputs/chile/300/pairs.csv",
+        "nativeinputs/chile/300/people.csv",
+        "nativeinputs/chile/300/train_matrix.int8",
+        "nativeinputs/chile/300/validation.csv",
+        "nativeinputs/chile/5000/manifest.json",
+        "nativeinputs/chile/5000/pairs.csv",
+        "nativeinputs/chile/5000/people.csv",
+        "nativeinputs/chile/5000/train_matrix.int8",
+        "nativeinputs/chile/5000/validation.csv"
+      ]
+    }
+  },
+  "files": {
+    "data/brazil/external_cohort.csv": {
+      "sha256": "0aeba1dd7f23b9daae83c68bc5b30b57dd441fccf7fc6417cb2b8fa9140b8e53",
+      "bytes": 22231
+    },
+    "data/chile/external_cohort.csv": {
+      "sha256": "548d2dfe0a1549323f058bc6cf4826ad3093cee7b6ba50706287e1c3da43c9de",
+      "bytes": 1030038
+    },
+    "data/france/external_cohort.csv": {
+      "sha256": "3c5232718928d8b6b29371fcb89b03a1827ce4255cce0ddbf0b16a660711bb08",
+      "bytes": 35662
+    },
+    "evaluation/brazil/300/manifest.json": {
+      "sha256": "b0f57801b5c13694196d0f1e68d73224149bd1b49bfb4d6b5ec1dad0f4c88b51",
+      "bytes": 227
+    },
+    "evaluation/brazil/300/test.csv": {
+      "sha256": "a22b72c8e0f67373895fb8c5aaa285527b8ce8de2180fd8d0bb5c2a56fb08e23",
+      "bytes": 119221
+    },
+    "evaluation/brazil/full/manifest.json": {
+      "sha256": "27eadaab73e4d8971f7f9e4d66b8ff2337a7e4627b5183a912a97aea7cf039e2",
+      "bytes": 228
+    },
+    "evaluation/brazil/full/test.csv": {
+      "sha256": "dca01ab4991f0f9130a92174273be8c2222517824f8320790a780910c0379904",
+      "bytes": 385065
+    },
+    "evaluation/chile/1000/manifest.json": {
+      "sha256": "ad37052534ceae9521fd0bb1f06a831cdfb1ccada066b04dbd32c99c87888906",
+      "bytes": 227
+    },
+    "evaluation/chile/1000/test.csv": {
+      "sha256": "fab5703e173911c2afd4dcab7eda33a4804ffbae5b0c546bbbb370bb81f502d2",
+      "bytes": 103889
+    },
+    "evaluation/chile/15000/manifest.json": {
+      "sha256": "29127a27e12d1170840afc3729a044ade0ff5302676555db351e55eed33cffc3",
+      "bytes": 228
+    },
+    "evaluation/chile/15000/test.csv": {
+      "sha256": "ca44eefa662b5dac8e82ac1922e5263c8cfb76b42fcdc85e944c285804321c34",
+      "bytes": 1744026
+    },
+    "evaluation/chile/300/manifest.json": {
+      "sha256": "f226397bc18d7037e07f0dd15bc47f4efd5646493b6c8106b18d1cedbda80a8d",
+      "bytes": 227
+    },
+    "evaluation/chile/300/test.csv": {
+      "sha256": "25a02773f711506f8d147501675e646a404b76a34b37131c60218a37e6f84228",
+      "bytes": 32547
+    },
+    "evaluation/chile/5000/manifest.json": {
+      "sha256": "9ad15cb5bc0e8a799e00a1de570e668d9f22b6623580bba4c332d59b2aade2d7",
+      "bytes": 228
+    },
+    "evaluation/chile/5000/test.csv": {
+      "sha256": "e0fb686edac4a1bd62bdca73e95849297598886f4680e7f878c5070022b1c332",
+      "bytes": 566085
+    },
+    "evaluation/chile/full/manifest.json": {
+      "sha256": "d22b7803b5be86fdbd1fbd1f44d6717d28134c7ea1ab0744911cb4642e931b25",
+      "bytes": 229
+    },
+    "evaluation/chile/full/test.csv": {
+      "sha256": "f2857c1601149b766f1539e0dd158b21c771e01dd46a7874b434859dc1eb0250",
+      "bytes": 5652094
+    },
+    "evaluation/france/1000/manifest.json": {
+      "sha256": "556296fac8b07ebbbb0a59be7698ced1f21fd6d3c4fef2fb41cf614086602ed8",
+      "bytes": 229
+    },
+    "evaluation/france/1000/test.csv": {
+      "sha256": "b71fb36d733147e442286a677eb5d1895657cd2ca37af3e1193c1aee0f08c6a9",
+      "bytes": 3500541
+    },
+    "evaluation/france/300/manifest.json": {
+      "sha256": "aff03b65125d35b4b11ec561aef174b6e9ed81fe788e64cc2789962e83070cb3",
+      "bytes": 228
+    },
+    "evaluation/france/300/test.csv": {
+      "sha256": "fe6ee435bc421ff75fe726673908df6ed24d51674d6bf75e0ad1602fe42fd390",
+      "bytes": 1264670
+    },
+    "evaluation/france/full/manifest.json": {
+      "sha256": "bb7e257ca056285ef82185c67ee7ffa317eef18dacd455bf9a0700f687ad8aa7",
+      "bytes": 229
+    },
+    "evaluation/france/full/test.csv": {
+      "sha256": "6aa19ac8440be34445ee1afe20ec628cdb929779df1b94fc167a30decb725423",
+      "bytes": 4995263
+    },
+    "nativeinputs/brazil/300/manifest.json": {
+      "sha256": "a894cf35d4ea473ade1f2f2b040fae06b52f0225745c3ce0f93e255bf7b8dedc",
+      "bytes": 830
+    },
+    "nativeinputs/brazil/300/pairs.csv": {
+      "sha256": "79b2d4a1814947f1297c11dd4c564d53127cbaf6e0bf60c53bacbae2fadfbda8",
+      "bytes": 41804
+    },
+    "nativeinputs/brazil/300/people.csv": {
+      "sha256": "79b98c32c83682947cfa5c50bf71368e1503f72ac9c2313fb0fcb21ea4fd0934",
+      "bytes": 14376
+    },
+    "nativeinputs/brazil/300/train_matrix.int8": {
+      "sha256": "34bd1889a521bdba00c620ae62ae66e9c566b05341cef315a8bd012f92bf8780",
+      "bytes": 663300
+    },
+    "nativeinputs/brazil/300/validation.csv": {
+      "sha256": "e673ef28e3ded2bd0f245e2bd30ec91e1a4235afb937fcaa7620e1d4efe2fa0e",
+      "bytes": 75560
+    },
+    "nativeinputs/brazil/full/manifest.json": {
+      "sha256": "ca63aa333f01bd89d14c854a4e152acddd108fb18833acf18159c975611d8f3a",
+      "bytes": 833
+    },
+    "nativeinputs/brazil/full/pairs.csv": {
+      "sha256": "3976cab947d1dbb44f13e6e188a6bcede1fe1c7bb0f7f8bf09bee7106120ac38",
+      "bytes": 42261
+    },
+    "nativeinputs/brazil/full/people.csv": {
+      "sha256": "38f7c0c1d2e8652dc3843d2b3b712b5ecff56f7aa179af0f841fdb86d78541d8",
+      "bytes": 36773
+    },
+    "nativeinputs/brazil/full/train_matrix.int8": {
+      "sha256": "97de6c8f06f52cf7ad4aa5fe6896e858868e4aad0264c974dccf30396fb0af6f",
+      "bytes": 1691415
+    },
+    "nativeinputs/brazil/full/validation.csv": {
+      "sha256": "c87bec3e5d7941387c22b0740cec102d8e0122ad5542fbc57df6a59b7e0a8b03",
+      "bytes": 349243
+    },
+    "nativeinputs/chile/1000/manifest.json": {
+      "sha256": "3032e12454cda7c8b2994c8c92ff9536a0d0e2741c08dde3f8214e3b03361274",
+      "bytes": 831
+    },
+    "nativeinputs/chile/1000/pairs.csv": {
+      "sha256": "b42a9eb8a87c4d35812ace13f416fef1f493370c368663f58afce06d8054e23c",
+      "bytes": 76487
+    },
+    "nativeinputs/chile/1000/people.csv": {
+      "sha256": "8a624f9c48896cdd3afa8931be81339b38559ddfe113b73afc3f1c6db077bdbc",
+      "bytes": 49792
+    },
+    "nativeinputs/chile/1000/train_matrix.int8": {
+      "sha256": "2bb734e3681e37bec97b30e12967f1b7bb1c62fd7fc247233d662ab39d64d33a",
+      "bytes": 4005000
+    },
+    "nativeinputs/chile/1000/validation.csv": {
+      "sha256": "cbd0dcfbdfdd59d6f40135549571ace8f8fd496119c17830b85d3a1ce616675d",
+      "bytes": 103886
+    },
+    "nativeinputs/chile/15000/manifest.json": {
+      "sha256": "5ea04f0dcacb68a7a92f2abf8f9e79bc65d58d2a5f01c40691de3035107594a5",
+      "bytes": 835
+    },
+    "nativeinputs/chile/15000/pairs.csv": {
+      "sha256": "f1d27b84ca7f91452ee30000e44520f8ff08ffb429867248a2000a5e66ac54e9",
+      "bytes": 81397
+    },
+    "nativeinputs/chile/15000/people.csv": {
+      "sha256": "a57adb21a8f15ec1473699fe122119d0a61395aa521d2de476aded8feca89de4",
+      "bytes": 766655
+    },
+    "nativeinputs/chile/15000/train_matrix.int8": {
+      "sha256": "06bb2a2e450c3e30429036c72a74a495074c863779fe67d4505bd5fe0bea7ceb",
+      "bytes": 60075000
+    },
+    "nativeinputs/chile/15000/validation.csv": {
+      "sha256": "3e630454aced9684162b06796569f17a4e3e3f4e342d4506e3f3842486afc50a",
+      "bytes": 1743551
+    },
+    "nativeinputs/chile/300/manifest.json": {
+      "sha256": "6d6aeedae9e06c10e579f7908b05203bb9c6c771444aff11e74b11dd2a59e980",
+      "bytes": 829
+    },
+    "nativeinputs/chile/300/pairs.csv": {
+      "sha256": "9f1952557dd5da22c4d3520211fb51d2c6b368ddf1427a6256a89db33ca2587f",
+      "bytes": 73400
+    },
+    "nativeinputs/chile/300/people.csv": {
+      "sha256": "ef26b6459cd6126ba9d8eb0bc629a7188ca4f8d47768355b511f0cb69f3ade8c",
+      "bytes": 14885
+    },
+    "nativeinputs/chile/300/train_matrix.int8": {
+      "sha256": "f90933990bc0f3828985a98b28a62d13c5c0f03e9f3f741b3b2ef1867b153a77",
+      "bytes": 1201500
+    },
+    "nativeinputs/chile/300/validation.csv": {
+      "sha256": "a2dda9a9a8f4edc1eeddede3d7f1bf0922a233b1d69c939275dc427d5dee6f99",
+      "bytes": 32563
+    },
+    "nativeinputs/chile/5000/manifest.json": {
+      "sha256": "3d0b8e86e11e95dbf53fc4aa5f4a2210ec95dd9b26afb7985f90108e9a3afc7c",
+      "bytes": 833
+    },
+    "nativeinputs/chile/5000/pairs.csv": {
+      "sha256": "a936747180baa0a66d49e7eb9ef70b6c90cfaf9541012476302bc56555be8c03",
+      "bytes": 77393
+    },
+    "nativeinputs/chile/5000/people.csv": {
+      "sha256": "daf61baa797fc0bf427677d2728440817528fe1a7263203e2200eeed6e6af85a",
+      "bytes": 253246
+    },
+    "nativeinputs/chile/5000/train_matrix.int8": {
+      "sha256": "7f5ae547201b64ff6285b73fb107b731edd5069c97277250ce848c4da7593725",
+      "bytes": 20025000
+    },
+    "nativeinputs/chile/5000/validation.csv": {
+      "sha256": "f33a3b6d3616af0ca3b37c745ef2d8db192d63df9bd5f46635dc027da7f77366",
+      "bytes": 566038
+    },
+    "nativeinputs/chile/full/.train_matrix.int8.P6ngy6": {
+      "sha256": "96b8898a6a114815080090e9439aec2bcc2d6b2e1cb3d312c2eee9c0c84f953e",
+      "bytes": 74973184
+    },
+    "nativeinputs/chile/full/.train_matrix.int8.P6ngy6.KWpWmH": {
+      "sha256": "95fb32e069989b3e8ed8c872868f1834706921785adb8212f98dbf8972ce7c2a",
+      "bytes": 23330816
+    },
+    "nativeinputs/chile/full/manifest.json": {
+      "sha256": "ec3ddcdbfb734a819ea2c33072af0f91f8a967b5fc851ff730697a5df2a05b26",
+      "bytes": 836
+    },
+    "nativeinputs/chile/full/pairs.csv": {
+      "sha256": "2952a599ce4f0ab6449f2551b3264b963c886aab2d3788f117650293a6e6aabc",
+      "bytes": 81398
+    },
+    "nativeinputs/chile/full/people.csv": {
+      "sha256": "8d0942d48680c6697e3421c994ba69f6e63fa8acf1350e0626d0bbaae55fe0fc",
+      "bytes": 2455207
+    },
+    "nativeinputs/chile/full/train_matrix.int8": {
+      "sha256": "3281bb67513385619394bd0e6895d4bbb3c86ba69749593d6bd317bf28901682",
+      "bytes": 190533870
+    },
+    "nativeinputs/chile/full/validation.csv": {
+      "sha256": "d58a47b1ea73b35215360b4c9493c300bff65bd4b7c2917f7f3311ce5ec48e7a",
+      "bytes": 5651206
+    },
+    "nativeinputs/france/1000/manifest.json": {
+      "sha256": "2662e8eb0d81816e092c911816701dd8f4ed44d21d5d2d50081654636c158c68",
+      "bytes": 836
+    },
+    "nativeinputs/france/1000/pairs.csv": {
+      "sha256": "5e350ba70194a028dbb820cd9b448a8b677f689e9654810f8cf3a9f662386710",
+      "bytes": 150556
+    },
+    "nativeinputs/france/1000/people.csv": {
+      "sha256": "d540782d5c681da398f9ada1217c832c56925da5f8ac581a07c9ca72b9087ff8",
+      "bytes": 49223
+    },
+    "nativeinputs/france/1000/train_matrix.int8": {
+      "sha256": "6e014dc7cc1f7fe17278aae1c58b9726794b56571389621322dff2c6afa23443",
+      "bytes": 7140000
+    },
+    "nativeinputs/france/1000/validation.csv": {
+      "sha256": "64397b53f4c64a29f601d19b28a92c30d4c0f6a920850207e261974946f9fe4d",
+      "bytes": 3359736
+    },
+    "nativeinputs/france/300/manifest.json": {
+      "sha256": "1d9493f3615d47c2d257e3d033c40390ec4d54def04d262c11b6eb952dd2be86",
+      "bytes": 832
+    },
+    "nativeinputs/france/300/pairs.csv": {
+      "sha256": "6283e478761733197585e49ca15896ce45bcbda749f0a7676efba79c284aeb88",
+      "bytes": 144539
+    },
+    "nativeinputs/france/300/people.csv": {
+      "sha256": "e861f5322113ae51002c2fc21614b6099afd275e28b1506f85c09b9a18ef4f1c",
+      "bytes": 14719
+    },
+    "nativeinputs/france/300/train_matrix.int8": {
+      "sha256": "0fcf43933e89c5960c99e44dee5cf59f10a0e91b9f9c67e31c8ede4aabc4be9a",
+      "bytes": 2142000
+    },
+    "nativeinputs/france/300/validation.csv": {
+      "sha256": "8a3d89bdc82a797c986eef94d3da28dff3e41f782fcd537d6941b34b067ce252",
+      "bytes": 883279
+    },
+    "nativeinputs/france/full/manifest.json": {
+      "sha256": "5893ac002e25503590893d9bf63622f4c71e5d05b7f9c286c23e055b037af2d5",
+      "bytes": 836
+    },
+    "nativeinputs/france/full/pairs.csv": {
+      "sha256": "52b69f0c2c9620eed85fad121b0fa8503966aa479aaf4f83547e71a3cfb370df",
+      "bytes": 151434
+    },
+    "nativeinputs/france/full/people.csv": {
+      "sha256": "34c65ab3591f7f22e3d8ab58291b1e6941a3375ecb5eda6a39ab34c526bcec63",
+      "bytes": 71521
+    },
+    "nativeinputs/france/full/train_matrix.int8": {
+      "sha256": "ca103274e36650c3e2044cd2ba47bf08f6df0ed3335dbad462d58fb17af0f2f9",
+      "bytes": 10303020
+    },
+    "nativeinputs/france/full/validation.csv": {
+      "sha256": "0cb7c2a1de21664a2e11e117ca501df7f692493b600658987ca42e64ff64c860",
+      "bytes": 4404826
+    }
+  }
+}

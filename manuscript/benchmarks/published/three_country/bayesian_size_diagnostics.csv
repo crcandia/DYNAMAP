@@ -1,0 +1,11 @@
+country,requested_size,status,iterations,probability_convergence,coordinate_convergence,all_item_parameter_convergence,retained_people,retained_pairs
+chile,300,NONCONVERGED_AT_ITERATION_CAP,30000,False,False,False,145,2178
+chile,1000,NONCONVERGED_AT_ITERATION_CAP,30000,False,False,False,553,3774
+chile,5000,NONCONVERGED_AT_ITERATION_CAP,30000,False,False,False,2873,4001
+chile,15000,NONCONVERGED_AT_ITERATION_CAP,30000,False,False,False,8521,4005
+chile,full,NONCONVERGED_AT_ITERATION_CAP,30000,True,False,False,27163,4005
+france,300,NONCONVERGED_AT_ITERATION_CAP,30000,False,False,False,243,6706
+france,1000,NONCONVERGED_AT_ITERATION_CAP,30000,False,False,False,829,6955
+france,full,NONCONVERGED_AT_ITERATION_CAP,30000,False,False,False,1188,6931
+brazil,300,NONCONVERGED_AT_ITERATION_CAP,30000,False,False,False,200,2106
+brazil,full,NONCONVERGED_AT_ITERATION_CAP,30000,False,False,False,535,2180

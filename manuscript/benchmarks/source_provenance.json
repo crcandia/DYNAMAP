@@ -1,0 +1,175 @@
+{
+  "sources": {
+    "src/neural.py": {
+      "source": "retained October benchmark",
+      "sha256": "0f2bb94b49c04f094beb63792a5d1f5bdf870b92a9c868b35ec1da8c197e6d30",
+      "release_sha256": "61f01ebea6004075e31ff6a9880ca9950befc5215e8543afb7a503873f63bf82",
+      "unchanged": false
+    },
+    "src/models.py": {
+      "source": "retained October benchmark",
+      "sha256": "21701cdd0219e4bb6737d681970d7dcb6b4d938c92aa8ccf4bb06474dd9052c4",
+      "release_sha256": "21701cdd0219e4bb6737d681970d7dcb6b4d938c92aa8ccf4bb06474dd9052c4",
+      "unchanged": true
+    },
+    "src/evaluate.py": {
+      "source": "retained October benchmark",
+      "sha256": "356d76d3e23891790e5bc01ee35daaeb2478b130042a8712c2db48e3ddeb4576",
+      "release_sha256": "356d76d3e23891790e5bc01ee35daaeb2478b130042a8712c2db48e3ddeb4576",
+      "unchanged": true
+    },
+    "src/finalize.py": {
+      "source": "retained October benchmark",
+      "sha256": "dc4e644b58956249862a7707b899e6a3ffc95b41553379276c32d7548f18f342",
+      "release_sha256": "a4bef5c840e87256d312d79a051495b5e01e0d475843cce9e66611131c993cd5",
+      "unchanged": false
+    },
+    "src/vendor/model.py": {
+      "source": "retained October benchmark",
+      "sha256": "499857c05094a86f1b9360978a125347861ed9eca3f530e5bd4788d40f74aabf",
+      "release_sha256": "499857c05094a86f1b9360978a125347861ed9eca3f530e5bd4788d40f74aabf",
+      "unchanged": true
+    },
+    "src/vendor/choice_models.py": {
+      "source": "retained October benchmark",
+      "sha256": "5ae872e7284c5029ad99fa94c6b9590c59c9a754122eccd55aab200f332342ba",
+      "release_sha256": "5ae872e7284c5029ad99fa94c6b9590c59c9a754122eccd55aab200f332342ba",
+      "unchanged": true
+    },
+    "src/classic/native_chunk.R": {
+      "source": "native October benchmark",
+      "sha256": "adcf9aa8bcd1f5c13f2a19370743994bf878701ffa69a917c0552a8760674b41",
+      "release_sha256": "adcf9aa8bcd1f5c13f2a19370743994bf878701ffa69a917c0552a8760674b41",
+      "unchanged": true
+    },
+    "src/classic/prepare.R": {
+      "source": "native October benchmark",
+      "sha256": "d57441e34387c030cdf149133de55f0c52c261a8911a602e4b30f83f4a8740cf",
+      "release_sha256": "d57441e34387c030cdf149133de55f0c52c261a8911a602e4b30f83f4a8740cf",
+      "unchanged": true
+    },
+    "src/classic/test_guards.py": {
+      "source": "retained October benchmark",
+      "sha256": "bbcc5288c80e9ef5be4d9a13968f28f47d2ce69abe23971208f1d20376a08263",
+      "release_sha256": "bbcc5288c80e9ef5be4d9a13968f28f47d2ce69abe23971208f1d20376a08263",
+      "unchanged": true
+    },
+    "src/classic/posterior_predict.R": {
+      "source": "native October benchmark",
+      "sha256": "0c233a6339bbcbbdd435b14bd85e9aa6acfd9d0390ececfc980dd3079c1ce1a1",
+      "release_sha256": "0c233a6339bbcbbdd435b14bd85e9aa6acfd9d0390ececfc980dd3079c1ce1a1",
+      "unchanged": true
+    },
+    "src/classic/diagnostics.py": {
+      "source": "retained October benchmark",
+      "sha256": "297ee7531b3f75ef5358e668ff5c36af509979a4015f9dad78f5fca729ac4c85",
+      "release_sha256": "297ee7531b3f75ef5358e668ff5c36af509979a4015f9dad78f5fca729ac4c85",
+      "unchanged": true
+    },
+    "src/classic/run_chain.R": {
+      "source": "native October benchmark",
+      "sha256": "b3ead3a74f58041506349db7a142d7a0f7783aed44e98917eb2bfb2a68d01bc0",
+      "release_sha256": "b3ead3a74f58041506349db7a142d7a0f7783aed44e98917eb2bfb2a68d01bc0",
+      "unchanged": true
+    },
+    "src/classic/condition.py": {
+      "source": "retained October benchmark",
+      "sha256": "22ace4b95241cc330c42362277030869c56bb11d831e636cc61042cee44a035e",
+      "release_sha256": "22ace4b95241cc330c42362277030869c56bb11d831e636cc61042cee44a035e",
+      "unchanged": true
+    },
+    "src/classic/wnominate_full.R": {
+      "source": "native October benchmark",
+      "sha256": "4945f52bbe9477339743db1b6b07c4ab084214039597bc048c575edd13d80439",
+      "release_sha256": "4945f52bbe9477339743db1b6b07c4ab084214039597bc048c575edd13d80439",
+      "unchanged": true
+    },
+    "src/classic/wnominate_predict.R": {
+      "source": "native October benchmark",
+      "sha256": "0036e745da24daf228b4d8e9dd22f75cac0a6cb0366d30de866b931e13eed411",
+      "release_sha256": "0036e745da24daf228b4d8e9dd22f75cac0a6cb0366d30de866b931e13eed411",
+      "unchanged": true
+    },
+    "src/classic/test_synthetic.R": {
+      "source": "native October benchmark",
+      "sha256": "e2c8ec09e0568b1647b01c3b987e8ab93bfad38c2231263d0bb46ebfc4375803",
+      "release_sha256": "e2c8ec09e0568b1647b01c3b987e8ab93bfad38c2231263d0bb46ebfc4375803",
+      "unchanged": true
+    },
+    "src/classic/snapshot.R": {
+      "source": "native October benchmark",
+      "sha256": "75a8003a78e4bb205048736cc7dc74c1eb3abc8b671c4b85a4697e4c99b81b21",
+      "release_sha256": "75a8003a78e4bb205048736cc7dc74c1eb3abc8b671c4b85a4697e4c99b81b21",
+      "unchanged": true
+    },
+    "emirt/src/scheduler.py": {
+      "source": "one-dimensional October comparison",
+      "sha256": "18acc277abd0ed4e58096dfc29e88a17a77ed4665d0a2d05158188cdf8364a61",
+      "release_sha256": "0aeeebfa9af77b59ca6d3bb22284539d42c4d73900aebf4f75313b8d12c23c62",
+      "unchanged": false
+    },
+    "emirt/src/prepare.py": {
+      "source": "one-dimensional October comparison",
+      "sha256": "9eea82f371e56bb4ba89a10953e98b7c808bd2cad8a0e04f14f42657294e83f7",
+      "release_sha256": "bf4711a86e78f080ddf94a0d4b02fab7fdb2522f91fd5ce1e7ff7e3f60950749",
+      "unchanged": false
+    },
+    "emirt/src/neural.py": {
+      "source": "one-dimensional October comparison",
+      "sha256": "4f58dcf6ff4cdc392beb5b1f20bf3f8c70ad00503aaeebc66fbf26e46e4e96f9",
+      "release_sha256": "4f58dcf6ff4cdc392beb5b1f20bf3f8c70ad00503aaeebc66fbf26e46e4e96f9",
+      "unchanged": true
+    },
+    "emirt/src/__init__.py": {
+      "source": "one-dimensional October comparison",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "unchanged": true
+    },
+    "emirt/src/build_jobs.py": {
+      "source": "one-dimensional October comparison",
+      "sha256": "3686f3cbab8c49ea045bfeb047048593c79cd423a2941d3abee74237e519cd85",
+      "release_sha256": "8ca8e7bc523cb5bd245c52e9fd7bd547ff56ae176d849bc21d0d838b92e26e17",
+      "unchanged": false
+    },
+    "emirt/src/models.py": {
+      "source": "one-dimensional October comparison",
+      "sha256": "b92eae05f2ed57727453c6b82add1bf19a205da30fdaba26e33f04d0c1420c8e",
+      "release_sha256": "b92eae05f2ed57727453c6b82add1bf19a205da30fdaba26e33f04d0c1420c8e",
+      "unchanged": true
+    },
+    "emirt/src/common.py": {
+      "source": "one-dimensional October comparison",
+      "sha256": "bcef81af47da3887fc5d6c0676799ab72ea8dfb6d25d36fdecbf38f7a8035bdb",
+      "release_sha256": "bcef81af47da3887fc5d6c0676799ab72ea8dfb6d25d36fdecbf38f7a8035bdb",
+      "unchanged": true
+    },
+    "emirt/src/emirt.R": {
+      "source": "one-dimensional October comparison",
+      "sha256": "8c42f7a697f1de70b735770bdaab69edd5c4d9ea8e18e76c6034923581e357a1",
+      "release_sha256": "8c42f7a697f1de70b735770bdaab69edd5c4d9ea8e18e76c6034923581e357a1",
+      "unchanged": true
+    },
+    "emirt/src/vendor/model.py": {
+      "source": "one-dimensional October comparison",
+      "sha256": "e8d3d2314f9a14b04af93fc990397de6482c8b0bd202145cbce84bbbf2f0048a",
+      "release_sha256": "e8d3d2314f9a14b04af93fc990397de6482c8b0bd202145cbce84bbbf2f0048a",
+      "unchanged": true
+    },
+    "emirt/src/vendor/choice_models.py": {
+      "source": "one-dimensional October comparison",
+      "sha256": "f4d36aa3eac4926cbc0d768b6347d90eb27d83323227cfabad856870b888721e",
+      "release_sha256": "f4d36aa3eac4926cbc0d768b6347d90eb27d83323227cfabad856870b888721e",
+      "unchanged": true
+    }
+  },
+  "original_input_archive_sha256": "d2e4297d3c27aa1df064b70456439fb3c0e7ee3522e2dc3ec1669fead1af35ab",
+  "input_scope": "Analysis-ready fixed country partitions before shared training-only support filtering. Matrix/test/fold CSV bytes are unchanged.",
+  "portability_changes": {
+    "src/neural.py": "Require fresh locally generated coverage hashes instead of a server reuse certificate.",
+    "src/finalize.py": "Use local native preparation and fits for all countries, including Chile full; remove expired server deadline text.",
+    "emirt/src/prepare.py": "Use local preparation for Chile full and allow a single-country input build.",
+    "emirt/src/build_jobs.py": "Allow a single-country queue and remove expired fixed deadline.",
+    "emirt/src/scheduler.py": "Resolve Rscript and GNU time locally; use available CPUs, local process-tree memory and an invocation-relative wall budget."
+  }
+}

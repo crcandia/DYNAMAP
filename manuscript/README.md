@@ -1,5 +1,7 @@
 # DYNAMAP
 
+Replication code for *Mapping mass ideological organization from comparative policy choices*.
+
 Open a notebook, run its cells and inspect the results. The data and fitted models used in the manuscript are included, so each notebook can start in a fresh kernel without running the others first. Its opening section names the inputs it reads and the notebook that regenerates them.
 
 ## Start
@@ -42,6 +44,11 @@ Notebook 11 also needs `rsvg-convert` to export the editable architecture diagra
 | [16 · Publication tables](notebooks/16_publication_tables.ipynb) | Descriptively named CSV and LaTeX tables |
 | [17 · Choice geometry](notebooks/17_choice_geometry_diagnostics.ipynb) | Predictions, distance ordering and exchange symmetry |
 | [18 · Choice-head ablation](notebooks/18_choice_head_ablation.ipynb) | Matched five-seed prediction and geometry comparison |
+| [19 · Map interpretation](notebooks/19_map_interpretation.ipynb) | Frozen within-self-placement case, reserved choices and five-fit stability |
+| [20 · Global concordance and cases](notebooks/20_map_global_and_cases.ipynb) | Distance–choice concordance and the self-placement 3 and 7 cases |
+| [21 · Manuscript figures](notebooks/21_manuscript_figures.ipynb) | Current main and supplementary presentations of the analyses in 20 |
+| [22 · Model comparisons](notebooks/22_model_comparisons.ipynb) | Current three-country predictive, runtime and diagnostic tables |
+| [23 · Separation uncertainty](notebooks/23_peak_uncertainty.ipynb) | Conditional bootstrap intervals and the combined spatial figure |
 
 Notebook numbers are retained to keep existing references valid. The fitting notebooks for the supplied optimizer and all-cycle architecture comparisons are outside this package.
 
@@ -67,7 +74,8 @@ A saved model's `model_specification.json` records how its weights must be recon
 
 - `data/raw/` holds the supplied observations and reference inputs. Notebooks never overwrite them.
 - `data/processed/` holds generated samples, splits, rankings and plotting inputs.
-- `data/benchmarks/` holds supplied optimizer, architecture and ideal-point benchmark results. Their numerical inputs remain unchanged.
+- `data/benchmarks/` holds the supplied optimizer and architecture comparisons, together with historical ideal-point results retained for provenance. Notebook 16 generates the optimizer and architecture tables; notebook 22 generates the current method comparisons.
+- `benchmarks/` holds the fixed inputs, estimator code and published summaries for the current three-country comparison. Its [README](benchmarks/README.md) gives the Python and R dependencies and commands for repeating the fits.
 - `outputs/models/` and `outputs/validation/` hold fitted weights and external-validation results.
 - `outputs/figures/`, `outputs/panels/`, `outputs/tables/`, `outputs/manuscript_tables/` and `outputs/diagnostics/` hold the visible analytical results.
 - `assets/` contains the editable vector diagrams.
@@ -75,7 +83,7 @@ A saved model's `model_specification.json` records how its weights must be recon
 
 The [data guide](data/README.md) explains file origins, key columns and which notebook generates each intermediate. If you change an upstream analysis, rerun the notebooks that use its outputs. For example, revised Chilean coordinates feed 05, 09, 14 and 17. Notebook 09 then supplies the map notebooks, while 05 supplies 15 and 16. Figure 2 assembly in 15 uses panels from 11 and 12. Publication maps target the included two-dimensional design. Structural experiments can also require changes to local figure settings or table labels. Notebook 17 can evaluate saved Chilean fits in other dimensions.
 
-All three country maps were fitted separately. Their distances do not define a common cross-country ideological scale. The benchmark fitting scripts for W-NOMINATE and the Bayesian model are not included. Notebook 16 reproduces their tables from the author-confirmed numerical inputs.
+All three country maps were fitted separately. Their distances do not define a common cross-country ideological scale. The current benchmark uses its own restricted common-support samples and held-out partitions. These are distinct from the country maps. Notebook 22 rebuilds the published tables from included summaries; `benchmarks/` provides the code and fixed inputs for rerunning the estimators. The Bayesian runs that did not pass the diagnostic criteria remain diagnostics, not predictive scores.
 
 ## Choice-head ablation
 
@@ -95,4 +103,14 @@ The source observations, processed analytical data and fitted results are includ
 
 The included `.gitattributes` tracks `data/raw/chile_choices.csv` and `data/raw/france_participation.csv` with Git LFS. They exceed GitHub's ordinary per-file limit. Install Git LFS and run `git lfs install` before adding this folder to the new manuscript branch. Commit the attributes with the files and check `git lfs ls-files` before pushing. The repository must have sufficient LFS storage and bandwidth. No public upload is performed by the notebooks.
 
-After cloning a branch containing this release, run `git lfs pull` from the repository. Keep the folder structure intact and open notebooks individually in JupyterLab. There is no runner or global configuration file. The `model_specification.json` files are required saved-model metadata, not an additional workflow to configure.
+After cloning this branch, run `git lfs pull` from the repository. Keep the folder structure intact and open notebooks individually in JupyterLab. Notebook parameters are visible near the top. The `model_specification.json` files are required saved-model metadata, not an additional workflow to configure. The separate benchmark package includes command-line entry points for the long fitting jobs.
+
+## New analyses
+
+Notebook 19 retains the original self-placement-3 selection and participant assignments. Notebook 20 uses the existing five maps and original choice partitions to reproduce global concordance and both self-placement cases. Each recomputes its statistics and displays the results before saving them. These are secondary evaluations on historically consulted data; the supplied selection locks preserve the reported analysis.
+
+Run 20 before 21 when changing its analysis. Notebook 21 generates the current main and supplementary figure layouts from the tables produced by 20. Those tables are included, so 21 can also run independently.
+
+Notebook 23 resamples participants 2,000 times, holding learned coordinates, Gaussian kernel covariance matrices and evaluation grids fixed. It regenerates the conditional intervals and spatial figures. Its supplied coordinate inputs come from notebook 12. Run 12 before 23 if the map or group definitions change.
+
+Repeating every model fit is substantially more expensive than reevaluating the supplied models. The benchmark README states which commands fit models and which only regenerate tables. Saved benchmark timing measurements describe the original machines and workflows; a rerun records its own times.

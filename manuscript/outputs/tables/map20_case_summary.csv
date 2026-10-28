@@ -1,0 +1,13 @@
+self_placement,proposal_id,figure_label,difference_pp,lower95_pp,upper95_pp,common_people,common_choices,same_discovery_direction_fits,stable_interpretation,sufficient_support
+3,37,Constituent assembly,32.40072202166064,15.284832152255209,48.67683372538718,135,145,5,True,True
+3,72,Reduce number of provinces,-11.570688604509442,-24.49925585539791,2.986329380769325,131,148,2,False,True
+3,57,Judicial investigation of recent human-rights violations,23.089921544960774,7.1146158679868385,36.54112773747767,167,182,5,True,True
+3,78,End coattail-based election of legislators,-11.554779136511103,-30.97734993176064,7.548289671249147,130,150,5,True,True
+3,66,Limit parliamentary reelection,-9.904074772485036,-30.808977684761224,11.812644965842768,126,139,5,True,True
+3,55,Minimum pension at least minimum wage,-0.695536470303616,-13.16341472314169,13.197271544671278,167,183,1,True,True
+7,86,Cancel state-guaranteed student-loan debt (CAE),15.035238841033674,-10.502108257118469,39.73353180543081,90,97,5,True,True
+7,6,Reverse privatization of water,20.706455542021928,-10.539135034891045,53.54398624664789,61,62,5,True,True
+7,85,Increase tax progressivity (tax the very rich more),38.798950890838384,16.27860292023695,57.733393064614916,103,114,5,True,True
+7,20,Reform or abolish the notary system,-20.98765432098765,-49.328168728037,11.596493844785174,57,61,5,True,True
+7,34,Reduce number of legislators,2.4088323854131835,-19.231863149216817,25.609292783605316,101,111,5,True,True
+7,45,Reduce property taxes for vulnerable older adults,-18.41728611662588,-36.77612176902304,0.5513649671392759,111,123,4,True,True

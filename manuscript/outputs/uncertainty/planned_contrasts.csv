@@ -1,0 +1,4 @@
+contrast,summary,difference,lower95,upper95,bootstrap_fraction_below_zero
+Generation Z minus Baby Boomers,Mean,0.002674459222289205,-0.022123506455755126,0.02633994458617081,0.4075
+Generation Z minus Baby Boomers,Median,0.03549667471809603,0.004420468882472109,0.06948102732612584,0.014
+Generation Z minus Baby Boomers,Density peak,-0.0631210339798739,-0.10197114819032793,0.015483246913707357,0.966

@@ -1,0 +1,6 @@
+check,passed
+published_point_estimates_reproduced,True
+kernel_density_matches_scipy,True
+bootstrap_density_matches_direct_mixture,True
+participant_ids_unique_in_each_input,True
+no_boundary_peaks_in_primary_bootstrap,True

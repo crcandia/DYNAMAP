@@ -1,0 +1,7 @@
+figure_number,proposal_id,Near,Middle,Far,gap_far_minus_near,short_name,full_text,topic,role
+1,86,29.423228346456693,57.45652173913044,67.14566929133858,37.72244094488188,CAE,Condonación de las deudas del Crédito con Aval del Estado (CAE),Educación,Focal
+2,6,26.287401574803148,42.90909090909091,56.246062992125985,29.958661417322837,Agua,Desprivatización del Agua,Economía,Near-distinctive
+3,85,20.37204724409449,35.426877470355734,48.90748031496063,28.53543307086614,Progresividad de Impuestos,Aumentar progresividad de impuestos (más impuestos a Súper Ricos),Política Tributaria,Near-distinctive
+4,20,58.618110236220474,37.17193675889328,20.023622047244096,-38.59448818897638,Notarios,Reforma o fin de sistema de Notarios,Modernización del Estado,Far-distinctive
+5,34,49.94094488188976,30.128458498023715,16.521653543307085,-33.41929133858268,Reducción Parlamento,Reducción Número de Parlamentarios,Reforma Congreso,Far-distinctive
+6,45,18.748031496062993,10.873517786561266,18.18503937007874,-0.5629921259842519,Contribuciones,Reducción Contribuciones de Adultos Mayores Vulnerables,Política Tributaria,Shared

@@ -1,0 +1,49 @@
+self_placement,membership,phase,proposal_id,role,same_discovery_direction_fits,min_rank_gap,max_rank_gap,shared_priority_rule_fits,stable_interpretation
+3,Fixed 101 sectors,confirmation,37,Focal,5,44.17522693026652,65.81154043319991,0,True
+3,Fixed 101 sectors,confirmation,55,Shared,1,-1.696684979883079,3.8952910351541252,5,True
+3,Fixed 101 sectors,confirmation,57,Near-distinctive,5,44.1026584369385,63.950150423827544,0,True
+3,Fixed 101 sectors,confirmation,66,Far-distinctive,5,-15.70170255953521,-12.645696221539865,0,True
+3,Fixed 101 sectors,confirmation,72,Near-distinctive,2,-6.1025522858725765,72.79669481827456,0,False
+3,Fixed 101 sectors,confirmation,78,Far-distinctive,5,-19.004921784787776,-12.571646791389853,0,True
+3,Fixed 101 sectors,discovery,37,Focal,5,43.31007745657247,63.53054511278196,0,True
+3,Fixed 101 sectors,discovery,55,Shared,3,-2.364078299196265,2.1159147869674193,5,True
+3,Fixed 101 sectors,discovery,57,Near-distinctive,5,43.212667984616715,63.12938326419496,0,True
+3,Fixed 101 sectors,discovery,66,Far-distinctive,5,-17.616209165154267,-12.943744058421917,0,True
+3,Fixed 101 sectors,discovery,72,Near-distinctive,2,-5.560633804338423,72.12981537896465,0,False
+3,Fixed 101 sectors,discovery,78,Far-distinctive,5,-19.860683497536947,-13.334653984098175,0,True
+3,Seed-specific sectors,confirmation,37,Focal,5,54.91345854912458,65.81154043319991,0,True
+3,Seed-specific sectors,confirmation,55,Shared,1,-1.696684979883079,3.8463834967006214,5,True
+3,Seed-specific sectors,confirmation,57,Near-distinctive,5,54.04975267732796,63.950150423827544,0,True
+3,Seed-specific sectors,confirmation,66,Far-distinctive,5,-18.023102056505863,-13.360030136268346,0,True
+3,Seed-specific sectors,confirmation,72,Near-distinctive,2,-11.153353914794863,72.79669481827456,0,False
+3,Seed-specific sectors,confirmation,78,Far-distinctive,5,-20.41844772079697,-13.236821681986775,0,True
+3,Seed-specific sectors,discovery,37,Focal,5,54.55210223835451,66.24794745484401,0,True
+3,Seed-specific sectors,discovery,55,Shared,1,-2.364078299196265,1.875205254515599,5,True
+3,Seed-specific sectors,discovery,57,Near-distinctive,5,53.76682006740991,63.12938326419496,0,True
+3,Seed-specific sectors,discovery,66,Far-distinctive,5,-20.30377668308703,-14.397372742200329,0,True
+3,Seed-specific sectors,discovery,72,Near-distinctive,2,-9.592529275775647,72.12981537896465,0,False
+3,Seed-specific sectors,discovery,78,Far-distinctive,5,-21.538406900872868,-14.509031198686369,0,True
+7,Fixed 101 sectors,confirmation,6,Near-distinctive,5,28.47621875833313,38.07410325406253,0,True
+7,Fixed 101 sectors,confirmation,20,Far-distinctive,5,-38.343207841426064,-27.55308558176368,0,True
+7,Fixed 101 sectors,confirmation,34,Far-distinctive,5,-33.12394042972696,-20.378823139641064,0,True
+7,Fixed 101 sectors,confirmation,45,Shared,4,-2.7996533417371694,0.19728410624388992,5,True
+7,Fixed 101 sectors,confirmation,85,Near-distinctive,5,25.164812166169707,31.8932955160683,0,True
+7,Fixed 101 sectors,confirmation,86,Focal,5,21.551218960348436,37.889938021704516,0,True
+7,Fixed 101 sectors,discovery,6,Near-distinctive,5,27.988188976377952,37.13385826771653,0,True
+7,Fixed 101 sectors,discovery,20,Far-distinctive,5,-38.59448818897638,-27.429133858267715,0,True
+7,Fixed 101 sectors,discovery,34,Far-distinctive,5,-33.41929133858268,-20.56496062992126,0,True
+7,Fixed 101 sectors,discovery,45,Shared,4,-2.9015748031496074,0.49409448818897594,5,True
+7,Fixed 101 sectors,discovery,85,Near-distinctive,5,24.938976377952756,31.57283464566929,0,True
+7,Fixed 101 sectors,discovery,86,Focal,5,19.431102362204726,37.72244094488188,0,True
+7,Seed-specific sectors,confirmation,6,Near-distinctive,5,29.919372294372298,39.612438286351335,0,True
+7,Seed-specific sectors,confirmation,20,Far-distinctive,5,-42.9815356754799,-8.575728224996418,0,True
+7,Seed-specific sectors,confirmation,34,Far-distinctive,4,-33.12394042972696,8.25461687473095,0,False
+7,Seed-specific sectors,confirmation,45,Shared,1,-1.1473540035393093,10.764998565073899,2,False
+7,Seed-specific sectors,confirmation,85,Near-distinctive,5,29.903000331305098,37.428619601090546,0,True
+7,Seed-specific sectors,confirmation,86,Focal,5,37.889938021704516,49.20700961400488,0,True
+7,Seed-specific sectors,discovery,6,Near-distinctive,5,29.958661417322837,39.40944881889764,0,True
+7,Seed-specific sectors,discovery,20,Far-distinctive,5,-44.02165354330709,-8.576771653543311,0,True
+7,Seed-specific sectors,discovery,34,Far-distinctive,3,-33.41929133858268,8.090551181102363,0,False
+7,Seed-specific sectors,discovery,45,Shared,1,-0.5629921259842519,9.771653543307085,2,False
+7,Seed-specific sectors,discovery,85,Near-distinctive,5,28.53543307086614,37.261811023622045,0,True
+7,Seed-specific sectors,discovery,86,Focal,5,37.72244094488188,49.683070866141726,0,True

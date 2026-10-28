@@ -1,0 +1,26 @@
+# FIT_DIR QUERY_CSV OUTPUT_CSV TEST_SEAL: no native refitting.
+a<-commandArgs(TRUE);stopifnot(length(a)==4)
+script<-normalizePath(sub('^--file=','',commandArgs()[grep('^--file=',commandArgs())]))
+source(file.path(dirname(script),'wnominate_full.R'))
+folder<-normalizePath(a[1]);query<-normalizePath(a[2]);output<-a[3];sealpath<-normalizePath(a[4])
+stopifnot(!file.exists(output),!file.exists(paste0(output,'.manifest.json')))
+mf<-file.path(folder,'manifest.json');mh<-sha256(mf);qh<-sha256(query)
+seal<-fromJSON(sealpath,simplifyVector=FALSE)
+stopifnot(identical(seal$test_authorized,TRUE),seal$query_sha256==qh,seal$fit_manifest_sha256==mh)
+m<-fromJSON(mf,simplifyVector=FALSE)
+for(name in names(m$output_hashes))stopifnot(sha256(file.path(folder,name))==m$output_hashes[[name]])
+r<-readRDS(file.path(folder,'raw_fit_with_input_mapping.rds'));fit<-r$fit;ui<-r$person_index;ji<-r$pair_index
+users<-as.matrix(fit$legislators[,c('coord1D','coord2D')]);mid<-as.matrix(fit$rollcalls[,c('midpoint1D','midpoint2D')]);spread<-as.matrix(fit$rollcalls[,c('spread1D','spread2D')])
+stopifnot(nrow(users)==length(ui),nrow(mid)==length(ji),identical(rownames(users),r$rc_person_names))
+good_u<-apply(users,1,function(v)all(is.finite(v)));good_j<-apply(mid,1,function(v)all(is.finite(v)))&apply(spread,1,function(v)all(is.finite(v)))
+stopifnot(all(is.finite(c(fit$beta,fit$weights))))
+rows<-read.csv(query);stopifnot(all(c('person_index','pair_index','source_id','vote')%in%names(rows)),!anyDuplicated(rows$source_id),all(rows$vote%in%c(0,1)))
+u<-match(rows$person_index,ui);j<-match(rows$pair_index,ji);ok<-!is.na(u)&!is.na(j);ok[ok]<-good_u[u[ok]]&good_j[j[ok]]
+rows$covered<-ok;rows$probability<-NA_real_
+if(any(ok))rows$probability[ok]<-native_probability(users,mid,spread,fit$beta,fit$weights,u[ok],j[ok])
+stopifnot(all(is.finite(rows$probability[ok])))
+for(name in names(m$output_hashes))stopifnot(sha256(file.path(folder,name))==m$output_hashes[[name]])
+stopifnot(sha256(query)==qh,sha256(mf)==mh)
+dir.create(dirname(output),recursive=TRUE,showWarnings=FALSE)
+write.csv(rows,paste0(output,'.tmp'),row.names=FALSE);stopifnot(file.rename(paste0(output,'.tmp'),output))
+atomic_json(list(kind='wnominate',status='COMPLETE',fit_manifest_sha256=mh,query_sha256=qh,test_seal_sha256=sha256(sealpath),source_sha256=sha256(script),n_rows=nrow(rows),n_covered=sum(ok),n_people_covered=length(unique(rows$person_index[ok])),output_sha256=sha256(output),test_read=TRUE),paste0(output,'.manifest.json'))

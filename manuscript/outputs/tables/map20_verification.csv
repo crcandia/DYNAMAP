@@ -1,0 +1,8 @@
+check,passed
+original_split_and_age_eligibility_retained,True
+self_placement_5_included_in_global,True
+case3_original_selection_and_effect_reproduced,True
+case7_selection_lock_unchanged,True
+all_selected_proposals_retained,True
+global_bootstrap_and_permutations_finite,True
+case_bootstrap_failures_reported,True

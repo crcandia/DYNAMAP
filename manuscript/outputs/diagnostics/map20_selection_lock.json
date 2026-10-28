@@ -1,0 +1,63 @@
+{
+  "anchor_rule": "maximum median discovery rank IQR across five fits, eligible by exposure only, ties by ID",
+  "case3_anchor": 37,
+  "case3_ids": [
+    37,
+    72,
+    57,
+    78,
+    66,
+    55
+  ],
+  "case7_anchor": 86,
+  "case7_ids": [
+    86,
+    6,
+    85,
+    20,
+    34,
+    45
+  ],
+  "case7_thresholds": [
+    {
+      "anchor_id": 86,
+      "far_threshold": 0.4943218868798185,
+      "label": 7,
+      "near_threshold": 0.39677016387556474,
+      "seed": 101
+    },
+    {
+      "anchor_id": 86,
+      "far_threshold": 0.45919177109176607,
+      "label": 7,
+      "near_threshold": 0.36420990223189753,
+      "seed": 201
+    },
+    {
+      "anchor_id": 86,
+      "far_threshold": 0.47141493755292274,
+      "label": 7,
+      "near_threshold": 0.36491003203270966,
+      "seed": 301
+    },
+    {
+      "anchor_id": 86,
+      "far_threshold": 0.407049094685818,
+      "label": 7,
+      "near_threshold": 0.29514506983685773,
+      "seed": 401
+    },
+    {
+      "anchor_id": 86,
+      "far_threshold": 0.47844919077118075,
+      "label": 7,
+      "near_threshold": 0.3496715735829982,
+      "seed": 501
+    }
+  ],
+  "case_bootstraps": 2000,
+  "global_bootstraps": 1000,
+  "phase_salt": "dynamap-within-label-20261014:",
+  "position_permutations": 499,
+  "random_seed": 20261015
+}

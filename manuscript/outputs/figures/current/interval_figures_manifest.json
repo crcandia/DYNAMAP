@@ -1,0 +1,35 @@
+{
+  "inputs": {
+    "Chile_overall_participants.csv": {
+      "sha256": "318c2751c3ce8f7bf5ebd0ca967f0f03b70a326dfb2006288b7c1cb47320e720",
+      "source": "outputs/tables/spatial/Chile_overall_participants.csv"
+    },
+    "Chile_sex_participants.csv": {
+      "sha256": "a806b0565358fef4ed37ba548ea5418fc72de7cfe9a4467d78f7b26636fcc678",
+      "source": "outputs/tables/spatial/Chile_sex_participants.csv"
+    },
+    "Chile_cohort_participants.csv": {
+      "sha256": "b6a1f8bfd94c6cd18ec6bb71528158aec5802b721d415a0b87722c2efe3bf786",
+      "source": "outputs/tables/spatial/Chile_cohort_participants.csv"
+    },
+    "separation_summaries.csv": {
+      "sha256": "ffeda7c69ad2982c02b9c9c4d7aa5e1d56ecce3fc55759961f728c3f823e0e26",
+      "source": "outputs/tables/spatial/separation_summaries.csv"
+    }
+  },
+  "country_pc1_panel_sha256": "bf98eca70afbab875cf582009132621b014484ab8e216c60463427324849ac0b",
+  "intervals_sha256": "6282e0ff70b89f6c812eda0296d20cb545bbe333244720e5a8612c86d8f3d01f",
+  "output_sha256": {
+    "Fig4.pdf": "de5bc5d0ddec04be454f241a678fd630ffa2049ec785434be597ea2c9aec3db4",
+    "Fig4.png": "88c7d2d67ec8255ba1617f9225a5024a92009e675cc0984f3b137cc348c0c443",
+    "FigS11_Overall-Separation.pdf": "445d3457a2dc37451a188aa018cb9c72d00dad2c086e19daea44f9a2ab7b1944",
+    "FigS11_Overall-Separation.png": "c944553d2c227baac5395d69cf18526bf551fd71d27e5d8698cd01ac4124bcdc",
+    "FigS12_Separation-by-Sex.pdf": "dbaa615f68d3916051c51eaea4592d90329180488be1278bbdb1ff0486f68b8a",
+    "FigS12_Separation-by-Sex.png": "029c22aafd322d670e1ed5561d2b1d82cbaffdf33aa8688113e922b4f87d630e",
+    "FigS13_Separation-by-Cohort.pdf": "7908d0a62cf88f67f36229c7e919637d235b2b02e8bb6f3c5bffa95e634859d9",
+    "FigS13_Separation-by-Cohort.png": "3f7b5211bf4f6a8f13dd64b043f1f555aae9b46c3e0ce70b3992690e3e3765a3",
+    "Fig3_combined.pdf": "40f028a35388ade3ea0005a683b838c0069bdcdfb1d4c2f86e23568b41f700ec"
+  },
+  "all_source_text_tokens_preserved": true,
+  "raster_images_in_composition": 0
+}

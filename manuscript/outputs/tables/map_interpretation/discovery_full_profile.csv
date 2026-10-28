@@ -1,0 +1,91 @@
+proposal_id,Near,Middle,Far,gap_far_minus_near,short_name,full_text,topic
+1,36.14638157894737,38.54276315789474,38.35960591133005,2.21322433238268,Farmacias,Creación de Farmacias Populares,Salud
+2,77.27138157894737,81.17269736842105,85.02298850574712,7.751606926799752,Marihuana,Legalización de la Marihuana,Salud
+3,19.80592105263158,14.585526315789474,13.70607553366174,-6.099845518969838,Cárcel Cohecho,Cárcel Efectiva para Soborno y Cohecho,Política Criminal
+4,16.258223684210527,27.13980263157895,47.33990147783251,31.081677793621985,Retiro AFP,Retiro Anticipado Fondo de Pensiones,Pensiones
+5,80.43092105263158,74.65460526315789,57.91954022988506,-22.511380822746517,Más Metro,Crear Nuevas Líneas de Metro,Vivienda y Transporte
+6,5.847039473684211,4.603618421052632,26.770114942528735,20.923075468844523,Agua,Desprivatización del Agua,Economía
+7,27.33717105263158,22.38486842105263,16.474548440065682,-10.862622612565897,Sename,Reforma Sename,Política social y ciudadanía
+8,55.94901315789474,47.6546052631579,31.801313628899837,-24.147699528994902,Narcotráfico,Lucha contra el Narcotráfico,Política Criminal
+9,42.5016447368421,51.70888157894737,58.36945812807882,15.867813391236716,Termoeléctricas,Adelantar Cierre Termoeléctricas,Medio Ambiente
+10,68.90131578947368,63.875,49.44006568144499,-19.461250108028693,Voto Obligatorio,Voto Obligatorio,Democracia
+11,86.23026315789474,85.05592105263158,81.76354679802955,-4.466716359865188,Educación RRSS,Educación sobre uso de Redes Sociales,Educación
+12,39.26809210526316,37.41776315789474,39.970443349753694,0.7023512444905364,Zonas de Sacrificio,Regulación y Fiscalización de Empresas en Zonas de Sacrificio,Medio Ambiente
+13,56.39802631578947,58.10690789473684,54.2183908045977,-2.179635511191769,Impuesto al Carbono,Aumento de Impuesto al Carbono,Medio Ambiente
+14,62.6233552631579,58.588815789473685,53.97701149425287,-8.646343768905027,Subsidio Luz,Subsidio al precio de la electricidad,Economía
+15,64.48355263157895,60.75986842105263,58.320197044334975,-6.16335558724397,Subsidio Agua,Subsidio al precio del agua,Economía
+16,81.68256578947368,79.5345394736842,72.76026272577997,-8.922303063693718,Bibliotecas,Modernización Bibliotecas,Educación
+17,19.286184210526315,13.583881578947368,12.280788177339902,-7.005396033186413,Salario Profesores,Aumento Salario Profesores,Educación
+18,28.807565789473685,23.95230263157895,16.885057471264368,-11.922508318209317,IVA medicamentos,Reducción IVA a los Medicamentos,Política Tributaria
+19,64.21052631578948,56.76315789473684,44.96387520525452,-19.246651110534962,IVA libros,Reducción IVA a los libros,Política Tributaria
+20,76.59210526315789,69.81414473684211,50.50410509031199,-26.088000172845902,Notarios,Reforma o fin de sistema de Notarios,Modernización del Estado
+21,33.754934210526315,28.25657894736842,20.213464696223316,-13.541469514303,Dieta Parlamentaria,Reducción Dieta Parlamentaria,Modernización del Estado
+22,78.03947368421052,76.68256578947368,73.44663382594418,-4.592839858266345,Terrenos Fronterizos,Prohibición Compra de Terrenos Fronterizos a Extranjeros,Modernización del Estado
+23,2.4342105263157894,5.685855263157895,39.17569786535304,36.74148733903725,Nueva Constitución,Nueva Constitución para Chile,Modernización del Estado
+24,40.01151315789474,36.41776315789474,29.530377668308702,-10.481135489586038,Subsidio Vivienda,Subsidio Vivienda,Vivienda y Transporte
+25,38.33552631578947,32.66447368421053,21.367816091954023,-16.96771022383545,Ciencia y Tecnología,Aumentar Inversión en Ciencia y Tecnología a 1% del PIB,Educación
+26,48.764802631578945,50.8733552631579,49.2807881773399,0.5159855457609552,Camara Única,Reducción del Parlamento a una Camara Única,Reforma Congreso
+27,69.36019736842105,69.08059210526316,63.39244663382594,-5.967750734595114,Armas de Fuego,Restricción Venta y Uso de Armas de Fuego,Política Criminal
+28,61.29440789473684,57.108552631578945,44.06896551724138,-17.22544237749546,Protección Consumidor,Aumentar la Protección del Consumidor,Economía
+29,66.63651315789474,63.35032894736842,61.83251231527094,-4.8040008426238,Matrimonio Igualitario,Matrimonio Igualitario,Política Social y Ciudadanía
+30,33.79934210526316,28.654605263157894,20.26929392446634,-13.530048180796818,Programas Intervención,Programas de Intervención para Niños y Jóvenes de Alto Riesgo,Política Social y Ciudadanía
+31,28.08388157894737,46.68421052631579,66.1264367816092,38.04255520266183,Fuerzas Armadas,Reforma Fuerzas Armadas,Modernización del Estado
+32,16.99671052631579,11.94078947368421,14.123152709359607,-2.8735578169561844,Cárcel Colusión,Cárcel efectiva para Delitos de Colusión,Política Criminal
+33,14.139802631578947,10.325657894736842,17.93103448275862,3.7912318511796723,Cárcel Impuestos,Cárcel efectiva para Delitos Tributarios (evasión de impuestos),Política Criminal
+34,68.1842105263158,59.01315789473684,40.770114942528735,-27.41409558378706,Reducción Parlamento,Reducción Número de Parlamentarios,Reforma Congreso
+35,81.49506578947368,77.90789473684211,67.14449917898193,-14.350566610491754,Impuestos a vicios,"Aumentar Impuesto al Alcohol, Tabaco, y Comida Chatarra",Política Tributaria
+36,74.8125,72.0032894736842,59.51888341543514,-15.293616584564859,Información Personal,Resguardar y Proteger Información Personal,Política Social y Ciudadanía
+37,2.898026315789474,21.16282894736842,66.42857142857143,63.53054511278196,Asamblea Constituyente,Asamblea Constituyente,Modernización del Estado
+38,75.65625,74.21381578947368,65.20853858784893,-10.447711412151065,Custodia Compartida,Custodia compartida de hijos de padres separados,Modernización del Estado
+39,35.61677631578947,29.19407894736842,19.39737274220033,-16.219403573589144,Adulto Mayor,Red de Cuidado Adulto Mayor,Salud
+40,11.263157894736842,32.71217105263158,66.20032840722496,54.937170512488116,Pueblos Originarios,Reivindicación y Apoyo de Pueblos Originarios,Modernización del Estado
+41,7.9292763157894735,14.804276315789474,46.82101806239737,38.8917417466079,Litio Estatal,Estatización del Litio,Economía
+42,42.16776315789474,38.77302631578947,32.354679802955665,-9.813083354939074,Aporte Empleador a AFP,Aporte del Empleador a Fondo de Pensiones,Pensiones
+43,38.04111842105263,39.40296052631579,46.297208538587846,8.256090117535216,Glaciares,Inviolabilidad de Glaciares,Medio Ambiente
+44,73.59539473684211,72.28618421052632,61.13628899835796,-12.459105738484148,Bicicletas,Inversión infrastructura cicloviaria,Vivienda y Transporte
+45,29.949013157894736,24.55921052631579,16.829228243021348,-13.119784914873389,Contribuciones,Reducción Contribuciones de Adultos Mayores Vulnerables,Política Tributaria
+46,23.356907894736842,19.067434210526315,14.604269293924466,-8.752638600812377,Transporte Tercera Edad,Transporte Público Gratuito para Ciudadanos de la Tercera Edad,Vivienda y Transporte
+47,78.76809210526316,72.95065789473684,56.254515599343186,-22.51357650591998,Bilingüe,Promover Educación Bilingüe (Inglés),Educación
+48,66.69407894736842,61.2516447368421,46.07717569786535,-20.616903249503075,Ficha Médica Digital,Establecer Ficha Médica Digital Universal,Salud
+49,88.35690789473684,87.29111842105263,81.8768472906404,-6.480060604096437,Venta de Alcohol,"Restringir Venta de Alcohol en Delivery, Supermercados, o por Horario",Salud
+50,66.89967105263158,57.9358552631579,43.74384236453202,-23.155828688099554,Cuoteo Diplomático,Eliminar Cuoteo Político en Posiciones Diplomáticas,Modernización del Estado
+51,49.84703947368421,42.77138157894737,31.448275862068964,-18.398763611615248,Reelección de Alcaldes,"Limitar Reelección de Alcaldes, Parlamentarios y Presidentes",Democracia
+52,89.52960526315789,87.03289473684211,80.54679802955665,-8.982807233601235,Edad de Jubilación,Aumento Edad de Jubilación,Pensiones
+53,36.20559210526316,41.1875,43.76847290640394,7.5628808011407855,Sistema Salud para Electos,Uso Obligatorio de Sistema de Salud Público para Funcionarios Electos,Modernización del Estado
+54,60.30263157894737,61.10361842105263,57.476190476190474,-2.8264411027568954,Transbank,Fin al Monopolio de Transbank,Economía
+55,14.723684210526315,9.026315789473685,12.35960591133005,-2.364078299196265,Pensión Mínima,Pensión Mínima Igual o Mayor al Sueldo Mínimo,Pensiones
+56,20.361842105263158,14.93421052631579,13.180623973727421,-7.181218131535736,Seguro Universal,Seguro Universal de Salud,Salud
+57,4.2055921052631575,25.148026315789473,67.33497536945812,63.12938326419496,Derechos Humanos,Investigación Judicial de Violaciones Recientes a los Derechos Humanos,Política Criminal
+58,22.911184210526315,51.973684210526315,79.09852216748769,56.18733795696137,Retiro FFAA,Retiro de Fuerzas Armadas,Seguridad
+59,23.53125,45.23684210526316,70.12972085385879,46.598470853858785,Toque de Queda,Fin de Toque de Queda,Seguridad
+60,55.7203947368421,49.921052631578945,32.91133004926108,-22.80906468758102,Educación Técnico Profesional,Mejorar Educación Técnico Profesional,Educación
+61,52.36513157894737,46.56907894736842,30.55665024630542,-21.80848133264195,Estructura Productiva,Diversificar la Economía,Economía
+62,50.4983552631579,46.577302631578945,32.23316912972086,-18.26518613343704,Aumento de Médicos,Aumento de Cupos en Especialidades Médicas,Salud
+63,55.54440789473684,50.80427631578947,34.151067323481115,-21.393340571255727,Sala Cuna,Acceso Universal a Sala Cuna,Educación
+64,33.86513157894737,28.151315789473685,18.407224958949097,-15.457906619998273,Enfermedades Catastróficas,Creación del Seguro de Enfermedades Catastróficas,Salud
+65,64.09868421052632,57.82236842105263,41.47126436781609,-22.627419842710225,Fonasa Farmacia,Ampliación Convenio Fonasa con Farmacias,Salud
+66,46.27138157894737,39.625,28.655172413793103,-17.616209165154267,Elección Parlamentarios,Limitar la Reeleción de Parlamentarios y Parlamentarias,Democracia
+67,13.912828947368421,22.730263157894736,43.02134646962233,29.10851752225391,Participación Directa,Aumentar Instancias de Participación Ciudadana Directa,Democracia
+68,48.44078947368421,46.57072368421053,35.106732348111656,-13.334057125572556,Fondo Común Municipal,Fortalecimiento del Fondo Común Municipal,Modernización del Estado
+69,63.952302631578945,58.79934210526316,43.600985221674875,-20.35131740990407,Espacios Públicos,Creación de Más y Mejores Espacios Públicos,Política Social y Ciudadanía
+70,39.31578947368421,34.8733552631579,25.97536945812808,-13.340420015556134,Pilar Solidario,Mejorar Aporte del Estado a Pensiones de los Más Necesitados,Pensiones
+71,88.86184210526316,86.10197368421052,77.64039408866995,-11.221448016593214,Periodo Presidencial,Extender Periodo Presidencial a 6 años,Modernización del Estado
+72,12.942434210526315,52.78453947368421,85.07224958949097,72.12981537896465,Provincias,Reducir Número de Provincias,Modernización del Estado
+73,12.023026315789474,19.138157894736842,42.86371100164204,30.840684685852565,Ley de Pesca,Derogación Ley de Pesca,Economía
+74,7.824013157894737,21.476973684210527,55.568144499178985,47.744131341284245,40 Horas,Reducción de Jornada Laboral a 40 horas,Laboral
+75,44.348684210526315,44.86348684210526,51.39408866995074,7.045404459424425,Cambio de Gabinete,Cambio de Gabinete,Modernización del Estado
+76,26.851973684210527,22.601973684210527,19.09688013136289,-7.755093552847637,Sueldo Altos Funcionarios,Reducción sueldos altos funcionarios públicos,Modernización del Estado
+77,48.82236842105263,48.14309210526316,50.75369458128079,1.93132616022816,Franquicias tributarias,Eliminación de franquicias tributarias a las ganacias de capital para acciones,Política Tributaria
+78,49.15625,42.44901315789474,29.295566502463053,-19.860683497536947,Sistema Electoral,Eliminación de elección de parlamentarios por arrastre,Democracia
+79,84.2532894736842,81.78125,77.29064039408867,-6.962649079595536,Vías Exclusivas,Más Vías Exclusivas para Buses,Vivienda y Transporte
+80,86.74177631578948,84.23355263157895,75.22167487684729,-11.520101438942191,Autopistas,Más Autopistas Urbanas,Vivienda y Transporte
+81,58.66776315789474,64.47368421052632,71.66338259441707,12.995619436522333,Viviendas Integradas,Integracion de Viviendas Sociales en Edificios Particulares,Vivienda y Transporte
+82,55.35361842105263,61.30263157894737,66.63054187192118,11.276923450868551,Barrios Integrados,Integración de Viviendas Sociales en Barrios Altos,Vivienda y Transporte
+83,79.35032894736842,77.39473684210526,72.49096880131363,-6.859360146054797,Edad Máxima,Edad Máxima para candidaturas a Cargos Políticos,Modernización del Estado
+84,59.151315789473685,54.12171052631579,46.77504105090312,-12.376274738570565,Libre de Carbono,Chile Libre de Carbono al 2040,Medio Ambiente
+85,8.648026315789474,5.157894736842105,19.894909688013136,11.246883372223662,Progresividad de Impuestos,Aumentar progresividad de impuestos (más impuestos a Súper Ricos),Política Tributaria
+86,5.870065789473684,11.28125,39.97701149425287,34.106945704779186,CAE,Condonación de las deudas del Crédito con Aval del Estado (CAE),Educación
+87,24.286184210526315,19.625,14.70935960591133,-9.576824604614986,Sueldo Mínimo,Aumentar el Sueldo Mínimo,Laboral
+88,6.159539473684211,23.74671052631579,61.13300492610838,54.973465452424165,Plebiscitos Nacionales,Habilitar plebiscitos nacionales.,Democracia
+89,56.05427631578947,48.807565789473685,37.264367816091955,-18.789908499697518,Autonomía Regional,Entregar más autonomía a las regiones en su gobernanza.,Modernización del Estado
+90,26.66282894736842,22.501644736842106,16.561576354679804,-10.101252592688617,Límite Precio Medicamentos,Limitar Precio o Ganacia de Medicamentos,Salud

@@ -1,0 +1,8 @@
+ID,Estimator,Choice representation,Joint map,Role in study
+B2,DYNAMAP,Squared-distance difference multiplied by a learned positive symmetric function (105 choice parameters).,Yes,Main maps; 2D prediction; 1D resources; matched head ablation.
+B1,Constant-scale DYNAMAP,Squared-distance difference multiplied by one learned positive constant.,Yes,2D prediction; 1D resources.
+B4,Flexible-head DYNAMAP,"Shared exponential transformations of per-coordinate squared differences, followed by a learned choice layer (20 choice parameters in 2D).",Yes,2D prediction; matched head ablation.
+B3,Matrix factorization,Participant--proposal inner products with a bias for each proposal.,No,2D prediction.
+WN,W-NOMINATE,Participant ideal points and separate outcome locations for each proposal pair.,No,2D prediction and runtime.
+--,Bayesian IRT,Probit model with participant ideal points and pair-specific intercepts and discriminations; posterior sampling.,No,2D estimation diagnostics.
+--,EM-IRT,Probit model with participant ideal points and pair-specific intercepts and discriminations; expectation maximization.,No,1D resources and validation quality.

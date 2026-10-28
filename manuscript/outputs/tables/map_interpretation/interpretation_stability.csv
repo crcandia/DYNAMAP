@@ -1,0 +1,25 @@
+membership,phase,proposal_id,role,positive_gap_fits,same_discovery_direction_fits,min_gap,max_gap,near_priority_top30_fits,far_priority_top30_fits,shared_rule_fits
+Fixed 101 sectors,confirmation,37,Focal,5,5,44.17522693026652,65.81154043319991,5,0,0
+Fixed 101 sectors,confirmation,55,Shared,4,1,-1.696684979883079,3.8952910351541252,5,5,5
+Fixed 101 sectors,confirmation,57,Near-distinctive,5,5,44.1026584369385,63.950150423827544,5,0,0
+Fixed 101 sectors,confirmation,66,Far-distinctive,0,5,-15.70170255953521,-12.645696221539865,0,0,0
+Fixed 101 sectors,confirmation,72,Near-distinctive,2,2,-6.1025522858725765,72.79669481827456,1,0,0
+Fixed 101 sectors,confirmation,78,Far-distinctive,0,5,-19.004921784787776,-12.571646791389853,0,1,0
+Fixed 101 sectors,discovery,37,Focal,5,5,43.31007745657247,63.53054511278196,5,0,0
+Fixed 101 sectors,discovery,55,Shared,2,3,-2.364078299196265,2.1159147869674193,5,5,5
+Fixed 101 sectors,discovery,57,Near-distinctive,5,5,43.212667984616715,63.12938326419496,5,0,0
+Fixed 101 sectors,discovery,66,Far-distinctive,0,5,-17.616209165154267,-12.943744058421917,0,1,0
+Fixed 101 sectors,discovery,72,Near-distinctive,2,2,-5.560633804338423,72.12981537896465,1,0,0
+Fixed 101 sectors,discovery,78,Far-distinctive,0,5,-19.860683497536947,-13.334653984098175,0,3,0
+Seed-specific sectors,confirmation,37,Focal,5,5,54.91345854912458,65.81154043319991,5,0,0
+Seed-specific sectors,confirmation,55,Shared,4,1,-1.696684979883079,3.8463834967006214,5,5,5
+Seed-specific sectors,confirmation,57,Near-distinctive,5,5,54.04975267732796,63.950150423827544,5,0,0
+Seed-specific sectors,confirmation,66,Far-distinctive,0,5,-18.023102056505863,-13.360030136268346,0,0,0
+Seed-specific sectors,confirmation,72,Near-distinctive,2,2,-11.153353914794863,72.79669481827456,1,0,0
+Seed-specific sectors,confirmation,78,Far-distinctive,0,5,-20.41844772079697,-13.236821681986775,0,2,0
+Seed-specific sectors,discovery,37,Focal,5,5,54.55210223835451,66.24794745484401,5,0,0
+Seed-specific sectors,discovery,55,Shared,4,1,-2.364078299196265,1.875205254515599,5,5,5
+Seed-specific sectors,discovery,57,Near-distinctive,5,5,53.76682006740991,63.12938326419496,5,0,0
+Seed-specific sectors,discovery,66,Far-distinctive,0,5,-20.30377668308703,-14.397372742200329,0,1,0
+Seed-specific sectors,discovery,72,Near-distinctive,2,2,-9.592529275775647,72.12981537896465,1,0,0
+Seed-specific sectors,discovery,78,Far-distinctive,0,5,-21.538406900872868,-14.509031198686369,0,3,0

@@ -2,11 +2,21 @@
 
 ## Manuscript replication package
 
-The current manuscript package is in [`manuscript/`](manuscript/README.md). It contains 18 independently executable notebooks, the source and processed data, fitted models, and the figures and tables used in the manuscript. Start with its [README](manuscript/README.md) and [data guide](manuscript/data/README.md).
+The replication package for *Mapping mass ideological organization from comparative policy choices* is in [`manuscript/`](manuscript/README.md), on branch `manuscript/review-2026-09-28`. It includes the source and processed data, fitted maps, notebooks, and the current three-country benchmarks. Start with its [README](manuscript/README.md) and [data guide](manuscript/data/README.md).
 
 This package uses **Python 3.10** and its own [`requirements.txt`](manuscript/requirements.txt). Run its notebooks from `manuscript/` or `manuscript/notebooks/`. They display live figures and tables and save the generated outputs. The included models can be reevaluated without retraining.
 
-The two large source CSV files use Git LFS. Install Git LFS, run `git lfs install`, and run `git lfs pull` after cloning. Keep the package folder structure intact.
+The two large source CSV files use Git LFS. Install Git LFS, then clone this branch and retrieve its data:
+
+```sh
+git lfs install
+git clone --branch manuscript/review-2026-09-28 https://github.com/crcandia/DYNAMAP.git
+cd DYNAMAP
+git lfs pull
+cd manuscript
+```
+
+Keep the package folder structure intact. The [benchmark instructions](manuscript/benchmarks/README.md) distinguish regenerating the published tables from repeating the model fits.
 
 ## Original implementation
 

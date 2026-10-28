@@ -1,0 +1,62 @@
+{
+  "inputs": {
+    "data/processed/map_interpretation/101/coordinates.csv": "e0ecd87a4e64ffff3c48cfcb0c151e11d0f7beec23d05b656c469e4aea03ba78",
+    "data/processed/map_interpretation/101/proposals.csv": "fa482a1c94bdfa9869065d05512a70d24535abc43ee51ae9e03445ed987e8bb8",
+    "data/processed/map_interpretation/201/coordinates.csv": "e4f23f9855ce380bd47b6863c61291ee83870d9becf8dffc6046eef794e2df66",
+    "data/processed/map_interpretation/201/proposals.csv": "4eb551d5301a83ac430738a887d59425072e91f008822a2b357ae45125768f4d",
+    "data/processed/map_interpretation/301/coordinates.csv": "a7763c7bb4eefbfdd1f68a973b444f4e7e0f331dab76c453664da41c4ad337f2",
+    "data/processed/map_interpretation/301/proposals.csv": "31c48974a73ceea933287e60e5045b14b7db1d82242f5dc08d50c50c52cf9c10",
+    "data/processed/map_interpretation/401/coordinates.csv": "9d1cf116ab87b41a641d010ac9348c6850c8feb05df7473fbd95e906af430a82",
+    "data/processed/map_interpretation/401/proposals.csv": "2dffbf322672ddb01c0b9121c8778543360af502149fbd922f0a9fd25c03cbfb",
+    "data/processed/map_interpretation/501/coordinates.csv": "45fb96b52e5211259c6b8d0dacbb574e57b27ba30720965892d7f50d4ff2a170",
+    "data/processed/map_interpretation/501/proposals.csv": "a322c0e8ebf77ed88bf23baac2d477515f4ec57f5b3870292e16e32f0d92f93e",
+    "data/processed/map_interpretation/README.md": "1ea5c37f87e39ac2a58a910a66dacbe8ef8992c12cb9f88984f49fc6dac15e25",
+    "data/processed/map_interpretation/age_eligibility.csv": "863228713ed9c988fce978f8e17b420e59ebfc9ad4092ea63fd5b486b29f3d45",
+    "data/processed/map_interpretation/confirmation_choices.parquet": "64d6b4234818527bc4c0460b86e55c7a7e48a332a6824fcbea90245178112bf0",
+    "data/processed/map_interpretation/figure_labels.csv": "68531ae0647d3c562e406a676b95fede11465faf2df54fdabd6a68c37f13bd3e",
+    "data/processed/map_interpretation/participants.csv": "7dba547b10db262793e25099bc3eee598ce51fb0321e461c4ad4664a6882e8d8",
+    "data/processed/map_interpretation/proposal_texts.tsv": "6fc130cf38735259a8a488c618dc222caac8ecb8d4463b042ff9ad597bc632c7",
+    "data/processed/map_interpretation/sector_thresholds.csv": "027104c6e0ce9c9669dca2072fa7d8d6070f52b3b383eab287d4021f5b195a2f",
+    "data/processed/map_interpretation/selection_lock.json": "23c54bf1db4f0738130052d2dace3f94159f79dab53b021e34c719ea7be232c7",
+    "data/processed/map_interpretation/selection_protocol.md": "c04c579480cd2bd9776f694588cab9c9cf44cca242450dd67fe924a8ad701e46"
+  },
+  "outputs": {
+    "outputs/figures/map_interpretive_value.pdf": "071f4dfc312c2ff64604e3cdd7106eaf0a2781b368a0390eb3b85e855a9257dd",
+    "outputs/figures/map_interpretive_value.png": "711d00fac7de1953e879c1ab8db54c20cfc7db34fc9a9cdc5ca92018944be75d",
+    "outputs/tables/map_interpretation/bootstrap_replicates.csv": "a4ea57a4bfeaea90790e49189525188b376076eac0d87d1dea8f892849fcbd2f",
+    "outputs/tables/map_interpretation/complete_90_proposal_profiles.csv": "f0b38cc8c6b2644d33e8ca61e312b52c8fefa8e82ef4b9b22eb35ab1a98e3fe0",
+    "outputs/tables/map_interpretation/discovery_full_profile.csv": "41ed0d737c9f702adcf04a3081649a6da28f32cf7ecb1259fb689c2a26cf66fe",
+    "outputs/tables/map_interpretation/interpretation_stability.csv": "0fc14780f594bf89250b49fdbd7059bc00ad065e57bcdaaa85398464b648a577",
+    "outputs/tables/map_interpretation/observed_choice_differences.csv": "b38bdf33eb89f76831a84927a2c2690b6805fa124289a765d57068a1092af173",
+    "outputs/tables/map_interpretation/opponent_support.csv": "997a76e2028cde1716dcd2238d9b50b63b8449b6758e75665303a065debc0e1f",
+    "outputs/tables/map_interpretation/panel_a_participants.csv": "40f3c5ef43d121874e3fea004685a0bd7e4a07acf2c01dbb714bf19e9e3f4791",
+    "outputs/tables/map_interpretation/panel_a_proposals.csv": "4c539061ddfc83382eb3a52f400f61134748330720727b14ee2399c31fc341d2",
+    "outputs/tables/map_interpretation/panel_b_rankings.csv": "bdf69b1dcdb5263642745792477a494c6bfe840d6d7fc1632449d9d8bf692422",
+    "outputs/tables/map_interpretation/panel_c_choices.csv": "b38bdf33eb89f76831a84927a2c2690b6805fa124289a765d57068a1092af173",
+    "outputs/tables/map_interpretation/participant_sectors.csv": "33265b624a54f11411e65e8e2b39a9b519b0b9f0d446a2db03f099fe3e75945e",
+    "outputs/tables/map_interpretation/sector_agreement.csv": "50be5653c35f44ad2dbb98f202f8c49dff704948914ccdc5b55d634156ada34f",
+    "outputs/tables/map_interpretation/sector_counts.csv": "8fb65c41256a9d8600a10e5b39846e316e3bb8608295d217ce8e7eff2d36870e",
+    "outputs/tables/map_interpretation/sector_memberships.csv": "538f2349b4d5e708006d66bdc84f4de61d905cacfca18621d305f3e3f65922ec",
+    "outputs/tables/map_interpretation/sector_transitions.csv": "26312e19d3a679bd6571c09b6f8e5c380e363f2a03482b36658bdcd4113bf68c",
+    "outputs/tables/map_interpretation/selected_confirmation_choices.parquet": "0e23104d69de34b9d9a9858194a1690a5d1552e90282fb5d2fdfbc08887a3f1e",
+    "outputs/tables/map_interpretation/selected_profile_stability.csv": "9174445fb69ba4e045d26704bcd29a8d37ff73eb4eb15adf3f1888952fc9ff3f",
+    "outputs/tables/map_interpretation/selected_proposals.csv": "9c6546bd27d3e8638f665787c78d363542e8a0a7c1c81860a35772bf5591793a",
+    "outputs/tables/map_interpretation/selected_source_texts.csv": "5ec61dbe8418e1745558e8567c77ce6d40890c8630f300659c962862c7ab9708",
+    "outputs/tables/map_interpretation/verification.csv": "0f2bb2697f0cc5f78955a77e01d059e2934e1448d79616a412d9902c780d210b"
+  },
+  "parameters": {
+    "seeds": [
+      101,
+      201,
+      301,
+      401,
+      501
+    ],
+    "focal_id": 37,
+    "bootstrap": 2000,
+    "bootstrap_seed": 20261014,
+    "priority_cutoff": 30,
+    "distinctive_gap": 10,
+    "shared_gap": 5
+  }
+}

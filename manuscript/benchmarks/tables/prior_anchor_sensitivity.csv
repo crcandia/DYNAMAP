@@ -1,0 +1,7 @@
+country,requested_size,variant,status
+chile,5000,item_shrink4,NONCONVERGED_AT_ITERATION_CAP
+chile,5000,alternate_anchors,NONCONVERGED_AT_ITERATION_CAP
+france,1000,item_shrink4,NONCONVERGED_AT_ITERATION_CAP
+france,1000,alternate_anchors,NONCONVERGED_AT_ITERATION_CAP
+brazil,full,item_shrink4,NONCONVERGED_AT_ITERATION_CAP
+brazil,full,alternate_anchors,NONCONVERGED_AT_ITERATION_CAP

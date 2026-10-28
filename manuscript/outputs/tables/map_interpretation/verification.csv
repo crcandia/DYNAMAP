@@ -1,0 +1,8 @@
+check,passed
+exact_label3_participant_ids_unique,True
+all_existing_sector_thresholds_reproduced,True
+selection_lock_unchanged,True
+all_selected_proposals_reported,True
+focal_effect_reproduces_verified_analysis,True
+confirmation_records_unique,True
+all_age_eligibility_decisions_retained,True

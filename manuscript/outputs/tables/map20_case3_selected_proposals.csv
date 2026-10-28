@@ -1,0 +1,7 @@
+figure_number,proposal_id,Near,Middle,Far,gap_far_minus_near,short_name,full_text,topic,role
+1,37,2.898026315789474,21.16282894736842,66.42857142857143,63.53054511278196,Asamblea Constituyente,Asamblea Constituyente,Modernización del Estado,Focal
+2,72,12.942434210526315,52.78453947368421,85.07224958949097,72.12981537896465,Provincias,Reducir Número de Provincias,Modernización del Estado,Near-distinctive
+3,57,4.2055921052631575,25.148026315789473,67.33497536945812,63.12938326419496,Derechos Humanos,Investigación Judicial de Violaciones Recientes a los Derechos Humanos,Política Criminal,Near-distinctive
+4,78,49.15625,42.44901315789474,29.295566502463053,-19.860683497536947,Sistema Electoral,Eliminación de elección de parlamentarios por arrastre,Democracia,Far-distinctive
+5,66,46.27138157894737,39.625,28.655172413793103,-17.616209165154267,Elección Parlamentarios,Limitar la Reeleción de Parlamentarios y Parlamentarias,Democracia,Far-distinctive
+6,55,14.723684210526315,9.026315789473685,12.35960591133005,-2.364078299196265,Pensión Mínima,Pensión Mínima Igual o Mayor al Sueldo Mínimo,Pensiones,Shared

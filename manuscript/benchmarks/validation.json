@@ -1,0 +1,131 @@
+{
+  "predictive_summary_matches_original_metrics": true,
+  "external_classification_matches_saved_fit_average": true,
+  "emirt_summary_matches_three_primary_fit_medians": true,
+  "runtime_totals_match_components": true,
+  "quality_equivalent_pairs_emirt": 0,
+  "quality_comparisons_emirt": 60,
+  "denominators": [
+    {
+      "country": "brazil",
+      "model": "B1",
+      "predictive_people": 443,
+      "test_rows": 9704,
+      "labeled_people": 356,
+      "fits": 3
+    },
+    {
+      "country": "brazil",
+      "model": "B2",
+      "predictive_people": 443,
+      "test_rows": 9704,
+      "labeled_people": 356,
+      "fits": 3
+    },
+    {
+      "country": "brazil",
+      "model": "B3",
+      "predictive_people": 443,
+      "test_rows": 9704,
+      "labeled_people": 356,
+      "fits": 3
+    },
+    {
+      "country": "brazil",
+      "model": "B4",
+      "predictive_people": 443,
+      "test_rows": 9704,
+      "labeled_people": 356,
+      "fits": 3
+    },
+    {
+      "country": "brazil",
+      "model": "W-NOMINATE",
+      "predictive_people": 443,
+      "test_rows": 9704,
+      "labeled_people": 356,
+      "fits": 1
+    },
+    {
+      "country": "chile",
+      "model": "B1",
+      "predictive_people": 27163,
+      "test_rows": 248434,
+      "labeled_people": 15240,
+      "fits": 3
+    },
+    {
+      "country": "chile",
+      "model": "B2",
+      "predictive_people": 27163,
+      "test_rows": 248434,
+      "labeled_people": 15240,
+      "fits": 3
+    },
+    {
+      "country": "chile",
+      "model": "B3",
+      "predictive_people": 27163,
+      "test_rows": 248434,
+      "labeled_people": 15240,
+      "fits": 3
+    },
+    {
+      "country": "chile",
+      "model": "B4",
+      "predictive_people": 27163,
+      "test_rows": 248434,
+      "labeled_people": 15240,
+      "fits": 3
+    },
+    {
+      "country": "chile",
+      "model": "W-NOMINATE",
+      "predictive_people": 27163,
+      "test_rows": 248434,
+      "labeled_people": 15240,
+      "fits": 1
+    },
+    {
+      "country": "france",
+      "model": "B1",
+      "predictive_people": 1141,
+      "test_rows": 172122,
+      "labeled_people": 726,
+      "fits": 3
+    },
+    {
+      "country": "france",
+      "model": "B2",
+      "predictive_people": 1141,
+      "test_rows": 172122,
+      "labeled_people": 726,
+      "fits": 3
+    },
+    {
+      "country": "france",
+      "model": "B3",
+      "predictive_people": 1141,
+      "test_rows": 172122,
+      "labeled_people": 726,
+      "fits": 3
+    },
+    {
+      "country": "france",
+      "model": "B4",
+      "predictive_people": 1141,
+      "test_rows": 172122,
+      "labeled_people": 726,
+      "fits": 3
+    },
+    {
+      "country": "france",
+      "model": "W-NOMINATE",
+      "predictive_people": 1141,
+      "test_rows": 172122,
+      "labeled_people": 726,
+      "fits": 1
+    }
+  ],
+  "note": "No retraining. Point estimates are not ensembles. No missing Bayesian scores imputed."
+}

@@ -1,0 +1,93 @@
+{
+  "inputs_sha256": {
+    "outputs/tables/map20_global_curves.csv": "ee682da6b3d02ada1f0d71935175321157f47548d3b31d4d8f7dd11886e1dffd",
+    "outputs/tables/map20_case_sector_memberships.csv": "72918c5a302235f160afde964c03fb57eef3aeb53e2d25f514a5976561d3d3b6",
+    "outputs/tables/map20_case_profiles_all_fits.csv": "fcd61cf645d0cdbd4f493840ac1b667579bf1b206626c53e260bd59e91993849",
+    "outputs/tables/map20_case_summary.csv": "2187297d999b9faad3c18e1668b3d7e2d642a25a515441303b4e1755c9033e14",
+    "outputs/tables/map20_case_choice_contrasts.csv": "34bb56df8875615d840034d1be5f1677a6e1939b5195cc96f3f531b506b8c530",
+    "outputs/models/Chile_dim2_seed101/coordsU.csv": "3ac15cc2d5f05e21056d0b9a009d981efaf98be5d85f7f0dac55735825b97e2f",
+    "data/processed/map_interpretation/101/coordinates.csv": "e0ecd87a4e64ffff3c48cfcb0c151e11d0f7beec23d05b656c469e4aea03ba78",
+    "outputs/models/Chile_dim2_seed101/coordsP.csv": "fa482a1c94bdfa9869065d05512a70d24535abc43ee51ae9e03445ed987e8bb8"
+  },
+  "outputs_sha256": {
+    "map20_main_both_sides.pdf": "38d9f91111127a82511bcf9e66419cc0c4b71245f4e606b757014bb4937184ad",
+    "map20_main_both_sides.png": "ba1a3d03ac52daa66574a04e4ff28dd3f1dc61828fd6ecea0d731d9f33fde333",
+    "map20_case_selfplacement_3_distance.pdf": "ceab2a1d43bcd62a4d36cf8a792d28900f3a91a426c4618eb829abe3c5952a06",
+    "map20_case_selfplacement_3_distance.png": "073b4883d665bb87b11a52cef932be9773fd4e3625fddbb0903a1aa907ad866b",
+    "map20_case_selfplacement_7_distance.pdf": "e37e82582ac8a73d09f5f0d280c3e1a2be38a75a8111c21a3353bbdf1afc912a",
+    "map20_case_selfplacement_7_distance.png": "28845fe0f24eccb00c20ee2c80a55212ad9ceb0fce1f4f4018dcde48404e62a1"
+  },
+  "panel_order": {
+    "A": "self-placement 3",
+    "B": "self-placement 7",
+    "C": "policy contrasts",
+    "D": "global concordance"
+  },
+  "colors": {
+    "Near": "#762A83",
+    "Middle": "#C7C7C7",
+    "Far": "#1B7837"
+  },
+  "overview_contrasts": [
+    {
+      "number": 1,
+      "self_placement": 3,
+      "proposal_id": 37,
+      "difference_pp": 32.40072202166064,
+      "lower95_pp": 15.284832152255209,
+      "upper95_pp": 48.67683372538718,
+      "common_people": 135,
+      "common_choices": 145
+    },
+    {
+      "number": 2,
+      "self_placement": 3,
+      "proposal_id": 57,
+      "difference_pp": 23.089921544960774,
+      "lower95_pp": 7.1146158679868385,
+      "upper95_pp": 36.54112773747767,
+      "common_people": 167,
+      "common_choices": 182
+    },
+    {
+      "number": 3,
+      "self_placement": 3,
+      "proposal_id": 78,
+      "difference_pp": -11.554779136511103,
+      "lower95_pp": -30.97734993176064,
+      "upper95_pp": 7.548289671249147,
+      "common_people": 130,
+      "common_choices": 150
+    },
+    {
+      "number": 4,
+      "self_placement": 7,
+      "proposal_id": 86,
+      "difference_pp": 15.035238841033674,
+      "lower95_pp": -10.502108257118469,
+      "upper95_pp": 39.73353180543081,
+      "common_people": 90,
+      "common_choices": 97
+    },
+    {
+      "number": 5,
+      "self_placement": 7,
+      "proposal_id": 85,
+      "difference_pp": 38.798950890838384,
+      "lower95_pp": 16.27860292023695,
+      "upper95_pp": 57.733393064614916,
+      "common_people": 103,
+      "common_choices": 114
+    },
+    {
+      "number": 6,
+      "self_placement": 7,
+      "proposal_id": 20,
+      "difference_pp": -20.98765432098765,
+      "lower95_pp": -49.328168728037,
+      "upper95_pp": 11.596493844785174,
+      "common_people": 57,
+      "common_choices": 61
+    }
+  ]
+}

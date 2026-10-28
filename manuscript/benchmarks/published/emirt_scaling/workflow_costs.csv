@@ -1,0 +1,10 @@
+country,model,tuning_observed_wall_seconds,tuning_observed_cpu_seconds,tuning_complete,tuning_planned,primary_observed_wall_seconds,primary_observed_cpu_seconds,primary_complete,primary_planned,supplementary_observed_wall_seconds,supplementary_observed_cpu_seconds,supplementary_complete,supplementary_planned,workflow_observed_wall_seconds,workflow_complete
+brazil,EMIRT,0,0,0,0,32.419999999999995,56.36,6,6,76.18,145.69000000000003,7,7,32.419999999999995,True
+brazil,B1,428.84,428.59000000000003,12,12,248.29,247.63000000000002,6,6,0,0,0,0,677.13,True
+brazil,B2,336.84999999999997,336.59,12,12,157.65,157.26,6,6,0,0,0,0,494.5,True
+france,EMIRT,0,0,0,0,356.21,606.4,9,9,895.66,1671.11,10,10,356.21,True
+france,B1,646.68,646.1,12,12,680.22,680.4,9,9,0,0,0,0,1326.9,True
+france,B2,741.0199999999999,732.6500000000001,12,12,488.93,464.1700000000001,9,9,0,0,0,0,1229.9499999999998,True
+chile,EMIRT,0,0,0,0,5961.38,10451.31,15,15,10978.47,19340.33,16,16,5961.38,True
+chile,B1,438.76,437.66999999999996,12,12,647.5799999999999,633.06,15,15,0,0,0,0,1086.34,True
+chile,B2,582.2299999999999,581.62,12,12,2065.25,2042.56,15,15,0,0,0,0,2647.48,True
